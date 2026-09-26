@@ -1,0 +1,1750 @@
+hotel_name,rating,time_minutes,food_type,location,offer_above,offer_percentage
+McDonald's,4.5 ,27,"Burgers, Beverages, Cafe, Desserts",Kandivali East,75,30
+KFC,4.2 ,30,"Burgers, Biryani, American, Snacks, Fast Food",Kandivali East,80,40
+Domino's Pizza,4.3 ,25,"Pizzas, Italian, Pastas, Desserts",Thakur Village,299,not_available
+Charcoal Eats - Biryani & Beyond,4.3 ,24,"Biryani, Kebabs, Hyderabadi, North Indian",Malad Kan East,100,50
+Sandwizzaa,4.6 ,22,"Snacks, Fast Food, Beverages, Jain",Kandivali East,120,60
+1441 Pizzeria,3.8 ,32,"Italian, Pizzas, Pastas",Kandivali East,120,60
+Hangout Cakes & More,4.4 ,24,"Desserts, Bakery",Borivali West,150,60
+Love & Cheesecake ,4.5 ,14,Desserts,Kandivali East,not_available,not_available
+Nothing But Chicken,4.5 ,22,"Salads, Biryani, Kebabs, Fast Food, Healthy Food",Kandivali East,50,20
+Sweet Bengal,4.6 ,13,"Sweets, Indian, Snacks, Desserts",Kandivali East,50,20
+Atta Girl,4.7 ,27,South Indian,Malad West,not_available,not_available
+NIC Ice Creams,4.7 ,17,"Ice Cream, Desserts",Kandivali East,149,not_available
+Poetry By Love & Cheesecake,4.4 ,34,Desserts,Kandivali West,not_available,not_available
+Havmor Havfunn Ice Cream,4.6 ,18,"Ice Cream, Ice Cream Cakes, Desserts, Beverages",Malad Kan East,not_available,not_available
+NOTO - Ice Creams & Desserts,4.6 ,15,Ice Cream,Kandivali East,799,not_available
+McDonald's Gourmet Burger Collection,4.3 ,26,"Burgers, Beverages, Cafe, Desserts",Malad Kan East,not_available,not_available
+Grameen Kulfi,4.7 ,16,"Ice Cream, Desserts",Kandivali East,99,not_available
+Surbhi Sweets And Snacks,4.2 ,24,"Sweets, Chaat, Snacks, Desserts, Beverages, Indian",Dahisar East,599,not_available
+Jumboking Indian Burger,4.5 ,25,"American, Mexican, Fast Food, Snacks, Beverages",Dahisar East,449,not_available
+Theobroma,4.5 ,23,"Bakery, Desserts",Borivali West,999,not_available
+Amul Real Milk Real Ice Cream,4.3 ,29,Ice Cream,Borivali West,749,not_available
+"Dabba Garam (Homestyle,Combo, Thali & More)",4.5 ,35,"Home Food, North Indian, Thai",Borivali,45,15
+KFC,4.2 ,30,"Burgers, Biryani, American, Snacks, Fast Food",Kandivali East,80,40
+McDonald's,4.5 ,27,"Burgers, Beverages, Cafe, Desserts",Kandivali East,75,30
+Bakingo-Cakes & Desserts,4.4 ,33,"Bakery, Desserts, Beverages, Snacks",Kandivali West,999,not_available
+Domino's Pizza,4.3 ,25,"Pizzas, Italian, Pastas, Desserts",Thakur Village,299,not_available
+NH1 Bowls - Highway To North,4.7 ,11-21,"North Indian, Punjabi, Home Food",Kandivali East,100,50
+63 By-Lane,4.3 ,36,"Pizzas, Pastas, Salads",Malad Kan East,699,not_available
+Nishi Home Delites,4.6 ,27,"Indian, Punjabi",Kandivali East,FREE ITEM,not_available
+Rasobongo,4.4 ,13,"Bengali, Sweets, Desserts, Snacks",Kandivali East,40,10
+Central Prabhu,4.4 ,35,"Mughlai, North Indian, Chinese, Konkan, Malwani",Borivali East,299,not_available
+Peetuk,4.2 ,22,"Biryani, Bengali",Kandivali East,249,not_available
+The Joy Pizzateria,4.1 ,24,"Pizzas, Beverages",Kandivali East,120,60
+Theobroma,4.5 ,15,"Bakery, Desserts",Kandivali East,999,not_available
+Third Wave Coffee,4.3 ,18,"Cafe, Beverages, Desserts",Malad Kan East,50,20
+Big Bowl,4 ,24,"North Indian, Chinese, Tibetan, Desserts",Kandivali East,169,not_available
+Shree mithai,4.7 ,24,Indian,Borivali,not_available,not_available
+Breadkraft,4.3 ,21,Pizzas,Mumbai,75,30
+The Bengal Club,4.1 ,18,Bengali,Malad Kan East,249,not_available
+Shawarmaji,4.4 ,16,Lebanese,Thakur village Kandivali east,FREE ITEM,not_available
+Charcoal Eats - Biryani & Beyond,4.3 ,24,"Biryani, Kebabs, Hyderabadi, North Indian",Malad Kan East,100,50
+Good Flippin' Burgers,4.6 ,18,"American, Fast Food, Burgers",Kandivali East,50,20
+Achija,4.2 ,22,"North Indian, South Indian, Chinese, Beverages, Indian, Burgers, Chaat",Kandivali East,not_available,not_available
+Granville Greens,4.4 ,36,"North Indian, South Indian, Chinese, Beverages, Italian, Mexican, Lebanese, Thai",Borivali,500,10
+New kathiyawadi dhaba,4.3 ,34,"Indian, South Indian, Punjabi, Rajasthani",Borivali,700,10
+Granville IDC Kitchen (Borivali),4.5 ,34,South Indian,Borivali West,not_available,not_available
+Nirvana,4.4 ,32,"North Indian, Jain, Kebabs, Biryani, Chinese",Malad Kan East,not_available,not_available
+Banglore Iyanger Bakery,4.5 ,13,Bakery,Malad Kan East,40,10
+Sweet County Cake Shop,4.6 ,25,"Desserts, Bakery, Snacks",Kandivali East,not_available,not_available
+The Netrik's Joint,4.1 ,18,"Fast Food, Pizzas, Snacks, Chinese, Beverages",Malad Kan West,75,30
+Sandwizzaa,4.6 ,22,"Snacks, Fast Food, Beverages, Jain",Kandivali East,120,60
+Gaurav Sweets And Namkeen,4.3 ,20,"Sweets, Snacks, Chaat",Malad Kan East,not_available,not_available
+Raju's Kitchen,4.2 ,32,"Chinese, Indian", SARAAF CHOUDHARY NAGAR,40,10
+Bayleaf,4.3 ,32,"Indian, Snacks",Kandivali East,1500,10
+South Tiffin House,4.4 ,28,"South Indian, Fast Food, Snacks",Malad Kan East,75,30
+Brijwasi Sweets,4.3 ,14,"Sweets, Snacks",Kandivali East,100,10
+1441 Pizzeria,3.8 ,32,"Italian, Pizzas, Pastas",Kandivali East,120,60
+Dominic Pizza,33 mins,,"Fast Food, Pizzas, Chinese, Italian, Pastas, Desserts, Burgers, Mexican, American, Street Food",Pizza Story,100,50
+abCoffee,4.7 ,15,"Cafe, Beverages, Bakery, Desserts",Malad Kan East,50,20
+K Bhagat Tarachand,3.8 ,25,North Indian,Malad Kan East,not_available,not_available
+Saffron Restaurant,4.1 ,31,"North Indian, Chinese, Beverages, Tandoor, Kebabs",Kandivali East,FREE ITEM,not_available
+Flavours Of China,4.4 ,33,Chinese,Borivali East,not_available,not_available
+The Veg Treat,4.4 ,33,"North Indian, South Indian, Chinese",Borivali West,not_available,not_available
+The House Of Pasta,4.4 ,34,"Pastas, Snacks",Borivali,999,not_available
+Hangout Cakes & More,4.4 ,24,"Desserts, Bakery",Borivali West,150,60
+Radhe Dhokla,4.3 ,33,"North Indian, Gujarati, Punjabi, Fast Food, Chinese, Snacks",Kandivali West,449,not_available
+Love & Cheesecake ,4.5 ,14,Desserts,Kandivali East,not_available,not_available
+Northern Tadka,4.5 ,31,"North Indian, Mughlai",Kandivali East,40,10
+The Ice Cream Bakery - TIB,4.5 ,25,"Ice Cream, Bakery, Desserts, Sweets, Beverages",Kandivali East,50,20
+Chai Sutta Bar,4.4 ,26,"Indian, Snacks",Kandivali East,40,10
+Sweet Bengal,4.6 ,13,"Sweets, Indian, Snacks, Desserts",Kandivali East,50,20
+Merwans Cake Stop,4.7 ,13,"Indian, Desserts",Malad Kan East,not_available,not_available
+Nothing But Chicken,4.5 ,22,"Salads, Biryani, Kebabs, Fast Food, Healthy Food",Kandivali East,50,20
+MOJO Pizza - 2X Toppings,4.3 ,16-26,"Pizzas, Italian, Fast Food, Desserts",Kandivali East,100,50
+"WeFit-Bowls, Salads & Sandwiches",4.5 ,17-27,"Healthy Food, Salads, Keto, Snacks",Vishnu Shivam Mall,100,50
+Blue Tokai Coffee Roasters,4.5 ,19,"Healthy Food, Pastas, American, Cafe, Beverages, Bakery",Malad Kan West,50,20
+Daily Kitchen - Homestyle Meals,4.3 ,10-20,"Home Food, Indian, North Indian, Thalis","Thakur Village, Kandivali (E)",100,50
+ZAZA Mughal Biryani,4.2 ,11-21,"Biryani, North Indian, Awadhi",Kandivali,100,50
+Dessertino,4.1 ,29,Desserts,Borivali,not_available,not_available
+Cafe Delight,4.4 ,29,"Indian, Tandoor",Borivali East,not_available,not_available
+Atta Girl,4.7 ,27,South Indian,Malad West,not_available,not_available
+La Pino'z Pizza,4.2 ,25,"Pizzas, Pastas, Italian, Desserts, Beverages",Thakur Complex,100,50
+Murlidhar Sweets And Farsan,4.7 ,30,"Sweets, Street Food, Bengali, Gujarati, Desserts, Fast Food",Borivali West,not_available,not_available
+Starbucks Coffee,4.4 ,17,"Beverages, Cafe, Snacks, Desserts, Bakery, Ice Cream",Malad Kan East,900,10
+NIC Ice Creams,4.7 ,17,"Ice Cream, Desserts",Kandivali East,149,not_available
+Borivali Biryani Centre (BBC),4.5 ,26,"Biryani, Chinese, North Indian, Punjabi, Kebabs, Afghani",Borivali West,not_available,not_available
+Meemee's,4.5 ,26,"Ice Cream, Desserts",Borivali,100,50
+Uncle's Chinese,3.6 ,36,"Chinese, Fast Food, Biryani, North Indian, Beverages",Kandivali,not_available,not_available
+Bangalore Iyengar Bakery,4.3 ,29,"Bakery, Desserts",Borivali,not_available,not_available
+Kunafa World,4.2 ,36,"Middle Eastern, Desserts",Malad Kan West,not_available,not_available
+Poetry By Love & Cheesecake,4.4 ,34,Desserts,Kandivali West,not_available,not_available
+The Cake Factory,4.2 ,22,Desserts,Kandivali East,120,60
+Kusum Rolls,3.5 ,32,"Indian, Fast Food, Lebanese, Arabian, Kebabs",Kandivali East,not_available,not_available
+Patanwala,4.8 ,15,"Sweets, Desserts",Malad Kan East,not_available,not_available
+Monginis,4.2 ,14,"Bakery, Desserts, Snacks",Kandivali East,50,20
+GetAWay-Ice Creams & Desserts,4.7 ,24,"Ice Cream, Desserts, Healthy Food, Sweets",Kandivali,599,not_available
+Mealful Rolls - India's Biggest Rolls,4.4 ,18-28,"Fast Food, Snacks, North Indian, Desserts",Kandivali East,100,50
+The Momo Co.,4.1 ,20,"Chinese, Asian, Tibetan, Desserts",Kandivali East,100,50
+Faasos' Signature Wraps & Rolls,4 ,25,"Fast Food, Snacks, North Indian, Desserts, Beverages",Kandivali East,100,50
+Havmor Havfunn Ice Cream,4.6 ,18,"Ice Cream, Ice Cream Cakes, Desserts, Beverages",Malad Kan East,not_available,not_available
+Grameen Kulfi,4.7 ,16,"Ice Cream, Desserts",Kandivali East,99,not_available
+Kareem's,4.1 ,32,"North Indian, Biryani, Chinese, Indian, Desserts, Mughlai, Tandoor, Lucknowi",Kandivali East,100,50
+McDonald's Gourmet Burger Collection,4.3 ,26,"Burgers, Beverages, Cafe, Desserts",Malad Kan East,not_available,not_available
+Suchali's Artisan Bakehouse,4.6 ,18,"Beverages, Bakery",Malad Kan East,50,20
+LeanCrust Pizza- ThinCrust Experts,4.4 ,17-27,"Pizzas, Italian, Desserts",Kandivali East,100,50
+Pure Veg Meals by Lunchbox,4.2 ,24,"Biryani, North Indian, Desserts, Beverages",Kandivali East,80,40
+The J,4.5 ,18,"American, Snacks, Desserts",Malad Kan East,not_available,not_available
+Smokin' Joe's,3.9 ,34,"Italian, Pizzas",Kandivali East,50,20
+BOOM Sandwich - Sub of India,4.3 ,13-23,"Snacks, Indian, Desserts",Kandivali East,100,50
+7th Heaven,3.8 ,16,"Bakery, Desserts",Malad Kan East,100,50
+Itminaan Matka Biryani - Slow Cooked,4 ,22-32,"Biryani, North Indian, Mughlai",Kandivali East,120,60
+NOTO - Ice Creams & Desserts,4.6 ,15,Ice Cream,Kandivali East,799,not_available
+Moussestruck,4.7 ,25,"Ice Cream, Desserts, Sweets",Kandivali West,499,not_available
+Surbhi Sweets And Snacks,4.2 ,24,"Sweets, Chaat, Snacks, Desserts, Beverages, Indian",Dahisar East,599,not_available
+Tiffin Box,27 mins,,"Biryani, Beverages, North Eastern",Malad Kan East,75,30
+Waffle Cart,3.8 ,30,"Desserts, Snacks, Thalis",Borivali,not_available,not_available
+Madno - House of Sundaes,4.1 ,26,"Ice Cream, Beverages",Thakur Village,80,40
+Gourmet Ice Cream Cakes by Baskin Robbins,4.3 ,20,"Ice Cream Cakes, Desserts, Ice Cream, Bakery",Malad Kan East,50,20
+Jumboking Indian Burger,4.5 ,25,"American, Mexican, Fast Food, Snacks, Beverages",Dahisar East,449,not_available
+Khana Khazana,4.6 ,32,"Indian, Chinese",Borivali,not_available,not_available
+Tea Post,4.1 ,36,Beverages,Borivali West,449,not_available
+Pizza Hut,4.2 ,28,Pizzas,Kandivali East,179,not_available
+Momo Mia,2.3 ,26,"Chinese, Desserts, Pizzas, Burgers, Pastas, Italian",Dheeraj Regancy,100,50
+Hola Pasta - Fresh Gourmet Pasta,3.4 ,16-26,"Pastas, Italian, Desserts, Beverages",Kandivali East,149,not_available
+Libon The Cake Expert,4.2 ,28,Desserts,Borivali,449,not_available
+New York Burrito Company,4.2 ,32,"Mexican, American, Continental, Snacks, Beverages, Desserts",Kandivali West,not_available,not_available
+The Fresh Press,4.2 ,39,"Beverages, Juices",Malad Kan East,120,60
+Dairy Don,3.9 ,26,"Beverages, Desserts",Borivali,600,10
+McCafe by McDonald's,3 ,30,"American, Beverages, Desserts",Kandivali East,not_available,not_available
+Bhagwati Pav Bhaji,4.1 ,36,"Street Food, Chinese, South Indian, North Indian",Kandivali West,499,not_available
+Goragandhi Juice Corner & Veg World,4.6 ,34,"North Indian, South Indian, Chinese, Indian, Chaat, Fast Food, Maharashtrian, Pizzas, Juices, Mexican, Pastas",Borivali West,not_available,not_available
+The Waffle Co.,4.4 ,34,"Desserts, Waffle",Kandivali West,not_available,not_available
+99 Pancakes,4.6 ,32,"Desserts, Beverages",Kandivali West,449,not_available
+IDC Kitchen,4.3 ,36,South Indian,Malad Kan East,999,not_available
+Burger Hub,34 mins,,"Burgers, Snacks, Chinese",Borivali,not_available,not_available
+Delights by INOX,4.6 ,18,Snacks,Kandivali East,120,60
+GLOBO Ice Creams Of The World,4.4 ,7-17,"Ice Cream, Desserts, Bakery",Kandivali East,100,50
+Go Zero - Guilt Free Ice Creams,4.2 ,14,"Ice Cream, Desserts",Kandivali East,100,50
+The Momo Factory,4.1 ,27,"Tibetan, Chinese, Asian",Kandivali East,449,not_available
+Food Adda,4 ,28,"Burgers, Pizzas, Fast Food, Beverages",Borivali East,100,50
+"Bhatti Chicken - Grilled, NOT Fried!",4.2 ,24-34,"North Indian, Snacks, Fast Food, Tandoor",Kandivali East,100,50
+Mehfil by Behrouz,4.4 ,29,"Biryani, North Indian, Kebabs, Mughlai, Lucknowi, Hyderabadi, Desserts, Beverages",Kandivali East,80,40
+Tewari Brothers,4.6 ,33,"Snacks, Sweets, North Indian, Beverages, Desserts",Borivali,not_available,not_available
+World Of Paratha,4.4 ,33,"North Indian, Beverages",Borivali,not_available,not_available
+Bhagwati Veg Restaurant,4.3 ,35,"North Indian, Chinese, Biryani, South Indian",Borivali West,499,not_available
+Kwality Walls Frozen Dessert and Ice Cream Shop,4.8 ,15,"Desserts, Ice Cream, Ice Cream Cakes",Thakur Village,100,50
+Anand Sweets & Savouries,4.7 ,40,"Sweets, Desserts",Jog Gor East,499,not_available
+Myfroyoland - Premium Frozen Yogurt,4.4 ,28,"Desserts, Ice Cream, Healthy Food",Borivali West,1500,10
+Sweetish House Mafia,4.2 ,30,Desserts,Kandivali West,150,30
+Natural Ice Cream,4.7 ,21,"Ice Cream, Desserts",Avenue Hotel,20% OFF,20
+Chinese Wok,4.2 ,21,"Chinese, Asian, Tibetan, Desserts",Kandivali East,100,50
+The Belgian Waffle Co.,4.5 ,27,"Waffle, Desserts, Ice Cream",Kandivali East,50,20
+Ghar Ki Rasoi,32 mins,,North Indian,Malad Kan East,not_available,not_available
+Mamledar Misal,4 ,27,"Maharashtrian, Street Food",Borivali West,749,not_available
+Chaayos Chai+Snacks=Relax,4.5 ,18,"Bakery, Beverages, Chaat, Desserts, Home Food, Italian, Maharashtrian, Snacks, Street Food, Sweets",kandivali east,120,60
+The Good Bowl,4.3 ,24,"Biryani, North Indian, Pastas, Punjabi, Desserts, Beverages",Kandivali East,799,not_available
+BOX8 - Desi Meals,4.4 ,11-21,"North Indian, Biryani, Thalis, Home Food",Kandivali East,100,50
+Behrouz Biryani,4.2 ,22,"Biryani, North Indian, Kebabs, Mughlai, Lucknowi, Hyderabadi, Desserts, Beverages",Kandivali East,110,60
+"Faasos - Wraps, Rolls & Shawarma",4.1 ,26,"Kebabs, Fast Food, Snacks, North Indian, American, Healthy Food, Desserts, Beverages",Kandivali East,110,60
+LunchBox - Meals and Thalis,4.3 ,26,"Biryani, North Indian, Punjabi, Healthy Food, Desserts, Beverages",Kandivali East,159,not_available
+Subway,4 ,26,"Salads, Snacks, Desserts, Beverages",Kandivali East,80,40
+Mohanlal S Mithaiwala,4.9 ,33,"Sweets, Desserts, Snacks",Borivali,not_available,not_available
+Parsi Dairy Farm,4.6 ,31,Indian,Borivali,not_available,not_available
+Adarsh,4.5 ,31,"Snacks, Sweets, Bakery",Borivali,1900,10
+Mama Mia! - Italian Ice Creams & Cakes,4.4 ,27,"Bakery, Desserts, Ice Cream",Borivali,599,not_available
+Trishiv Chinese Corner,4.1 ,34,"Chinese, Fast Food, Street Food, North Indian",Borivali,1000,10
+Baskin Robbins - Ice Cream Desserts,4.6 ,13,Desserts,Kandivali East,75,30
+Wagh Bakri Tea Lounge,3.5 ,39,"Beverages, Snacks, Fast Food, Street Food, Desserts",Borivali,700,20
+Chitale Xpress,4.7 ,28,"Sweets, Desserts",Borivali,not_available,not_available
+Cheesecakes By CakeZone,4.4 ,33,"Bakery, Desserts, Sweets, Beverages, Ice Cream, Juices, Bengali",L T Road Junction,699,not_available
+Birdy's Cake Shop,4.1 ,35,"Desserts, Bakery",Malad East,not_available,not_available
+Jeden-The Cake Expert,4.3 ,31,"Desserts, Bakery, Sweets",Kandivali West,599,not_available
+Iceberg Organic Icecreams,36 mins,,Ice Cream,Borivali,299,not_available
+Oven Story Pizza - Standout Toppings,4.4 ,23-32,"Pizzas, Pastas, Italian, Desserts, Beverages",Kandivali East,899,not_available
+Ovenfresh Cakes And Desserts,4.1 ,34,"Bakery, Desserts, Beverages, Ice Cream, Sweets, Juices, Bengali, Pizzas",Borivali,399,not_available
+Vadilal Ice Creams,4.1 ,35,"Ice Cream, Desserts",Kandivali West,399,not_available
+Amore Gelato - Italian Ice Cream,4.4 ,34,"Ice Cream, Desserts",Borivali,not_available,not_available
+Burger King,4.3 ,39,"Burgers, American",Kandivali East,120,60
+ITC Fabelle Chocolates,4.7 ,33,"Bakery, Desserts",L T Road Junction,179,25
+Mad Over Donuts,4.6 ,27,"Desserts, Sweets, Bakery",Kandivali East,100,50
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",4.3 ,15,"Beverages, Desserts, Ice Cream, Waffle, Bakery, Healthy Food",Kandivali East,449,not_available
+"Gianis - Ice Cream, Shakes & Sundaes",4.6 ,15,"Ice Cream, Bakery, Beverages",Malad Kan East,not_available,not_available
+Tibb's Frankie,4.1 ,23,"Snacks, Biryani, North Indian, Mexican, Beverages",Kandivali East,75,30
+The Biryani Life,4 ,25,"Biryani, Mughlai, Lucknowi, Hyderabadi, North Indian, Kebabs, Desserts, Beverages",Kandivali East,110,60
+Sweet Truth - Cake and Desserts,4.1 ,20,"Snacks, Bakery, Desserts, Beverages",Kandivali East,110,60
+Cafe Coffee Day,4.3 ,28,"Beverages, Cafe, Snacks, Desserts, Burgers, Ice Cream, Bakery, Fast Food",Kandivali East,159,not_available
+Firangi Bake,3.9 ,30,"Pizzas, Pastas, Italian, Mexican, Healthy Food, Desserts, Beverages",Kandivali East,not_available,not_available
+Apsara Ice Creams,4.7 ,14,"Ice Cream, Desserts",Kandivali East,not_available,not_available
+Great Indian Khichdi by EatFit,4.3 ,37,"Home Food, Indian, North Indian, Healthy Food, Snacks, Desserts, Rajasthani, South Indian, Maharashtrian, Sweets",Gorai Road,159,not_available
+Wendy's,4.2 ,49,"Burgers, American, Fast Food, Snacks, Beverages",Jog Gor East,129,not_available
+Keventers - Milkshakes & Desserts,4.2 ,29,"Beverages, Ice Cream, Desserts, Healthy Food",Kandivali West,120,20
+Green Therapy Co.,4.5 ,38,"Healthy Food, Juices, Beverages",Malad Kan East,100,50
+FreshMenu,4.1 ,49,"Continental, Chinese, Oriental, Asian, Healthy Food, Fast Food, Indian, Desserts",Goregaon East,129,not_available
+Lucky Restaurant (Since 1938),4.1 ,40,"Biryani, North Indian, Chinese, Mughlai, Seafood, Desserts, Tandoor, Punjabi, Indian",Goregaon East,749,not_available
+The Paratha House,4.1 ,47,"North Indian, Indian",Malad Kan East,100,50
+Rabdi Wala,4.2 ,37,"Desserts, Gujarati, Rajasthani, Snacks",Borivali West,not_available,not_available
+Ladu Samrat,4.3 ,43,"Maharashtrian, Snacks, Street Food, Indian, Desserts, Chaat",Kandivali East,FREE ITEM,not_available
+Greens Restaurant,4.4 ,54,"North Indian, Chinese, South Indian",Malad West,599,not_available
+Chocolateria San Churro,2.2 ,39,Desserts,Borivali,449,not_available
+The Churro Co.,4.1 ,38,"Desserts, Beverages, Waffle",Kandivali East,999,not_available
+The Dough Therapy,4.1 ,39,"Pizzas, Pastas, Italian",Kandivali West,799,not_available
+Barbeque Nation,4 ,45,"North Indian, Barbecue, Biryani, Kebabs, Mughlai, Desserts",Kandivali East,80,40
+Aromas Cafe & Bistro,4.2 ,50,"Continental, Italian, Lebanese, Beverages",Malad Kan East,249,not_available
+Chai Pe Charcha,4 ,40,Beverages,Kandivali West,100,20
+Cremure,4.5 ,38,"Bakery, Desserts, Waffle, Beverages",Malad West,449,not_available
+EatFit,4.2 ,39,"Chinese, Healthy Food, Tandoor, Pizzas, North Indian, Thalis, Biryani",Gorai Road,179,not_available
+Biryani Can - Pure Veg Biryanis,3.9 ,37,Biryani,Kandivali West,599,not_available
+Cheelizza - India ka Pizza,4.2 ,39,"Pizzas, Italian, Fast Food",Kandivali West,699,not_available
+Bake Ur Day - Freshest Cakes,3.7 ,39,"Desserts, Bakery, Cakes and Pastries, Beverages",Borivali West,449,not_available
+Radha Krishna,3.8 ,38,Indian,Borivali,not_available,not_available
+Amar Juice Center,4.4 ,37,"Street Food, Beverages, South Indian",Borivali West,not_available,not_available
+MM Mithaiwala,4.4 ,42,"Sweets, Snacks, Desserts, Beverages",Malad West,800,15
+Haldiram's Restaurant,4.3 ,38,"Snacks, South Indian, Desserts, Beverages",Malad Kan East,100,50
+Taco Bell,4 ,49,Mexican,Kandivali East,100,50
+Wow! Momo,4.1 ,45,"Tibetan, Healthy Food, Asian, Chinese, Snacks, Continental, Desserts, Beverages",Malad East,599,not_available
+Bangalore Iyangar's Bakery,4.9 ,47,"Bakery, Desserts, Snacks",Kandivali West,not_available,not_available
+Dum Safar Biryani by Barbeque Nation,4.3 ,48,"Biryani, Kebabs, Tandoor, Indian, Desserts",GROWELS MALL,80,40
+Wow! China,4.1 ,43,"Tibetan, Healthy Food, Asian, Chinese, Snacks, Continental, Desserts, Beverages",Akruli Road,120,60
+Malgudi,4.1 ,37,"South Indian, Mangalorean, Andhra, Snacks, Healthy Food",Kandivali East,249,not_available
+Oye Kiddan,3.9 ,43,North Indian,Borivali West,449,not_available
+Sbarro - New York Pizza,3.9 ,38,"Italian, Pizzas, Desserts, Beverages",Kandivali East,299,not_available
+Cookie Man,4.4 ,37,"Desserts, Ice Cream, Bakery",Kandivali East,80,40
+Pop Tate's,4.2 ,37,"Continental, Italian, European, Mexican",Kandivali East,50,20
+Shiv Sagar,4.3 ,38,"Indian, Continental, Chinese",Mahavir Nagar,600,10
+Urban Tadka,4.3 ,43,"North Indian, Mughlai",Kandivali East,50,20
+Uncle's Kitchen (Since 1987),4.4 ,42,"Chinese, Asian, Thai",Malad West,1000,15
+Bikaji Food Junxon,4.6 ,46,"Sweets, Snacks",Malad West,999,not_available
+Rajubhai Dhoklawala,4.5 ,40,"Sweets, Desserts, Gujarati, Snacks",Borivali,not_available,not_available
+Deepak (Borivali),4.5 ,38,"Indian, Chinese, South Indian, Snacks",Borivali West,not_available,not_available
+Godwa,4.4 ,39,"American, Beverages, Thalis",Malad Borivali Area,600,10
+Radha Krishna (Borivali),4.4 ,39,"Indian, Chinese, South Indian, Mexican, Italian",Borivali West,not_available,not_available
+Tulsi Vihar,4.2 ,42,"North Indian, Chinese, South Indian, Beverages",Kandivali West,999,not_available
+Smokin Curries,4.2 ,54,"Biryani, Indian, North Indian, Tandoor, Kebabs, Fast Food, Desserts, Beverages",Malad Kan West,not_available,not_available
+The Food Studio Kitchen & Bar,4.4 ,56,"North Indian, Continental, Asian, Punjabi, Chinese, Italian, Mughlai",Malad West,not_available,not_available
+Bhavesh Chinese,4.2 ,43,"Chinese, Indian",Borivali West,not_available,not_available
+Spukies - The Veg Sigree,4.3 ,46,"North Indian, Jain, Chinese, South Indian",Mumbai,not_available,not_available
+Agri Malhari Katta,4.3 ,50,"Indian, Chinese",Borivali,not_available,not_available
+Zaika Fun Dining | Club Aquaria,4.3 ,44,"North Indian, Chinese, Biryani, Continental",Borivali West,449,not_available
+Pishu's - Drink Your Fruit,4.4 ,55,"Juices, Beverages, Healthy Food",Malad West,399,not_available
+Madhuram Sweets & Chaat,4.6 ,46,Desserts,Dahisar,999,not_available
+Cosway,4.1 ,51,"Chinese, North Indian, Indian",PG Road,449,not_available
+Kansar Pure Veg Thali,4.1 ,44,Thalis,Chikoowadi,800,15
+Jain SubKuchh Food Plaza,4.3 ,52,"Street Food, North Indian, Chinese, Desserts, South Indian",Malad West,449,not_available
+Pangat (Gorai),4.4 ,40,"Indian, Chinese, Malwani, Seafood, Kebabs, Biryani, Maharashtrian",Borivali West,not_available,not_available
+Shenoy's,4.1 ,48,"Fast Food, Snacks, Chinese, Chaat",Jog Gor East,not_available,not_available
+Surmai Restaurant,4.3 ,47,"Seafood, Indian, Chinese",Malad West,449,not_available
+Qutuz Irani Cafe,4.3 ,51,Fast Food,Chincholi Bunder Road,not_available,not_available
+Anda Apna Apna,4.5 ,52,Fast Food,Malad West,449,not_available
+Shreeji Pure Veg,4.5 ,49,"Indian, South Indian, Chinese, Desserts, Beverages",Jog Gor East,not_available,not_available
+Sai Veg World,4.3 ,50,"Indian, Chinese",Goregaon East,449,not_available
+Baba Falooda,4.5 ,40,Desserts,Mira Road,not_available,not_available
+Persia Darbar,4.3 ,44,"North Indian, Biryani, Chinese, Arabian, Mughlai",Goregaon East,799,not_available
+CakeZone,4.2 ,37,"Bakery, Desserts, Sweets, Ice Cream",L T Road Junction,399,not_available
+Bikkgane Biryani,4.1 ,54,"Biryani, Hyderabadi, Andhra, South Indian, North Indian, Mughlai, Kebabs",Malad Kan West,449,not_available
+Chai Point,4.3 ,52,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi, Chaat, Indian, American, North Indian, Fast Food, Desserts, Cafe, Healthy Food, Home Food",Malad West,125,25
+Biryani By Kilo,4.1 ,70,"Biryani, Hyderabadi, North Indian, Kebabs, Mughlai, Desserts",Malad West,1999,not_available
+Curry Mantra,4.3 ,39,"Indian, Chinese, Tandoor, Biryani, Mangalorean, Malwani, Kerala, Goan, Chettinad, Mughlai, Seafood",Dahisar,not_available,not_available
+Oye Teri - The Kulcha Kulture,4.2 ,39,Indian,Borivali,not_available,not_available
+Noorani Restaurant,4.1 ,39,"Chinese, North Indian",Malad East,599,not_available
+Cheesecake & Co.,4.2 ,40,"Bakery, Desserts",Jog Gor East,399,not_available
+Smoor,4.3 ,39,"Desserts, Bakery, Beverages",I C Colony,899,not_available
+HRX by EatFit,4.4 ,38,"Healthy Food, Salads, Keto",Gorai Road,199,not_available
+Shahi Darbar,41 mins,,"Beverages, Desserts, Ice Cream",Malad Kan West,not_available,not_available
+Gomantak,4.2 ,53,"Indian, Seafood, Tandoor, Malwani, Chinese",Dahisar,125,25
+Cafe Heaven,4.1 ,44,"Mughlai, Chinese, Tandoor, Indian",Malad West,599,not_available
+Landmark Restaurant Veg Diet,4.1 ,50,"North Indian, Chinese, Continental, Beverages",Malad Kan West,not_available,not_available
+Supermani,4.5 ,47,"South Indian, Biryani, Fast Food, Snacks",Borivali,not_available,not_available
+Aahar-E-Kolkata,4.2 ,55,"Bengali, Thalis, Biryani, Desserts",Malad Kan East,not_available,not_available
+Suraj Lama Momos,4.6 ,55,Chinese,Jog Gor East,not_available,not_available
+Charcoal Bistro,3.5 ,44,"Indian, Chinese",Jog Gor East,not_available,not_available
+The Tiny Tub,4 ,44,"Desserts, Bakery, Sweets, Snacks, Cafe",Malad Kan West,749,not_available
+"DIMSUM WU (Chinese, Momo, Shushi & more) ",4.2 ,51,"Pan-Asian, Indonesian, Thai, Chinese, Desserts",Borivali,449,not_available
+Kolkata Heshel,4.5 ,64,Bengali,Malad West,800,10
+Social,4.3 ,58,"North Indian, Chinese, Fast Food, Biryani, Pizzas, Salads, Kebabs, Juices, Desserts, Beverages",Goregaon East,120,60
+Ohhdaily - Healthy & Homely Tiffins,4.3 ,42,"Thalis, Indian, Home Food, Chinese",Malad West,399,not_available
+Harvest Salad Co,4.3 ,44,"Salads, Healthy Food, Snacks",Road Ramachandra Lbe,80,40
+Maiz Mexican Kitchen,4.4 ,44,"Mexican, Indian, Salads",Road Ramachandra Lbe,80,40
+Veg Sutra,4.2 ,48,"North Indian, Chinese",Goregaon,399,not_available
+Balaji Snacks,3.3 ,39,"Snacks, Chaat, South Indian",Malad East,not_available,not_available
+Shree Krishna,4.3 ,45,"Indian, Chinese, North Indian, Tandoor, Seafood, Biryani",Kandivali West,999,not_available
+Speak Burgers by Vicky Ratnani,4 ,47,"Burgers, American, Beverages",Malad Kan West,449,not_available
+Spicy Bowl,3.5 ,65,"Chinese, Biryani, North Indian, Tandoor, Beverages",Goregaon,not_available,not_available
+Fire Bowl,4.3 ,55,"Chinese, Italian, Mexican, Thai",Malad West,not_available,not_available
+Falafel's,4 ,42,"Lebanese, Mediterranean, Arabian, Middle Eastern, Rolls & Wraps, Jain",Goregaon East,449,not_available
+The Pancake Story,4.4 ,55,"Desserts, Beverages",Malad West,599,not_available
+Baithack Taste of Kulhad,3.8 ,46,"Beverages, Fast Food, Snacks",Borivali,not_available,not_available
+Curry Culture,4.4 ,54,"Biryani, North Indian, Kebabs, Malwani, Chinese, Seafood, Asian, Thai, Mughlai, Indian, Desserts, Tandoor",Malad West,not_available,not_available
+Foodaholic,53 mins,,Chinese,Jog Gor East,999,not_available
+The Bar Stock Exchange,4 ,57,"North Indian, Biryani, Chinese, Asian, Kebabs, Italian",Malad West,not_available,not_available
+Punjabi Grill,4.1 ,42,"Punjabi, Combo, Tandoor, Snacks, Chinese, Biryani",Kandivali East,700,15
+Bandra Cakery by Bunty Mahajan,4.4 ,50,"Bakery, Desserts",Kandivali West,75,30
+Krishna Lunch Home,4.2 ,44,"North Indian, Indian, Tandoor, Seafood",Borivali,not_available,not_available
+Fried Nation,4.4 ,49,"Fast Food, American",Malad West,not_available,not_available
+Cake Works,46 mins,,Indian,Malad Kan East,150,30
+Meraki,4.2 ,49,Chinese,Malad West,449,not_available
+Dale's Eden Cake Shop,4.4 ,38,"Desserts, Bakery, Sweets",Malad West,449,not_available
+Banana Leaf,4.4 ,39,"South Indian, Snacks, Andhra",Borivali West,599,not_available
+"House of Biryan- Biryani, Kepsa and More",4.4 ,40,"Biryani, Kebabs, Rolls",Malad West,599,not_available
+Brijwasi Sweets Original Since 1946,4.4 ,50,"Sweets, Snacks, Chaat, Beverages, Indian",Malad Kan West,800,15
+Deliciae by Bunty Mahajan,4.6 ,48,Desserts,Kandivali West,1199,not_available
+Sahara Restaurant,3.8 ,43,"North Indian, Chinese, Tandoor, Biryani",Malad East,449,not_available
+Copper Chimney,4.2 ,80,"North Indian, Indian, Punjabi, Biryani, Tandoor, Kebabs, Mughlai, Desserts",Malad West,1200,15
+Jimis Burger,4.6 ,47,American,Jog Gor East,not_available,not_available
+Sadak Chaap,4.4 ,48,"Tandoor, Indian, Snacks",Malad West,749,not_available
+Jamai Shoshthi,4.2 ,59,"Bengali, Biryani, Mughlai",Goregaon,not_available,not_available
+Carter's Blue,4.4 ,49,"Indian, Chinese, Lebanese",Malad West,not_available,not_available
+Hotel Ram Krishna,4.5 ,41,Indian,Dahisar East,not_available,not_available
+Delicacy,4.4 ,40,Indian,Kandivali West,not_available,not_available
+5 Spice,4.2 ,40,"Chinese, Asian, Thai, Seafood",Borivali West,499,not_available
+BOMBAY JUICE,3.9 ,41,"Juices, Beverages, Salads"," Ratna bhai chawk saibaba Nagar, borivali west",700,20
+Bombay Sweet Shop,4.7 ,41,"Desserts, Sweets, Bakery, Snacks, Indian",Malad Kan West,1199,not_available
+Balaji Pure Veg,4.2 ,44,"Chinese, South Indian",Malad Kan West,1000,10
+Fuel Up,4.5 ,55,"Healthy Food, Salads, Juices, Grill, American, Continental",Malad West,399,not_available
+Meal Bowl,4.3 ,45,"Indian, Chinese",Goregaon West,499,not_available
+The French Connection,4.6 ,15,"Bakery, Snacks, Italian",Malad Kan East,75,30
+Madrasi Kaapi House,4.4 ,26,"South Indian, Combo, Beverages",Evershine Millenium Paradise,50,20
+Singarawala,4.6 ,53,"Bengali, Mughlai, Biryani, Thalis",Malad Kan East,not_available,not_available
+Shivam Sundaram,4.4 ,28,"North Indian, Chinese, South Indian",Express Highway,50,20
+DBW - De Burger World,4.5 ,26,"Burgers, Snacks, Beverages",Thakur Village,not_available,not_available
+The Biryani Story,4 ,54,"Biryani, Kebabs, Tandoor, Beverages",Malad Kan West,not_available,not_available
+Andhra Kodi Pulao,4.4 ,73,"Hyderabadi, South Indian, North Indian, Andhra, Kebabs, Mughlai",Malad Kan West,449,not_available
+Maharaja Bhog,4.4 ,51,"Gujarati, Rajasthani, Thalis",Goregaon East,800,10
+Pizza Caprina,4.1 ,55,"Pizzas, Italian-American, Desserts",Goregaon West,599,not_available
+Satkar Restaurant,3.9 ,53,"Indian, Chinese, Tandoor",Dahisar West,not_available,not_available
+Upwas Uphargruha,3.4 ,40,Indian,Rawal Pada,not_available,not_available
+Eva's Pizza,4.1 ,52,"Pizzas, Italian, Salads",Malad West,449,not_available
+Biryani Culture,3.9 ,51,"Asian, Biryani, Chinese, Desserts, Indian, Mughlai, North Indian, Seafood, Tandoor, Thai, Kebabs",Malad Kan West,not_available,not_available
+Zaffran,4.4 ,67,"North Indian, Biryani, Indian, Kebabs, Rolls & Wraps",Andheri Link Road ,799,not_available
+Home Plate by EatFit,4 ,39,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani, Maharashtrian, Snacks, Desserts, Beverages",Gorai Road,159,not_available
+The Dessert Heaven - Pure Veg,4.3 ,39,"Bakery, Desserts, Sweets, Ice Cream",L T Road Junction,299,not_available
+Darbhanga Xpress - The Taste of Mithila,3.3 ,35,"Indian, Seafood",Kandivali East,100,50
+Marrakesh,4 ,42,"Lebanese, North Indian, Kebabs, Desserts, Beverages",Kandivali,not_available,not_available
+Bowl Soul,4.1 ,47,"Indian, Asian, Continental, Pan-Asian, Chinese, Mediterranean, Mexican, Lebanese, North Indian, Korean, Japanese, South Indian",Goregaon,129,not_available
+Olio - The Wood Fired Pizzeria,4.2 ,61,"Pizzas, Pastas, Fast Food, Snacks, Beverages",Malad West,249,not_available
+Barista Coffee,4.2 ,44,"Beverages, Snacks, Desserts",Malad West,449,not_available
+Kailash Parbat,4.1 ,46,North Indian,Goregaon East,not_available,not_available
+Chaat Street - Desi Chaat & Chai,3.8 ,44,"Snacks, Chaat, Street Food, North Indian, Fast Food",Gorai Road,349,not_available
+Suruchi Veg Restaurant,4.5 ,32,"North Indian, Chinese, South Indian, Fast Food, Beverages, Biryani",Malad Kan East,800,10
+Oye Paratha House,4.1 ,35,Indian,Malad Kan East,100,50
+Mishra Pan Bhandar,4.7 ,27,"Paan, Sweets, Mughlai",Malad Kan East,40,10
+Ebony Casual Diner,4.2 ,24,"North Indian, Chinese, Biryani, Tandoor, Seafood",Kandivali East,75,30
+Golden Dragon Chinese Point,4.4 ,25,Chinese,90 FT Road,120,60
+Surbhi Pure Veg (Thakur Village),4.1 ,30,"Indian, Biryani, Chinese, Snacks, Beverages",Kandivali East,449,not_available
+Cafe Cocobroma,4.3 ,21,"Cafe, Desserts, Waffle, Beverages, Bakery, Sweets",Kandivali East,50,20
+Surbhi,4.3 ,29,"Indian, Biryani, Chinese, South Indian, Snacks, Desserts, Beverages",Kandivali East,80,40
+Konark Veg Diet,4.4 ,24,"North Indian, Chinese, South Indian, Indian",Kandivali East,not_available,not_available
+Mira Veg Restaurant,4.3 ,25,"South Indian, Chinese, North Indian, Fast Food, Indian, Beverages, Street Food",Kandivali East,1500,10
+Aavakay The Andhra Kitchen,4 ,32,"Andhra, Biryani, Indian, Desserts, Beverages",Kandivali East,75,30
+Papacream,4.3 ,38,"Ice Cream, Healthy Food, Desserts",Kandivali West,120,60
+Bangalore Iyengar's Bakery,3.9 ,51,Bakery,Malad Kan East,not_available,not_available
+B Burger - Bigger Burger,4.2 ,45,"Burgers, American, Beverages, Snacks",Malad west,349,not_available
+Art Of Dum,4.4 ,59,"Biryani, North Indian, Kebabs, Indian, Awadhi, Hyderabadi, Mughlai, Desserts, Beverages",Malad West,300,25
+China Box Co,4.1 ,42,"Chinese, Asian, Thai, Seafood",Borivali,499,not_available
+Mini Punjab,4.2 ,52,"North Indian, Chinese",Malad West,80,15
+Dimsum (Momo) Express,4 ,45,"North Indian, Chinese, Tandoor",Borivali,749,not_available
+Coco Cafe,4.1 ,66,"Cafe, Burgers, American, Italian, Beverages, Desserts, Pastas, Continental",Goregaon East,499,not_available
+Al-Baik.Com,3.7 ,52,"Fast Food, Pizzas, Burgers, Rolls & Wraps, Snacks",Malad Kan West,not_available,not_available
+Foodland,4.5 ,53,"Mughlai, North Indian, Chinese, Seafood",Malad West,not_available,not_available
+House of Candy,3.7 ,78,Sweets,Malad West,not_available,not_available
+Fruit Pop by Eatfit,3.3 ,41,"Beverages, Juices, Healthy Food, Desserts",Gorai Road,80,40
+Artinci - Indulge Guilt Free!,4.2 ,50,"Ice Cream, Healthy Food, Keto, Desserts, Snacks, Beverages, Bakery, Sweets",Malad West,449,not_available
+Taaka Chinese,3 ,46,"Chinese, Oriental, Asian",Goregaon,129,not_available
+Tandoori Nights,4.1 ,43,"Mughlai, Chinese",Borivali West,not_available,not_available
+Mirch,4.3 ,38,"Mughlai, North Indian, Chinese, South Indian",Borivali East,50,20
+Banglore Iyengar Bakery,4.3 ,16,"Bakery, Snacks",Malad Kan East,not_available,not_available
+The Baker's Dozen,4.5 ,40,"Bakery, Snacks, Desserts",Goregaon,449,not_available
+Haka,4.3 ,64,"Chinese, Asian",Malad West,249,not_available
+Samosa Singh,3.9 ,44,"North Indian, Indian, Snacks, Street Food",Borivali,499,not_available
+Mainland China,4.3 ,60,Chinese,Goregaon East,249,not_available
+The Brooklyn Creamery - Healthy Ice Cream,4.2 ,47,"Desserts, Ice Cream, Healthy Food",Goregaon,800,15
+Ribbons And Balloons - The Cake Shop,4.5 ,40,"Cakes and Pastries, Bakery, Desserts, Ice Cream",Imperial Heights,not_available,not_available
+Mom's Kitchen,3.2 ,56,"North Indian, Indian, Biryani",Malad Kan East,not_available,not_available
+Nomad Pizza- Traveller Series,4.3 ,55,"Pizzas, Fast Food, Desserts, Beverages",Malad West,999,not_available
+Prasuma Momo Kitchen,4.6 ,48,"Chinese, Asian, Snacks, Tibetan, Street Food, Japanese, Pan-Asian, Beverages",Malad Kan West,499,not_available
+The Betel Leaf Co.,4.6 ,45,"Paan, Desserts, Indian",Malad Kan West,700,15
+Punjab Grill,3.9 ,70,"North Indian, Kebabs, Biryani, Mughlai",MALAD WEST,249,not_available
+Asia Kitchen By Mainland China,4.4 ,60,"Asian, Japanese, Chinese",Goregaon East,249,not_available
+Giani,4 ,41,"Ice Cream, Beverages",Borivali,not_available,not_available
+PizzaExpress,4.1 ,59,"Pizzas, Italian",Goregaon East,1299,not_available
+Crusto's - Cheese Burst Pizza,4.2 ,63,"Pizzas, Pastas, Fast Food, Snacks, Beverages",Malad West,249,not_available
+Green Cravings,4.1 ,50,"Healthy Food, Fast Food, Grill",Goregaon,159,not_available
+Biryani Badshah,4.1 ,53,"Biryani, Hyderabadi, Andhra, South Indian, North Indian, Mughlai, Kebabs",Malad West,449,not_available
+Naadbramha Idli,3.8 ,43,"Chinese, South Indian",Malad Kan West,not_available,not_available
+BOSS Burger,4.1 ,49,"Burgers, American, Fast Food, Snacks",Goregaon East,999,not_available
+Edesia by Freshmenu,4.1 ,49,"Desserts, Bakery, Fast Food",Goregaon,not_available,not_available
+Doner and Gyros,4.5 ,50,"Lebanese, Middle Eastern, Healthy Food, Salads, Snacks, American, Desserts, Beverages, Rolls & Wraps, Fast Food",Mira Road,not_available,not_available
+New York Waffles & Dinges,3.7 ,38,"Waffle, Bakery, Desserts, Beverages, Ice Cream",Borivali,449,not_available
+Vividham Sweets and Dryfruits,4.7 ,22,"Indian, Snacks",Borivali East,1000,10
+Juno's Pizza by EatFit - Baking Fresh Since 1974,4.2 ,40,"Pizzas, Pastas, Jain, Beverages, Desserts, Fast Food",Borivali West,249,not_available
+Starboy Pizza & Shakes,4 ,42,"Pizzas, Italian, Desserts, Beverages",Borivali,449,not_available
+SLAY Coffee,4.2 ,55,"Cafe, Beverages, Desserts, Snacks, Pastas",Goregaon,399,not_available
+The Sugar Free Keto Kafe - Artinci,4.4 ,45,"Ice Cream, Keto, Healthy Food, Sweets, Bakery, Desserts, Snacks",Malad West,449,not_available
+Cake Walk,3 ,46,"Indian, Bakery, Waffle, Desserts",Malad Kan West,not_available,not_available
+Akkad Bakkad Bombay Boo - AB3,4.5 ,33,"Snacks, Fast Food, Pizzas",Kandivali East,449,not_available
+The Wafflemeister,4.4 ,32,"Desserts, Beverages, Sweets, Ice Cream",Kandivali East,80,40
+Sanjay Pure Veg,4.3 ,29,"Indian, South Indian",Borivali East,not_available,not_available
+Su-Veg,4.4 ,39,"North Indian, Chinese, South Indian, Biryani, Snacks, Beverages",Borivali East,75,30
+"Harsh Thali and Parathas - Mom Makes, Son Sells",4.5 ,39,"North Indian, Thalis, Gujarati, Rajasthani, Jain, Chinese",Kandivali East,50,20
+Monopoly,4.2 ,37,"Italian, Mexican, Continental, Juices, Pizzas, Snacks, Pastas, Beverages",Borivali West,not_available,not_available
+Hotel Sarvoday,3.1 ,34,Chinese,Malad Kan East,200,40
+Maa Anjani Pav Bhaji Centre,4.4 ,32,Chinese,Borivali West,not_available,not_available
+Maharashtra Biryani center,3.9 ,28,Biryani,Kandivali East,not_available,not_available
+Jain Dughdalay,4.4 ,22,Sweets,Borivali,700,10
+69 Dackers Lane,3.8 ,27,"Bengali, Biryani",Malad Kan East,100,50
+Madras Talkies,3.6 ,19,"South Indian, Beverages",Malad Kan East,499,not_available
+Rama's Sweets & Snacks,4.3 ,12,"Sweets, Snacks",Malad Kan East,40,10
+Malvan Kinara,4.2 ,43,"Indian, Chinese",Akurli Road,1500,10
+Oye Bihari - Real Taste of Bihar,4 ,34,"Indian, Seafood",Kandivali East,100,50
+DonBuri,3.8 ,45,"Continental, Chinese, Oriental, Asian, Healthy Food, Fast Food, Indian, Desserts",Goregaon,129,not_available
+Khichdi Express,4.2 ,55,"Indian, North Indian, Home Food, Healthy Food, Snacks, Juices, Beverages",Malad West,not_available,not_available
+Keventers Ice Cream,4.1 ,55,"Ice Cream, Desserts",Malad West,399,not_available
+ENSO - Sourdough Pizza by Nomad,4.6 ,53,"Pizzas, Fast Food, Desserts, Salads, Beverages",Malad Kan West,999,not_available
+Cafe Delhi Heights,4 ,66,"Italian, American, Indian",Malad West,399,not_available
+Raja Chinese & Tandoor Corner,3.9 ,36,"Chinese, Barbecue",Kandivali West,999,not_available
+Su - Swagat,4.2 ,31,"North Indian, Chinese, Tandoor, Beverages, Ice Cream, South Indian",Borivali,not_available,not_available
+Grand Maratha,4.4 ,39,"North Indian, Chinese, Malwani",Borivali East,not_available,not_available
+Hotel Shree Ramdev,4.4 ,27,"South Indian, Punjabi, Indian, Tandoor, Biryani, Chinese",Dahisar,not_available,not_available
+Dwaraka,4.6 ,32,"South Indian, Indian, Chinese, North Indian, Italian",Borivali West,not_available,not_available
+Paratha Zone,4.5 ,28,"North Indian, Snacks, Biryani",BORIVALI,not_available,not_available
+THE CAKE POINT,34 mins,,Bakery,Borivali,not_available,not_available
+Agrawal Sweets,3.8 ,27,"North Indian, Snacks",Borivali East,599,not_available
+Kathiyawadi Bhog,4.3 ,39,Indian,Borivali West,not_available,not_available
+SHREE RAM SWEETS AND FARSAN,4.6 ,29,"Sweets, Snacks",Borivali,not_available,not_available
+Bhaskar's Puranpoli Ghar,4.4 ,38,"Maharashtrian, Gujarati, Mangalorean",Malad Kan West,not_available,not_available
+Chaap Theka,4.3 ,38,"Biryani, Jain, Tandoor, North Indian",Borivali,700,10
+Biryani Barbeque Chinese (BBC),4.4 ,30,"Biryani, Chinese, North Indian, Punjabi, Kebabs, Afghani",Borivali West,not_available,not_available
+Damru Paan Shop,4.7 ,25,Paan,Borivali West,not_available,not_available
+Nandu Dosa Dinner,4.3 ,34,South Indian,Borivali,not_available,not_available
+Nagpal Choley Bhature,4.2 ,35,"North Indian, Tandoor, Beverages, Desserts",Kandivali West,600,10
+The Juice Junction,4.4 ,28,"Juices, Beverages",Mahavir Nagar Kandivali West,999,not_available
+Nat Khat Pav Bhaji And Snacks Corner,3.4 ,51,"North Indian, Fast Food, Snacks",Malad Kan East,120,60
+Mystic Lebanese,4.2 ,45,"Arabian, Mediterranean, Lebanese, Turkish",Malad Kan East,249,not_available
+Amritsari Kulcha Junction (Pure Veg),4.1 ,46,"North Indian, Chaat, Punjabi, Beverages",Borivali,749,not_available
+South Tiffin House Exclusive,4.2 ,42,"South Indian, Street Food, Beverages, Snacks",Kandivali West,449,not_available
+Lata Restaurant,4.4 ,40,"Indian, Chinese, Mughlai, Biryani, North Indian",Kandivali West,80,15
+Sandeep Pure Veg,4.5 ,42,"South Indian, North Indian, Chinese, Street Food",Railway Station,not_available,not_available
+Sannidhi Family Restaurant (Kandivali Station),4.5 ,47,"Mughlai, North Indian, Chinese, South Indian, Indian, Salads, Desserts, Snacks, Beverages",Kandivali West,749,not_available
+Pangat (Dahisar East),4.4 ,44,"Konkan, Chinese, Tandoor, Indian",Dahisar,not_available,not_available
+Akkad Bakkad Bombay Boom (Mahavir Nagar),4.2 ,44,"Snacks, Italian",Kandivali West,999,not_available
+Ganesh Snack & Juice Corner,4.3 ,33,"Fast Food, Chaat",Malad Kan East,75,30
+Sonu's Chinese Corner,4.2 ,35,"Chinese, North Indian",Borivali East,not_available,not_available
+Radha Restaurant,4.5 ,35,"South Indian, Chinese, Snacks, Indian, Beverages, Pizzas",Borivali West,not_available,not_available
+Sanjay Icecreams,4.5 ,24,"Ice Cream, Desserts",Malad Kan East,not_available,not_available
+Raisins Chocolatier And Patisserie,3.3 ,27,Desserts,Borivali,100,15
+Fisco Restobar,4.5 ,37,"Indian, Chinese, Italian, Mexican",Kandivali West,449,not_available
+Pizza Story,4.6 ,33,"Pizzas, Burgers, Desserts, Chinese, Pastas, Italian",Kandivali East,100,50
+Taste Of Kolkata,4.2 ,31,"Indian, Chinese, Bengali",Kandivali East,40,10
+Sizzling Spices,4.4 ,27,"Chinese, Thai, Asian, Indonesian, Seafood, Beverages",Kandivali East,50,20
+Times Of Paratha,40 mins,,"Indian, Snacks",Kandivali East,100,50
+Malvani Swaad (Sushama's Kitchen),4 ,37,"Malwani, Seafood, Indian, North Indian, Biryani, Salads, Beverages, Thalis",Kandivali East,249,not_available
+2 Delicious Poha House,4 ,16,"Indian, Snacks",Malad Kan East,40,10
+New Kulfi Center,4.6 ,26,Ice Cream,Malad Kan West,not_available,not_available
+Swastik Fast Food (Franky),4.2 ,33,Fast Food,Borivali,not_available,not_available
+A Taste Of India,4.4 ,40,"Indian, Chinese, Mughlai, North Indian",Kandivali East,80,40
+Crave Junction,4 ,34,"Italian, Chinese, Pizzas, Beverages",Kandivali West,not_available,not_available
+Uk14,4.5 ,26,"Beverages, Ice Cream",Kandivali West,not_available,not_available
+Jain Sweets,4.3 ,36,"Street Food, Maharashtrian",Dattani Centre,80,15
+UFO Fries & Corn,4.1 ,34,North Indian,Kandivali West,999,not_available
+Wtc Pasta,3.9 ,40,"Italian, Snacks, Grill, Beverages, Pizzas, Pastas",Borivali,not_available,not_available
+UBQ BY Barbeque Nation,4 ,40,"North Indian, Barbecue, Biryani, Kebabs, Mughlai, Desserts",Kandivali East,80,40
+Food Costa,3.9 ,23,"Fast Food, Pizzas, Biryani, Mexican, Snacks, Beverages, Burgers","Kandivali (East), Thakur Village",50,20
+Five Star,4.5 ,23,"Fast Food, Burgers, Snacks",Malad Kan East,not_available,not_available
+Arihant Dugdhalay,4.4 ,25,"Desserts, Sweets",Borivali,not_available,not_available
+Al Arabian Shawarma,2.7 ,25,"Arabian, Lebanese, Kebabs, Salads, Beverages, Middle Eastern",Kandivali East,not_available,not_available
+Bombay Sultaani Biryani House,4 ,31,"Indian, Biryani",Malad Kan East,120,60
+East Asia - Indian | Asian | Continental,4.2 ,42,"Chinese, Italian, Thai, Asian, Indian, Tandoor, Continental, Sushi, Pizzas, Salads",Borivali West,not_available,not_available
+Joey's Pizzeria-Kandivali (E),3.7 ,44,"Pizzas, Chinese, Desserts, Burgers, Pastas, Italian",Kandivali East,100,50
+The Chocolate Heaven,4.1 ,34,"Desserts, Italian, Snacks",Borivali West,449,not_available
+Pavbhaji Bistro,4.3 ,29,"Indian, Fast Food",Kandivali East,not_available,not_available
+New Wanton Point,4.4 ,24,"Indian, Chinese",Kandivali East,80,40
+Delicacy Of Mewar,3.8 ,41,Snacks,Malad Kan East,1000,10
+Ek Bihari - The Bihar Diaries,3.7 ,35,"Indian, Seafood","Kandivali East, Thakur Village",100,50
+Yamu's Panchayat,4.9 ,16,Paan,Malad Kan East,not_available,not_available
+Vividh NX,4.4 ,35,"Chinese, Oriental, Indian",Kandivali East,40,10
+Kumar's Cafe,3.2 ,26,"Beverages, South Indian",Borivali,not_available,not_available
+Makhani Darbar,23 mins,,"North Indian, Kebabs, Mughlai, Beverages, Desserts",Thakur Village,100,50
+Baskin Robbins Happyness Shakes,3.8 ,27,"Beverages, Desserts",Kandivali East,75,30
+Pizza Town,3.9 ,27,"Pizzas, Beverages, Italian",Malad Kan East,75,30
+Jugheads,4.2 ,30,"Continental, Chinese, North Indian, American",Kandivali East,40,10
+Mahakali Fast Food & Juice Centre,4.4 ,33,"Indian, South Indian, Beverages, Awadhi",Borivali West,600,10
+Aakash,3.9 ,29,"Desserts, Snacks",Kandivali West,not_available,not_available
+Gupta Bhelpuri House,4.2 ,41,"Snacks, Chaat",Kandivali West,not_available,not_available
+Gaonthan The Family Restaurant,4.3 ,36,"North Indian, Chinese, Biryani",Malad Kan East,45,15
+The Avenue,4.5 ,33,"North Indian, Chinese, Tandoor, Indian, Seafood",Malad Kan East,not_available,not_available
+Souffle Cake Shop,3.8 ,25,Bakery,Borivali West,700,10
+Spring Fields,4.5 ,40,"North Indian, Chinese, Italian",Borivali,75,30
+Sheetal Dugdhalay,4.7 ,33,Sweets,Malad Kan East,not_available,not_available
+WA! Wok (Delicious Chinese),4.3 ,39,"Chinese, Oriental, Asian, Burmese, Thai",Dahisar,not_available,not_available
+One Minute chai Nashta,4.5 ,27,"Bengali, Snacks, Street Food",Borivali,not_available,not_available
+Kuku's,4.2 ,33,Chinese,Borivali West,999,not_available
+RTC - Rolls And Fried Chicken,4.2 ,38,"Snacks, Fast Food, North Indian, Street Food",Dahisar West,449,not_available
+Biryani Barbeque Chinese (BBC-Babhai Naka),4.5 ,35,"Biryani, Chinese, North Indian, Punjabi, Kebabs, Afghani",Borivali West,not_available,not_available
+Gokul Anand,4.5 ,33,"North Indian, Chinese, Beverages, South Indian",Borivali,not_available,not_available
+Tuba Restaurant,4.1 ,39,"Chinese, North Indian, Biryani, Indian, Sweets, Salads, Snacks",Malad Kan East,499,not_available
+The Veg Treat Express,4.5 ,36,"North Indian, Indian, Chinese, Italian, Mexican, Desserts",Borivali West,1000,10
+Pushti Tushti,4.4 ,38,Indian,Borivali West,449,not_available
+MM Mithaiwala.,4.3 ,39,"Sweets, Snacks, Bengali",Malad Kan East,449,not_available
+Anhad Misal,4.1 ,38,"Snacks, North Indian",Borivali,499,not_available
+Classic Pure Veg,4.4 ,38,"North Indian, Chinese",Dahisar East,1500,10
+SNS Mexican Shack,4.4 ,59,"Mexican, Salads, Burgers, Tex-Mex, Beverages, Fast Food",Malad Kan West,999,not_available
+Stacks And Racks,4.6 ,56,American,Malad Kan West,not_available,not_available
+Marathi Mejwani,4.3 ,43,"Indian, South Indian, Seafood",Dahisar,not_available,not_available
+Gupta Bhelpuri And Sandwich Corner,4.2 ,41,Fast Food,Borivali West,not_available,not_available
+Sanata Snacks,4.3 ,46,"Maharashtrian, Snacks, Beverages",Dahisar West,not_available,not_available
+Mm Mithaiwala Fast Food,4.4 ,44,"Fast Food, South Indian, Indian, Snacks, Beverages",Malad Kan West,800,15
+Hotel Gopal Krishna,4.5 ,46,South Indian,Malad Kan West,999,not_available
+Satkar Rice Plate House,4.6 ,53,"Maharashtrian, Malwani, Seafood, Biryani",Goregaon East,1500,10
+Cafe Shalimar,3.9 ,44,"North Indian, Biryani, Desserts, Beverages",Malad,599,not_available
+Arabian Shawarma Cafe,4.2 ,43,"Arabian, Lebanese, Snacks",Borivali,999,not_available
+China Hunt,4.2 ,48,"Chinese, North Indian, Tandoor",Malad East,100,20
+Hotel Sai Palace Grand,4.5 ,58,"North Indian, Chinese, Biryani, Desserts, Continental, Mangalorean, Seafood, Italian, Fast Food",Malad West,not_available,not_available
+Khaas Paratha,4.4 ,45,North Indian,Dahisar West,not_available,not_available
+Nischita Nxt,4.4 ,51,"Biryani, Chinese, North Indian, Seafood",Borivali West,999,not_available
+Foodgerk - The Diet Parlour,4.3 ,52,"Continental, Salads",Malad West,499,not_available
+Jay Prakash Bar & Restaurant,4.2 ,55,"Indian, Chinese",Goregaon,449,not_available
+YUI,4.4 ,50,"Asian, Japanese",Borivali West,999,not_available
+Sai Veg World Xpress,4 ,51,"South Indian, North Indian",Malad Kan West,449,not_available
+Dessert Therapy,4.6 ,46,"Cakes and Pastries, Desserts, Beverages, Bakery",Kandivali West,not_available,not_available
+Sammy Sosa,4.4 ,57,"Mexican, Asian",Malad West,899,not_available
+Suka Sukhi,4.4 ,50,"Maharashtrian, Malwani",Jog Gor East,not_available,not_available
+Queen Margherita's Pizzeria,4.3 ,61,"Pizzas, Italian-American",Malad Kan West,not_available,not_available
+Curry and Combo Twist (Pure Veg),4.3 ,44,Indian,Mum_Jog Gor East,not_available,not_available
+The Red Turtle - Pan Asian Bistro,4.4 ,57,"Pan-Asian, Chinese, Thai, Japanese, Singaporean",Malad West,not_available,not_available
+The Veg Treat Royal,4.5 ,42,"North Indian, Indian, Chinese, Continental, South Indian",Borivali,not_available,not_available
+Mangoes,4.4 ,61,"Mangalorean, Goan",Malad Kan West,not_available,not_available
+Rangrezz Desi Restobar,4.4 ,43,North Indian,Borivali West,not_available,not_available
+Bansi Vadapav,4.2 ,41,Fast Food,Malad West,not_available,not_available
+Mumbaikar S Food House,4.3 ,61,"Indian, Thalis",Malad Kan West,not_available,not_available
+Vivek Chinese corner,4.4 ,44,Chinese,Borivali West,1300,10
+Pranayam (Pure Veg),4 ,47,"North Indian, South Indian, Snacks",Borivali,249,not_available
+Grab Some Momos Here,4.5 ,42,"Tibetan, Chinese",Borivali,not_available,not_available
+Peco Peco,4.4 ,48,"Chinese, Asian, Thai",Malad West,not_available,not_available
+Meetha By Radisson,4.6 ,54,Desserts,Goregaon West,40,10
+Rasodu - The Ethnic Kitchen,4.3 ,44,"Indian, Thalis, Beverages",Malad Kan West,not_available,not_available
+Kake Da Hotel (Since 1931),4.2 ,53,"North Indian, Tandoor, Punjabi",Jogeshwari West,800,15
+# Thali,4.5 ,52,"North Indian, Chinese",Borivali,449,not_available
+Sernyaa,4.5 ,56,"Tibetan, Chinese",Ashok Enclave,900,10
+Udipi Vihar (pure veg) restaurant,4.4 ,50,"Chinese, North Indian, South Indian, Tandoor, Biryani, Desserts",Jog Gor East,not_available,not_available
+Shubh Sagar Restaurant,4.4 ,52,"Chinese, North Indian, South Indian",Mira Road,not_available,not_available
+Ruchi Veg Restaurant,4.1 ,46,"South Indian, North Indian, Chinese, Tandoor, Biryani, Juices, Beverages, Mughlai, Home Food, Healthy Food, Italian, Mexican",Goregaon,900,10
+Jango's,4.2 ,55,"Chinese, North Indian, Biryani, Kebabs",Malad West,749,not_available
+Konkan Chilly,4.3 ,56,"Konkan, North Indian, Chinese, Tandoor, Malwani",Chincholi Bunder,1000,10
+Flavours Of China (Evershine Nagar),4.2 ,51,Chinese,Malad Borivali Area,999,not_available
+Landmark Kitchens,4.4 ,56,"Indian, Snacks, Pizzas, Chinese",Goregaon,not_available,not_available
+"Desi Shack- Acha Khao, Acha Khilao- By om snacks",4.1 ,43,"Indian, Fast Food, Snacks, Italian, Chinese, Beverages",Jog Gor East,not_available,not_available
+Malgudi - Veg & Non-Veg Family Restaurant,4.1 ,48,"North Indian, Chinese, South Indian, Malwani",Borivali West,449,not_available
+Shiv Sagar Malad,4.2 ,48,"Indian, Chinese",Malad West,1200,10
+Lalit Bakery,4.3 ,51,"Bakery, Desserts, Italian",Borivali,not_available,not_available
+Namaskar The Family Restaurant,4.4 ,49,"North Indian, Chinese, Maharashtrian, Biryani",Borivali East,not_available,not_available
+Green Tadka,4.4 ,51,Indian,Goregaon West,not_available,not_available
+Stir Fry Grill,4.3 ,48,"Chinese, Continental, Indian, Thai, Healthy Food, Pan-Asian",Malad West,449,not_available
+Deepak Only Veg,4.4 ,49,"South Indian, Chinese, Indian",Mumbai,600,10
+Gulistan Family Restaurant,4.1 ,43,Chinese,Malad West,1300,10
+Keto Treats,4.4 ,52,"Keto, Bakery, Ice Cream, Desserts",Evershine nagar,900,10
+Hotel Apala samadhan,4.4 ,49,"Malwani, Indian, Chinese",Borivali West,not_available,not_available
+Ravindra Restaurant,4.5 ,43,"North Indian, South Indian, Chinese, Pizzas",Dahisar East,not_available,not_available
+Apricot foods,4.5 ,43,"Sweets, Fast Food, Chaat, Snacks, Desserts, Gujarati, Maharashtrian",Borivali West,999,not_available
+Sattvik Tiffin Co,4.4 ,44,"North Indian, Chinese",Jog Gor East,not_available,not_available
+Govindas Veg Treat,4.3 ,45,"North Indian, Chinese, Beverages, South American",Malad West,700,10
+The Delhi Spice,4.2 ,46,"Biryani, Chinese, North Indian",Jog Gor East,not_available,not_available
+Hotel National,3.9 ,43,"North Indian, Chinese",Kandivali West,999,not_available
+The Burrow Cafe,4.4 ,53,"Pastas, Continental",Malad West,900,10
+Saundha,4.1 ,57,"North Indian, Biryani, Kebabs, Chaat, Beverages",Malad Kan West,not_available,not_available
+Raju Pav Bhaji,4 ,40,Chinese,Mumbai,749,not_available
+Cha - Ya its cup of tea,4.5 ,40,"Beverages, Snacks",Borivali,500,20
+Coffee By Di Bella Exclusive,4.4 ,50,"Desserts, Beverages, Fast Food, Waffle, Snacks, Bakery",Malad West,800,10
+Jagtap Missal,3.8 ,34,"Snacks, Indian",Borivali,not_available,not_available
+Nafees Biryani,4.2 ,38,Mughlai,Malad East,150,30
+R K Ladoowala,3.8 ,36,"Indian, Sweets, Desserts",Dahisar,100,10
+Biryani-Holic,4 ,38,"Biryani, Indian",Malad East,150,30
+The Green Kitchen,4.3 ,39,"Fast Food, Indian, Chinese, Continental, Tandoor, Pizzas, South Indian, Mexican",Borivali,not_available,not_available
+"Bindaas Binge ( Cakes, Pastries & More )",4.4 ,38,"Bakery, Desserts, Sweets",Malad East,not_available,not_available
+Anytime Misal,4.1 ,37,"Street Food, Beverages, Desserts",Borivali,not_available,not_available
+Andawala,4.2 ,33,"Fast Food, Street Food",Borivali West,not_available,not_available
+Chatako The Gujju's,4.4 ,38,Gujarati,Dahisar East,not_available,not_available
+Aditi Fast Food,4 ,63,"Street Food, Indian, Chinese, Beverages",Malad Kan West,not_available,not_available
+Hotel ShreeDevi,4.5 ,41,"Indian, Chinese, Punjabi",Malad West,not_available,not_available
+Thepla Junction,45 mins,,Snacks,Kandivali West,not_available,not_available
+The Daily Deli,4.3 ,60,"Continental, American, Pizzas, Pastas, Beverages, Desserts",Malad West,749,not_available
+Cherry's Kitchen,3.9 ,56,"Indian, Kerala",Malad West,not_available,not_available
+Annapurna Healthy Kitchen,4.5 ,66,"Gujarati, Thalis",Kandivali West,not_available,not_available
+Divya Chinese corner,4.3 ,40,"Chinese, Indian",Dahisar East,700,20
+Medha malvan,4.2 ,59,Malwani,Goregaon,800,15
+Vedant Snacks Corner,4.1 ,54,"South Indian, Beverages, North Indian, Juices",Dahisar West,999,not_available
+Noor Biryani Center,3.7 ,44,"Biryani, Mughlai, North Indian, Indian, Tandoor, Punjabi, Snacks, Desserts",Borivali West,150,30
+Dada's Chinese Kitchen,4.2 ,49,Chinese,Malad Kan East,125,25
+Sun Moon & Potatoes,4.2 ,58,"Continental, Chinese, Salads, Asian",Malad West,449,not_available
+Arabian Shawarma by Rudy's,4.2 ,41,"Lebanese, Arabian, Salads",Borivali West,999,not_available
+Fakth Chicken,4.4 ,55,"Indian, Snacks",Malad West,800,10
+Jalaram Kathiyawadi Thali,4.3 ,45,Gujarati,Borivali,not_available,not_available
+Samant Bandhu Nx,4.4 ,43,"Desserts, Snacks, Sweets, Beverages",Goregaon West,not_available,not_available
+Silver Oaks,4.4 ,54,"North Indian, Mughlai, Chinese, Continental",Malad West,not_available,not_available
+Jai Bholenath Kathiyawadi,4.1 ,49,"Thalis, Gujarati, Jain",Dahisar East,not_available,not_available
+Cafe meter on,4.4 ,51,"Italian, Indian, Chinese, Continental",Borivali West,999,not_available
+Choclato,4 ,41,"Desserts, Bakery",Dahisar West,not_available,not_available
+Cafe Lajawab,4 ,53,"Arabian, Snacks",Malad Kan West,200,40
+Mary Fast Food,4.4 ,47,"Chinese, Fast Food",Malad Kan West,not_available,not_available
+Satyanarayan Lunch Home,4.3 ,46,"Chinese, Indian",Jog Gor East,not_available,not_available
+Uttar Da Puttar,4.1 ,53,"North Indian, Indian, Punjabi, Biryani",Goregaon,800,15
+Alfredo's,4.1 ,55,"Italian, European",Malad Kan West,1000,10
+Al-Falah Shawarma,4.4 ,51,Lebanese,Borivali West,not_available,not_available
+Mothers Touch Rajasthani,4.1 ,81,"Indian, Snacks",Malad West,999,not_available
+Cravings all day,4.7 ,44,"Bakery, Desserts",Goregaon West	,349,not_available
+Big Fat Monk,4.1 ,53,"Chinese, Asian, Fast Food, Desserts, Beverages",Malad West,449,not_available
+44 The Food Hub,4.4 ,54,"Chinese, South Indian",Malad Kan West,700,10
+Radha Krishna Fast Food - Mahavir Nagar,4.1 ,40,"Indian, Chinese",Kandivali West,not_available,not_available
+Aniket Chinese Corner,3.5 ,28,"Chinese, North Indian, Biryani",Malad Kan West,not_available,not_available
+Jungle Juice,4.5 ,29,"Beverages, Juices",Borivali,not_available,not_available
+Indore.Online,4.3 ,14,"Sweets, Street Food",Malad Kan East,not_available,not_available
+Rolls Mania,4.3 ,46,Fast Food,Malad East,not_available,not_available
+Vinayak Ankit Sandwich,4.4 ,51,"Snacks, Continental",Kandivali West,500,15
+Hari Om Khaman House,4.4 ,32,"Gujarati, Snacks, Sweets",Borivali,not_available,not_available
+Fusion Ice Cream Cakes,4.5 ,30,"Ice Cream, Desserts, Bakery, Beverages",Borivali West,999,not_available
+Hotel Milan Pure Veg,4.2 ,35,Indian,Malad East,449,not_available
+TIBO Dalwada,4.6 ,34,"Street Food, Desserts",Kandivali West,not_available,not_available
+Brain Freeze Ice cream & Desserts,3.8 ,33,"Ice Cream, Desserts",Borivali,not_available,not_available
+Farmhouse-Palladium,4.3 ,53,"Indian, Tandoor, Chinese, Continental, Biryani, Seafood, Pizzas, Pastas",Borivali West,not_available,not_available
+Amantran Restaurant,4.2 ,47,Meat,Dahisar,not_available,not_available
+Monopoly-The Chinese Edition,3.9 ,44,"Chinese, Oriental, Continental",Borivali West,not_available,not_available
+Dinshaw's Xpress Cafe And Restro,4.5 ,48,"Indian, Continental, Mexican, Pizzas, Pastas, Burgers, Snacks, Fast Food, Beverages, Juices, Ice Cream, Desserts",Borivali West,not_available,not_available
+The Nature Bar,4.4 ,51,"Salads, Keto, Burgers, Beverages, Mediterranean, American, Healthy Food, Grill, Greek",Jog Gor East,999,not_available
+Aakash Sweets and Snacks,4.4 ,30,"Sweets, Snacks",Borivali West,not_available,not_available
+Nagpal's Choley Bhature,4.1 ,36,North Indian,Malad Kan East,not_available,not_available
+Mumbadevi Jalebi Wala,4.6 ,36,"Snacks, Sweets",Borivali,999,not_available
+Chhotu's Kitchen,4.2 ,33,Chinese,Borivali West,not_available,not_available
+Desai Bhaishankar Gaurishanar (K.P.),4.8 ,34,Sweets,Malad Kan East,700,10
+Shree Makhan Bhog,4.1 ,38,"Chaat, Snacks, Sweets",Malad,not_available,not_available
+Shawarma Heaven,4.3 ,38,"Lebanese, Chinese, Indian, Continental, Tandoor",Malad West,900,15
+Sattva,4.4 ,35,"North Indian, Chinese",Borivali West,999,not_available
+Seeta Nx,4.3 ,39,Chinese,Borivali West,not_available,not_available
+Night Evil Chinese Food,4.1 ,38,Chinese,Borivali West,not_available,not_available
+Bhoomi Kolhapuri,4 ,30,Street Food,Raja Dalvi Marg,not_available,not_available
+Hotel Payal,4.3 ,38,"Indian, Chinese",Dahisar,not_available,not_available
+Fling Confectionery,4.4 ,31,"Bakery, Desserts",Borivali,not_available,not_available
+Pipasa,4.4 ,30,"Beverages, Snacks",Borivali,not_available,not_available
+Dessert Junction,4.3 ,36,"Desserts, Fast Food",Borivali West,not_available,not_available
+Bina's Fresh Batch Homemade Ice Cream,4.2 ,49,"Desserts, Ice Cream",Malad Kan West,1099,not_available
+Samvene - The Bagel Cafe,4.5 ,55,"American, Burgers, Italian, Continental, Pizzas, Pastas, Beverages, Snacks",Malad West,900,15
+Wokstreet,3.5 ,59,"Chinese, Fast Food",Malad Kan West,999,not_available
+Moments,4.5 ,51,"Bakery, Desserts",Malad Kan West,not_available,not_available
+Hotel Malvan Katta,4.2 ,44,Biryani,"VIthbhati, Goregoan (East) 3)",not_available,not_available
+Sindhi Tadka,3.6 ,42,"Sindhi, North Indian, Indian",Kandivali West,not_available,not_available
+Kokan Katta,4.2 ,57,"Seafood, Chinese, Indian, North Indian, Beverages, Biryani",Chincholi Bunder Road,449,not_available
+The Fusion Kitchen,4.5 ,49,"Italian, Asian",Borivali West,not_available,not_available
+Oriental Stir Fry,3.8 ,45,"Fast Food, Chinese, South Indian, Indian",Borivali,not_available,not_available
+Zesty Kitchen,4.1 ,62,"Indian, Seafood, North Indian, Biryani, South Indian, Bengali, Malwani",Goregaon,900,15
+Konkan Spice,4 ,52,"South Indian, Malwani",Malad West,not_available,not_available
+Chholay,4.3 ,51,"North Indian, Indian, Jain",Malad West,449,not_available
+British Brewing Company,4.3 ,53,"Italian, American, Indian, Asian",Goregaon East,not_available,not_available
+Zoodles,4.6 ,59,"Pan-Asian, Chinese, Seafood, Thai, Asian, Desserts",Malad West,249,not_available
+Shawarma House Express,4.1 ,47,"Indian, Beverages, Turkish",Malad Kan West,not_available,not_available
+Hotel Jyoti,4.1 ,43,Indian,Malad Kan East,not_available,not_available
+Ahare Bangla,4.8 ,69,Bengali,Malad Kan East,not_available,not_available
+Classic Veg Restaurant,4.3 ,43,Chinese,Malad Kan East,not_available,not_available
+The Boston Cafe & Patisserie,4.5 ,51,"Desserts, Bakery",Malad West,50,20
+Makhan Maar ke,4.1 ,43,North Indian,Borivali West,not_available,not_available
+Amber Restaurant,4.1 ,44,"Chinese, Indian, Tandoor",trikamdas road ,499,not_available
+The Bombay Chaat Co by Spukies,4.3 ,47,"Chaat, South Indian, Juices, Beverages",Jog Gor East,800,10
+Only Roti's,4.5 ,68,Desserts,Malad West,150,30
+Om Snacks,4.5 ,49,"Pizzas, Pastas",Goregaon,not_available,not_available
+Golden Leaf Restaurant,4.4 ,50,"Chinese, Street Food, South Indian",Kandivali West,749,not_available
+The Local Eatery,4.3 ,50,"Indian, Chinese",Malad West,not_available,not_available
+Nityanand Lunch Home And Hotel,3.8 ,47,"Biryani, Tandoor, Chinese",Jog Gor East,1000,10
+Street Gourmet,4.1 ,40,"South Indian, Indian, Chinese",Borivali West,not_available,not_available
+Spirit Kitchen and Bar,4.4 ,54,"Indian, Chinese",Borivali West,not_available,not_available
+Hotel Shree Prabhu Niketan,4.3 ,41,"Indian, Chinese",Malad East,not_available,not_available
+Image Restaurant,4.5 ,55,"North Indian, Chinese, Kebabs, Biryani, Mangalorean, Desserts, Tandoor",Goregaon West,not_available,not_available
+J.B.Dynasty And Malwani Kalwan,4.4 ,48,"Chinese, Malwani, Indian, Oriental",Malad West,1500,10
+The Mak Broasted Fastfood,3.6 ,63,"Continental, Italian",Malad Kan East,449,not_available
+The Veg Treat Celebrations,4.5 ,41,"South Indian, Punjabi, Chinese, Italian, Mexican",Dahisar,not_available,not_available
+Uncle's Corner,4.4 ,61,"Chinese, Tandoor, Seafood, Thai, Biryani, Indian",Borivali,not_available,not_available
+Enrich Kulfi,4.6 ,40,"Desserts, Ice Cream",Malad West,999,not_available
+Fort Kochi,4.2 ,53,"South Indian, Kerala",Goregaon,not_available,not_available
+Samarth Sagar (Pure Veg),4.1 ,50,"Chinese, North Indian, South Indian, Chaat",Mumbai,not_available,not_available
+Schumania,4.3 ,52,"Indian, Chinese",Borivali,999,not_available
+Rollzilla,4.2 ,43,North Indian,Kandivali West,not_available,not_available
+Healing Rice Bowls,3.9 ,62,"Indian, South Indian, Punjabi",Malad West,not_available,not_available
+The Big Squeeze,4.1 ,54,"Juices, Healthy Food, Beverages",Malad West,499,not_available
+"KBC - Kebaabs, Biryani, Curries",4.2 ,53,"Kebabs, Biryani, North Indian, Indian, Snacks",Goregaon East,249,not_available
+The Chai Fusion,4.3 ,48,"Chinese, Continental",Borivali,100,10
+Ether Atelier Chocolate,48 mins,,"Desserts, Bakery",Malad Kan West,100,50
+Bombay Fast Food,43 mins,,Fast Food,Borivali,not_available,not_available
+Cake Valley,4 ,50,"Bakery, Desserts, Beverages",Malad Kan West,150,30
+Cake & Bake,3.3 ,42,Bakery,Borivali West,not_available,not_available
+The Lunchbox,42 mins,,"Indian, Thalis",Malad Kan East,not_available,not_available
+Hotel Samadhan,4.3 ,59,"Malwani, Maharashtrian, Indian",Jog Gor East,not_available,not_available
+The Waffle Man From the House Of Cookieman,4.1 ,58,"Waffle, Desserts, Ice Cream",Malad Kan West,80,40
+Sigree Global Grill,4.3 ,64,"North Indian, Mughlai, Kebabs, Mediterranean, Greek, Turkish, Lebanese",Malad West,1099,not_available
+Only Parathas,3.8 ,60,"North Indian, Thalis, Chaat, Chinese, Snacks, Beverages",Malad West,not_available,not_available
+The King's Field,4.4 ,31,"Indian, Chinese, Tandoor, Snacks",Malad Kan East,not_available,not_available
+Nagrik Sweets And Farsan,4.5 ,35,Indian,Dahisar,not_available,not_available
+Rashmin Dairy Farm,4.1 ,32,Indian,Malad Kan East,not_available,not_available
+Bbc Express-By Borivali Biryani Centre,4.4 ,35,"Biryani, Chinese, North Indian, Punjabi, Kebabs, Afghani",Borivali,not_available,not_available
+Emrik The Cake Point,4.5 ,34,"Bakery, Snacks, Desserts",Malad Kan West,449,not_available
+Gayatri Sweets and Farsan,4.4 ,35,"North Indian, Fast Food, South Indian, Sweets",Borivali,not_available,not_available
+Riga Chinese Corner,4.2 ,37,"Chinese, Indian",Dahisar,not_available,not_available
+Magari,4.2 ,34,"Continental, Italian, Beverages",Kandivali West,999,not_available
+shaan hotel,3.8 ,37,"North Indian, Indian",Malad Kan East,1000,50
+Brijwasi Sweets and Snacks,3.9 ,36,Sweets,Kandivali West,749,not_available
+Pav Bhaji Klub,4.3 ,36,Indian,Borivali,749,not_available
+Tasty Chinese Hotel,4.5 ,36,Chinese,Malad Kan East,150,30
+Wow Bistro - Evershine Club,4.8 ,46,Indian,Kandivali East,not_available,not_available
+H & Charlie,4.3 ,58,"Burgers, Steakhouse, Desserts, Beverages, Cafe, Fast Food, Pastas",Borivali West,449,not_available
+Royal Manglore,4 ,51,Meat,Dahisar,not_available,not_available
+Healthy Deck,4.4 ,46,"Continental, Beverages, Keto, Ice Cream, Salads",Kandivali West,100,15
+Delhi Darbar Biryani Hub,4.1 ,44,"Biryani, North Indian",Malad Kan East,not_available,not_available
+Burgizza,4.4 ,56,"Pizzas, Italian",Malad West,749,not_available
+Celebrations By Kilo,3.9 ,52,"North Indian, Chinese",Jog Gor East,not_available,not_available
+Houseboat Cafe,3.9 ,56,"Kerala, South Indian",Malad Kan West,not_available,not_available
+Veg Treat Regalia,4.5 ,42,"North Indian, Indian, Chinese, Continental",Borivali West,not_available,not_available
+Oh! It's Fishy,3.9 ,49,"Indian, Tandoor, Seafood, Chinese",Dahisar East,not_available,not_available
+Brijwasi Snack Foods,4.4 ,54,"Snacks, Street Food, Chaat, Fast Food",Malad Kan West,120,20
+Daffodils 23,4.4 ,44,"Indian, Chinese, Beverages, Mexican, Continental",Kandivali West,599,not_available
+Sumeruu,4.6 ,52,"Chinese, Indian",Dahisar West,not_available,not_available
+Malvaniz,4.1 ,57,"Malwani, Seafood",Malad Kan East,not_available,not_available
+Jayesh Food Centre,4.1 ,44,Chinese,Malad East,not_available,not_available
+The Hangout Pizza Hub,4.3 ,57,Pizzas,Malad West,749,not_available
+Royale Masterchef Finedine,4.5 ,59,"Indian, Chinese, Continental, Mexican, Lebanese",Dahisar West,1500,10
+Subramanian Snacks,3.8 ,44,"South Indian, Chinese, Fast Food, Arabian, Tandoor",Goregaon,999,not_available
+Goaikar's goan Cuisine,4.1 ,41,"North Indian, Seafood, Snacks",Borivali,not_available,not_available
+The Gratitude Kitchen,4.3 ,51,"Indian, Burgers, Snacks, Fast Food, Salads, Desserts",Borivali,999,not_available
+"KHA - Burgers, Fries, Fried Chicken",4.3 ,47,"Burgers, American, Fast Food",Malad Kan West,not_available,not_available
+Hotel Sampoorna Samadhan (By Hotel Apala Samadhan),4.2 ,53,"Malwani, Indian, North Indian, Chinese",Borivali,not_available,not_available
+Zyka E Lajawab,3.9 ,65,"Chinese, Street Food, Indian, Kebabs, Tandoor",Malad Kan West,125,25
+Maldrin's Chinese Restaurant,4.2 ,53,Chinese,Malad West,449,not_available
+Mishmashbakery,4.7 ,53,Bakery,Jog Gor East,999,not_available
+Goan Katta,4.3 ,44,"Goan, Seafood, Indian, Beverages",Dahisar,not_available,not_available
+The Moveable Feast,4.3 ,51,"North Indian, Chinese, Mughlai, Beverages, Biryani",Borivali West,999,not_available
+Sisho - Oriental Pure Veg /Jain,4 ,46,Chinese,Jog Gor East,not_available,not_available
+Little West Pizza,4.3 ,50,"Pizzas, Italian, Beverages",Dahisar,749,not_available
+Flavours 21,4 ,42,"Chinese, Lebanese, Biryani, Thai",Malad East,700,20
+Top Star,3.7 ,49,"Indian, Chinese, Tandoor, Biryani",Kandivali West,not_available,not_available
+Fussion,3.7 ,43,"North Indian, Tandoor, Mughlai, Parsi, Indian, American, Desserts, Ice Cream",Malad East,449,not_available
+Crab Kolambi Pomfret & More,4.3 ,54,"Maharashtrian, Seafood, Biryani, Desserts, Thalis",PIMPRIPADA,not_available,not_available
+Amma's,4.4 ,46,"North Indian, Chinese, Tandoor, Beverages",Chincholi Cross Road,not_available,not_available
+Classic Comfort,4.2 ,49,"Beverages, Indian, Chinese, South Indian, Fast Food",Jog Gor East,not_available,not_available
+Papa'S Multi Cuisine,4.1 ,57,Indian,Malad Kan West,not_available,not_available
+Royal Challenge,4.6 ,52,"Indian, Chinese",Goregaon,not_available,not_available
+The Game Ranch,4.4 ,55,"Pizzas, North Indian, Burgers, Asian, Chinese",Malad Kan West,120,60
+Bajrang Bhel Puri,4.3 ,43,"Snacks, Chaat",Malad West,not_available,not_available
+Sapna Veg Restaurant,4.2 ,48,"North Indian, South Indian",Malad West,not_available,not_available
+The Shawarma fellow,4.2 ,45,Arabian,Malad West,999,not_available
+Olive Bistro & Bar,4.1 ,55,"Indian, Italian",Goregaon East,799,not_available
+Waffle Town,50 mins,,"Waffle, Desserts, Beverages",Malad Kan West,not_available,not_available
+Garden Court Restaurant,4.3 ,60,"Indian, Chinese",Malad West,not_available,not_available
+Adelkars Kitchen,4.4 ,47,Malwani,Goregaon West,not_available,not_available
+Hill View,4.3 ,53,"Indian, Chinese",Dahisar West,not_available,not_available
+70's Frogurt Hood,4.3 ,48,"Desserts, Ice Cream",Malad West,449,not_available
+SMP Express,4.4 ,50,"Chinese, Tandoor, Indian, Continental",Goregaon East,449,not_available
+Gupta Panipuri Center,4 ,42,"Chaat, Snacks",Kandivali West,not_available,not_available
+Malad Marathi Katta,4.1 ,79,"Maharashtrian, Biryani, Indian",Malad West,1000,40
+Cream Lounge,4.2 ,42,"Snacks, Desserts, Beverages, Ice Cream",Borivali West,not_available,not_available
+Lassi & Falooda Co,3.9 ,56,"Ice Cream, Beverages, Juices, Indian, Snacks, Healthy Food",Malad West,not_available,not_available
+All About salads,3.9 ,48,"Continental, Healthy Food, Salads",Malad Kan West,599,not_available
+Gorai Kinara,4.2 ,44,"Malwani, Chinese, North Indian, Beverages",Borivali West,not_available,not_available
+High On Wok - Sassy N Saucy,4.1 ,48,"Asian, Chinese, Salads",Aarey Road,not_available,not_available
+Flag's,4.2 ,47,"North Indian, Chinese, Italian, Thai, Mexican",Malad West,1200,10
+Namaskar,4.6 ,52,"Indian, Chinese, Tandoor, Biryani",Borivali west,500,10
+Neelams pride,4.5 ,49,"Chinese, Indian, Snacks",Borivali West,not_available,not_available
+Natural Fresh Ice Cream,3.5 ,43,"Ice Cream, Beverages",Malad Kan East,not_available,not_available
+Hotel Amantran,4.2 ,41,Indian,Malad Kan East,not_available,not_available
+Agent Jack's Bar,4.2 ,52,"Tandoor, Chinese, Pizzas, Salads, Indian, North Indian, Healthy Food, Pastas, Jain",Borivali West,not_available,not_available
+New Chopsticks,4.4 ,31,Chinese,Kandivali East,not_available,not_available
+Sagar Sweets,4.4 ,30,"Sweets, Snacks, Bakery",Borivali,not_available,not_available
+City Samosa,3.9 ,33,"Snacks, Beverages",Malad Kan East,not_available,not_available
+Cake Basket,4.4 ,27,"Bakery, Desserts",malad west ,449,not_available
+MovieMax,39 mins,,"Beverages, Burgers",Malad Kan West,not_available,not_available
+Welcome Fast Food,4.5 ,33,"Fast Food, Snacks",Malad Kan East,not_available,not_available
+Haagen Dazs Ice Cream & Desserts,38 mins,,"Ice Cream, Desserts",Matunga Wadala,399,not_available
+Tea Square Bar,4.4 ,40,"Pizzas, Fast Food, Street Food, Juices, Beverages",Malad Kan East,not_available,not_available
+Makabo By Juice Time,4.3 ,32,"North Indian, Chinese, Beverages",Borivali,449,not_available
+New Sheetal Dugdhalaya,4.6 ,35,"Desserts, Sweets",Malad Kan West,not_available,not_available
+Malvani swad,4.2 ,41,"Indian, North Indian",Malad Kan East,50,20
+Snack Shack,4.4 ,53,"North Indian, Snacks",Borivali West,not_available,not_available
+Shanghai Kitchen,4.1 ,53,"Chinese, Asian, Thai, Seafood, Beverages",Malad West,not_available,not_available
+Burrp Pizza,4.3 ,66,"Italian, Pizzas",Malad Kan West,399,not_available
+American Pie - Butter Crust Pizza,4.6 ,57,"Pizzas, Italian, Pastas",Malad Kan West,120,60
+Pohewala,46 mins,,"Snacks, Fast Food",Jog Gor West,not_available,not_available
+Momo's Mealbox,4.2 ,43,"Chinese, Arabian, Fast Food, Burgers, Snacks, Pastas",Borivali,499,not_available
+Love & Latte,4.2 ,51,"Beverages, Desserts, Cafe, Pizzas, Snacks, Waffle, Pastas",Malad West,449,not_available
+Sardaar Ji,4.3 ,60,"North Indian, Snacks, Chinese, Desserts",Malad Kan East,not_available,not_available
+Cake Heaven,3.5 ,40,"Bakery, Snacks",Borivali,not_available,not_available
+Bamboo Kitchen,3.7 ,42,"North Indian, Chinese, Biryani, Indian, Tandoor, Thai, Continental",Malad East,200,40
+Lassi Wala,47 mins,,Beverages,Malad Kan West,125,25
+Dharma's Sandwich,3.6 ,48,"Italian, American, Grill, Pizzas, Pastas, Snacks, Beverages",Borivali,not_available,not_available
+Hotel Ballaleshwar,3.8 ,43,South Indian,Malad East,not_available,not_available
+Baithack,3.7 ,44,"Beverages, Fast Food, Snacks, Burgers",Malad Kan West,499,not_available
+Great Indian Meals,3.8 ,55,"Mangalorean, North Indian, South Indian, Malwani",Goregaon,800,15
+Gelato Italiano - Ice Cream,3.3 ,41,"Desserts, Ice Cream",Goregaon East,699,not_available
+Brunch n Munch,4.5 ,50,"European, American, Continental, Italian",Malad West,not_available,not_available
+Ruchi Restaurant,4.9 ,59,"Italian, Burgers, Pizzas, Pastas, Continental",Gor East,449,not_available
+Farzi Cafe,4.2 ,50,Indian,Goregaon East,799,not_available
+Cococart,4.6 ,48,"Desserts, Sweets",Jog Gor East,899,not_available
+Kings Kulfi,4.7 ,40,Desserts,Goregaon East,not_available,not_available
+6th Street Yogurt,4.2 ,55,"Desserts, Ice Cream",Malad Kan West,449,not_available
+Diya's Kitchen,4.3 ,48,"South Indian, Snacks, Juices, Desserts",Dahisar West,100,20
+Shamazing Sugarfree Desserts,4 ,49,"Desserts, Ice Cream",Evershine nagar,900,10
+Rosh & Ron,4.2 ,54,"Chinese, Thai",Bmc Colony,80,15
+Sahara Hotel,4.2 ,45,"Chinese, Continental",Goregaon East,not_available,not_available
+Vedant kitchen,4.5 ,44,Indian,Malad Kan East,not_available,not_available
+Chai Vibhaag,4.4 ,44,"Indian, Beverages, Snacks",Aarey Road,not_available,not_available
+Potlibabas Kitchen,4.2 ,53,"Malwani, Biryani, Seafood, Salads",Borivali,not_available,not_available
+Food Lord - The Dining Bar,4.3 ,43,"Chinese, Continental, Indian",Borivali West,600,10
+Sweet heart cakes and more,3.6 ,50,Desserts,Kandivali West,999,not_available
+Anna Dosa Point,3.3 ,46,South Indian,Goregaon West,not_available,not_available
+Joyful Pizza,4.1 ,40,"Pizzas, Italian, Desserts, Beverages",Borivali,449,not_available
+The Chinese Corner,2.6 ,50,"Chinese, Lebanese",Jog Gor East,not_available,not_available
+Bao Bao,4.5 ,49,"Asian, Chinese, Beverages",Malad Kan West,749,not_available
+Egg Station,4.7 ,50,"Indian, Snacks",Malad Kan West,not_available,not_available
+Purohit Sweets,4.5 ,27,"Sweets, Fast Food, Desserts",Borivali,999,not_available
+Rajus fast food,5 ,33,Fast Food,Dahisar,not_available,not_available
+Yummy cake,4.1 ,39,"Bakery, Desserts",Dahisar West,not_available,not_available
+Maxus Cakes,3.6 ,30,Bakery,Malad Kan West,not_available,not_available
+World Famous Paratha,4.8 ,35,"Indian, Beverages",Borivali,not_available,not_available
+Swadesi Dairy Products,4.5 ,30,"Desserts, Sweets",Kandivali West,not_available,not_available
+Detox Cold Pressed Juice Bar,4.7 ,35,"Beverages, Juices",Dahisar East,999,not_available
+Sri Ram Kulfi And Ice Creams,34 mins,,"Desserts, Ice Cream",Malad Kan West,not_available,not_available
+Lavista Cake Shop,3.4 ,32,Desserts,Malad East,not_available,not_available
+Davat Fast Food,4.5 ,35,"Arabian, Chinese",Malad Kan East,50,20
+Golden Family Restaurant,2.2 ,37,"Continental, Oriental, Asian",Borivali,not_available,not_available
+Ek Batta Do,4.5 ,38,"Beverages, Snacks, Burgers, Pastas",Borivali,not_available,not_available
+Centre Point Dhaba,4.3 ,34,"North Indian, Chinese, Snacks",Borivali,1000,10
+Red Indian Sizzlers,4.5 ,37,"Pizzas, Chinese, Continental",Kandivali West,not_available,not_available
+Brownie Point Cakes Shop Frenchaies,4.4 ,26,"Indian, Bakery, Desserts",Borivali,999,not_available
+Super (Borivali),4.3 ,39,"Chinese, Fast Food",Dahisar,not_available,not_available
+The Italian Oven,52 mins,,Pizzas,Malad Kan West,999,not_available
+Maa Laads Kitchen,4 ,75,"Home Food, Rajasthani, North Indian, Indian",Malad West,not_available,not_available
+The Dragon House,4.3 ,51,"Chinese, Asian, Thai, Seafood",Malad Kan West,not_available,not_available
+Crazy Dough Pizza,4.1 ,43,"Continental, Italian",Borivali West,not_available,not_available
+Charlie's Chimney,4 ,43,"Chinese, Biryani",Malad Kan West,not_available,not_available
+Panchmukhi,4.6 ,55,"Indian, North Indian, Chinese, Tandoor",Rajan Pada,not_available,not_available
+Hotel Side Walk,4.3 ,40,"Indian, Chinese",Dahisar East,not_available,not_available
+Rustam Darbar,3.6 ,48,"Chinese, North Indian, Mughlai",Malad Kan West,749,not_available
+First Bytes Of Home,4.4 ,50,"Maharashtrian, Street Food, Fast Food",Borivali,not_available,not_available
+Aadu's Kitchen,4.5 ,41,"Chinese, Thai, Indian, Snacks",Kandivali East,1500,10
+Pappis Kitchen,4.3 ,42,"Indian, Chinese",Borivali West,not_available,not_available
+Hotel Kokan Kinara,4.2 ,53,"North Indian, Seafood, Chinese, Tandoor",Borivali,not_available,not_available
+Urban Bawarchi,4.6 ,45,"Snacks, Biryani, Desserts",Dahisar,not_available,not_available
+Bubble Tea (Badabing Badaboom),4.3 ,54,Beverages,Malad Kan West,not_available,not_available
+Break Fast Choice,3.7 ,56,Snacks,Goregaon,not_available,not_available
+Al's Kitchen & Grill,4.6 ,54,"Indian, Chinese, Thai, Tandoor, Fast Food",Malad West,not_available,not_available
+Geeta Z Veg Hub & Tiffin Service,4.5 ,48,"Indian, Snacks, North Indian",Dahisar,not_available,not_available
+Q Fussion,5 ,58,Chinese,Borivali,not_available,not_available
+Urban Aladdin,4.3 ,54,"Tandoor, Mughlai, Chinese, Thai, Biryani, North Indian, Pizzas",Malad West,not_available,not_available
+Sultanate Biryani By Purple Foods,45 mins,,"Biryani, North Indian, Indian",Malad East,599,not_available
+Royal Chinese Corner,3 ,40,Chinese,Dahisar,not_available,not_available
+Star Biryani,46 mins,,Biryani,Malad Kan East,not_available,not_available
+Mad Over Momos,53 mins,,Chinese,Jog Gor East,not_available,not_available
+Marhaba,4.6 ,60,Chinese,Malad Kan West,not_available,not_available
+Firangi Burgers,52 mins,,"Fast Food, Pizzas, Chinese, Beverages",Jog Gor West,not_available,not_available
+Huber And Holly,5 ,50,"Ice Cream, Desserts",Malad West,not_available,not_available
+The Bihari Studio,4.4 ,51,Indian,Kandivali East Lokhandwala,not_available,not_available
+Franco's Pizzeria,4.2 ,40,"Pizzas, Pastas, Fast Food, Italian",Kandivali West,150,30
+Farmhouse Brass Anchor,4.4 ,42,"Asian, Continental",Borivali,not_available,not_available
+Pednekar Kitchen,3.9 ,49,Seafood,Kandivali East,not_available,not_available
+The Fusion Express,4.1 ,50,"North Indian, Chinese, Tandoor, Biryani",Kandivali,150,30
+Olive Garden,3.9 ,40,"North Indian, Italian, Mexican",Borivali West,not_available,not_available
+Has Juice & More,4.1 ,42,"South Indian, North Indian, Chinese, Desserts",Goregaon East,not_available,not_available
+B for Biryani,4.3 ,55,"North Indian, Biryani, Kebabs, Chinese, Asian, Thai, Mughlai",Malad West,not_available,not_available
+Kwanz,4.6 ,25,"Chinese, Indian, Biryani",Malad Kan East,not_available,not_available
+Moyra Da,2.8 ,17,"Bengali, Sweets, Snacks",Malad Kan East,50,20
+Bhimji And Sons,13 mins,,Sweets,Malad Kan East,75,30
+Hapningzs,4.7 ,49,"Chinese, Indian, Tandoor, Biryani",Kandivali borivali East,not_available,not_available
+Tandoor Cafe,2.7 ,33,Beverages,Kandivali East,not_available,not_available
+From The Wok,4.7 ,23,Chinese,Malad kan east,700,20
+Little Cherry,4 ,23,Desserts,Malad Kan East,not_available,not_available
+Fizzy Thakur Village,23 mins,,"Beverages, Desserts, Fast Food",Malad Kan East,not_available,not_available
+Kulhad Rani,3.9 ,27,"Beverages, Snacks, Chinese",Malad Kan East,200,40
+Bottle Booth,2.8 ,23,Beverages,Malad Kan East,not_available,not_available
+99 Waffles,3.9 ,31,"Waffle, Desserts, Beverages",Mahavir Nagar,499,not_available
+Akkad Bakkad Bombay Boom,3.8 ,33,"Fast Food, Italian, Beverages",Kandivali East,not_available,not_available
+The Foodstagram,4.3 ,33,"Indian, Chinese, Biryani, Beverages",Kandivali East,50,20
+Dessero Cake Shop,4.5 ,42,"Bakery, Desserts, Waffle, Beverages, Burgers",Borivali,not_available,not_available
+CHINA WOK,46 mins,,"Chinese, North Indian",Dahisar,not_available,not_available
+Chef's Corner,52 mins,,"Italian-American, Mexican, Snacks",Jog Gor East,not_available,not_available
+Tasty Corner,40 mins,,Indian,Malad Kan East,not_available,not_available
+Effingut,47 mins,,"Continental, Italian",Malad West,not_available,not_available
+Swad deshi mataka,4.5 ,45,"Biryani, Indian",Borivali East,not_available,not_available
+Crave Kitchen,24 mins,,"Burgers, Beverages, Snacks",Malad Kan East,not_available,not_available
+Boba And Mocha,4.8 ,15,Beverages,Malad Kan East,not_available,not_available
+Dharma's sandwich - Thakur Village,4.1 ,31,"Pizzas, North Indian, Grill, Beverages",Kandivali East,50,20
+Subhash Pan Bhandar And Coldrinks,4.5 ,21,Paan,Malad Kan East,749,not_available
+Santushti Shakes And More,4.5 ,19,"Desserts, Waffle, Ice Cream",Malad Kan East,not_available,not_available
+Spicy Dajiba,23 mins,,"Indian, Snacks, Beverages",EVERSHINE MILLANIUM PARADISE,50,20
+Shahi Caterers,3.9 ,31,"Biryani, Indian",Borivali,not_available,not_available
+Janta Farsan And Sweets,4.4 ,34,"Sweets, Snacks, Indian",Malad East,not_available,not_available
+Surti Egg Point,3.9 ,34,Indian,Borivali,not_available,not_available
+MH11 Assal Missal,4.1 ,30,"Street Food, Maharashtrian, Indian",Dahisar,120,20
+Momos Canteen,5 ,38,"Chinese, Tibetan",Dahisar East ,not_available,not_available
+Nuvola Gelato,4.6 ,14,Ice Cream,"Kandivali, Malad East",not_available,not_available
+Western Tadka,3.8 ,39,"Italian, North Indian, South Indian, Beverages, Snacks, American, Chinese, Salads, Rajasthani, Tandoor, Lebanese, Hyderabadi, Kebabs, Juices, Biryani",Borivali West,175,35
+Kanha Sweets Snacks And Dryfruit,3.7 ,34,"Snacks, Chaat, Sweets, Beverages, Desserts",Borivali,not_available,not_available
+Momo Guy,3.7 ,46,"Chinese, Fast Food, Beverages",Borivali,449,not_available
+# Vegan,4.7 ,46,"North Indian, Chinese",Borivali,449,not_available
+Bhau Cha Dhakka,3.8 ,50,"Indian, Chinese, North Indian",Dahisar West,not_available,not_available
+Viola Patisserie,5 ,50,Desserts,G2 GARNET PALLADIUM,not_available,not_available
+My Little Cafe,4 ,53,"Cafe, Pizzas",Jog Gor East,not_available,not_available
+Hotel sekar,4.8 ,45,South Indian,Borivali,not_available,not_available
+Sultans Deli,4.3 ,57,"Arabian, Lebanese",Malad West,100,20
+MexiChino,4.4 ,41,"Mexican, Chinese",Borivali West,not_available,not_available
+RTC 2 - Rolls and Chicken Grills,4.1 ,45,"Snacks, Fast Food, North Indian, Street Food",Dahisar West,449,not_available
+Soda Frankie Hub,4.1 ,49,"Indian, Fast Food",Malad Kan West,not_available,not_available
+SHEIK'S Shawarma,4.3 ,47,"Lebanese, Mediterranean, Arabian, Middle Eastern, Beverages, Desserts, Bakery, Jain",Jog Gor East,449,not_available
+Mastee,4 ,53,"Italian, Continental",Borivali West,not_available,not_available
+The Veg Treat Legacy,4.4 ,40,"Chinese, South Indian, Biryani, Indian",Borivali,600,10
+The China Kitchen,50 mins,,"Chinese, Indian",Jog Gor East,not_available,not_available
+Monopoly Restaurant & Juice House,3.7 ,51,"Continental, Beverages",Malad West,not_available,not_available
+Laxmi Vilas,4.3 ,49,"North Indian, Chinese, Seafood",Daftary Road,100,15
+Pritam Fast Food,4.2 ,44,"Chinese, Beverages, South Indian, Indian, Fast Food",Jog Gor East,not_available,not_available
+Smoothie Bar Inc,4.1 ,50,"Juices, Beverages",Malad West,499,not_available
+Bombay Cycle Cafe,4.4 ,45,Pizzas,Borivali,125,25
+White House Cafe,4.1 ,58,"Italian, Beverages",Borivali,999,not_available
+Shuddhi,4.4 ,61,"North Indian, Chinese",Malad West,not_available,not_available
+Muchhad Paanwala,4.5 ,44,Paan,Borivali West,not_available,not_available
+Parathas And Meals,4.6 ,58,Indian,Ganesh Chowk,not_available,not_available
+Bangalore Iyyangars Bakery,4.4 ,45,Bakery,Malad Kan West,not_available,not_available
+Suriya's Kitchen,4.3 ,53,"Thai, Chinese, Asian",Borivali,749,not_available
+The Hangout Burger Hub,4.5 ,57,"Fast Food, Snacks, American",Malad West,not_available,not_available
+The Grove Kitchen And Bar,4 ,49,Indian,Dahisar,150,30
+SHREE SEVA FOODS,53 mins,,"Bakery, Desserts, Snacks",Borivali,not_available,not_available
+Aaradhya Family Chinese Corner,3.9 ,47,Chinese,Borivali West,not_available,not_available
+Sam Snacks,4.6 ,60,"Indian, South Indian",Malad East,not_available,not_available
+Bollywood Burger & Waffles CO,3.9 ,45,Indian,Dahisar West,449,not_available
+Sweet Touch By Landmark,3.7 ,59,"Desserts, Sweets",Malad Kan West,599,not_available
+Moktu,4.7 ,56,Chinese,Malad Kan West,not_available,not_available
+Natural juice center,2.9 ,46,"Beverages, Ice Cream",Malad Kan West,not_available,not_available
+The Boat Club,4.3 ,53,"Indian, Thai",Dahisar East,not_available,not_available
+Masala Mastee,4.6 ,50,"Maharashtrian, North Indian, Chinese, Fast Food",Borivali West,not_available,not_available
+Hotel Navbharat,4.3 ,45,"Chinese, Indian, Beverages",Malad East,not_available,not_available
+Coastal Food and Spirits,4.4 ,63,"Indian, Chinese",Malad West,not_available,not_available
+Hotel Lotus Court,4.3 ,54,"Indian, Chinese",Dahisar,not_available,not_available
+SoonLi Chinese Restaurant,4.4 ,60,Chinese,Malad West,not_available,not_available
+Raju's Asian Corner,4.1 ,41,"Indian, Chinese, Tandoor",Borivali,449,not_available
+Maratha Biryani Center,4 ,48,"Biryani, Chinese, Mughlai, North Indian, Tandoor",Jog Gor East,not_available,not_available
+Flag's Iii,3.8 ,49,"Indian, Continental, Chinese, Italian",Borivali,1300,10
+Aai Krupa Fast Food,3.8 ,42,Snacks,Borivali,not_available,not_available
+Ashoka Restaurant & Bar,4.3 ,51,Indian,Malad West,not_available,not_available
+Mizuna The Oriental Place,4.3 ,60,"Chinese, Fast Food, Snacks, Asian",Kandivali West,150,30
+Jaya's Kitchen,3.9 ,49,"Chinese, Indian",Malad Kan West,not_available,not_available
+Crazy Cakes,28 mins,,"Desserts, Bakery",Kandivali East,159,10
+Happy Moments,32 mins,,Bakery,Borivali,not_available,not_available
+The Shivaay,4 ,34,"Indian, Chinese, Continental",Kandivali East,not_available,not_available
+Bombay Sweets,3.5 ,28,"Sweets, Desserts",Borivali,not_available,not_available
+Banglore Iyangar'S Bekery,4.6 ,23,Bakery,Dahisar,not_available,not_available
+Radha Krishna Hotel,3.6 ,26,"Indian, Tandoor",Borivali,not_available,not_available
+Da Krem - Home of fresh baking.,4.2 ,29,"Bakery, Desserts",Borivali,not_available,not_available
+Laxmi Sweets and Thaali,4.6 ,34,North Indian,Borivali,not_available,not_available
+Madhav Fast Food And juice Center,4.3 ,34,"Beverages, Indian, Fast Food, South Indian, Burgers, Pizzas, Snacks",Borivali,350,20
+Pooja Pav Bhaji And Snacks Corner,35 mins,,"Fast Food, Indian, Chinese",Malad Kan East,100,50
+Shetty tea and snacks center,4.2 ,44,"Snacks, South Indian",Malad Kan East,not_available,not_available
+Cherry & Chocolatte,43 mins,,"Bakery, Desserts",Bandra West,50,20
+Maharaja Darbar,41 mins,,"North Indian, Chinese, South Indian, Burgers, Pizzas, Bakery, Beverages",Gandhare Road,150,30
+Meal By Kilo,3.9 ,40,"North Indian, South Indian, Chinese",Borivali,not_available,not_available
+Bhajiyawala & Co,3.9 ,40,"Indian, Italian-American, Continental, Lebanese",Borivali West,150,30
+North Punjabi Kitchen,3.8 ,41,"North Indian, Punjabi, Maharashtrian, Indian",Kandivali East,40,10
+Prasadam,3.4 ,37,Indian,Borivali,not_available,not_available
+Mumbai Fast Food,4.1 ,39,"Fast Food, Snacks, Pizzas, Beverages",Borivali,not_available,not_available
+Joye's Pizzeria,3.7 ,38,"Chinese, Desserts, Burgers, Pizzas, Italian",Kandivali East,100,50
+Hotel Regency,28 mins,,Chinese,Jog Gor East,not_available,not_available
+Savory Kitchen,4.2 ,35,"Indian, Bengali",Borivali East,not_available,not_available
+Tavola restaurant,4.3 ,30,"Indian, Biryani, Chinese, Pizzas, Seafood",Borivali,not_available,not_available
+Vijay Pure Veg,4.6 ,31,Chinese,Kandivali East,not_available,not_available
+Konkan Kubera,4.1 ,36,"Chinese, North Indian, Seafood",Borivali,not_available,not_available
+Spaghetto,34 mins,,"Italian, Beverages",Malad Kan East,100,50
+Froozo,3.7 ,50,"Pizzas, Beverages, Burgers, Desserts",Malad West,150,30
+Chinese Foodie,3.7 ,43,"Chinese, Thai",Malad East,200,40
+Chinese Katta,47 mins,,"Chinese, Snacks",Dahisar,999,not_available
+Cake Culture,2.6 ,42,Bakery,Borivali West,not_available,not_available
+Phat Fork Chinese,4.5 ,55,"Chinese, Asian, Thai",Malad Kan West,499,not_available
+Yummy Shawarma,45 mins,,"Arabian, Burgers, Kebabs, Snacks, Beverages",Malad Kan West,250,50
+Panda Momos,3.9 ,42,"Asian, Chinese, Tibetan, Beverages, Desserts",Borivali,449,not_available
+The Chinese House,59 mins,,Chinese,Jog Gor East,999,not_available
+London Dairy,3.8 ,36,Punjabi,Dahisar,not_available,not_available
+Pure Veg Bowls & Meals,3 ,36,"Healthy Food, Pizzas, North Indian, Thalis, Biryani, Chinese",Gorai Road,not_available,not_available
+The Cake House,3.8 ,39,Desserts,Kandivali West,not_available,not_available
+Wack Waffles & Brownies,4.1 ,38,"Waffle, Bakery, Desserts, Beverages, Ice Cream",Borivali,449,not_available
+Miami Waffle & Jawbreakers,4 ,38,"Waffle, Bakery, Desserts, Bengali",Borivali,449,not_available
+Winners Pizza (Fresh Dough),3.8 ,39,"Pizzas, Italian, Desserts, Beverages",Borivali,449,not_available
+Green Dot Pizza,4 ,39,"Pizzas, Italian, Desserts, Beverages",Borivali,449,not_available
+MASKA CHASKA,36 mins,,"Chinese, Pizzas",Borivali,449,not_available
+Cake4u,4.3 ,28,Desserts,Kandivali East,not_available,not_available
+Jenny's Brownies,4.4 ,30,"Waffle, Bakery, Ice Cream, Desserts, Beverages",Borivali,449,not_available
+Cafe k2k,38 mins,,Indian,Malad Kan East,100,20
+Nomad Salad,4.3 ,55,"Salads, Healthy Food",Malad Kan West,999,not_available
+Food Express,4.4 ,52,"Fast Food, Italian, Snacks",Malad,not_available,not_available
+Wendy's Flavor Fresh Burgers,43 mins,,"Burgers, American, Fast Food, Snacks, Beverages",Goregaon,499,not_available
+Mummy's Kitchen,3.5 ,61,"Street Food, South Indian",Borivali,100,10
+Cake Zone,4.2 ,40,"Bakery, Desserts",Borivali,not_available,not_available
+Cake Point,2.4 ,40,Cafe,Malad East,150,30
+Mumma's kitchen,4.2 ,44,North Indian,Borivali West,449,not_available
+Friends Fast Food,4.5 ,43,"Chinese, Indian",Kandivali West,not_available,not_available
+Food Hub,4.4 ,49,Chinese,Malad West,120,20
+Vital Bowls,50 mins,,"Healthy Food, Salads, Beverages, Keto",Goregaon,399,not_available
+Wakka Makka Chinese,4 ,42,"Chinese, Asian, Desserts, Beverages",Borivali,449,not_available
+Tea Villa Cafe,4 ,46,"Beverages, Asian, Italian-American, Arabian, Japanese, Fast Food, Waffle, Salads",Borivali,not_available,not_available
+Shawarma Corner,3 ,54,Arabian,Malad Kan East,250,50
+The Sandwich House,3.7 ,46,"Snacks, Fast Food, Pizzas, American, Desserts",Borivali West,not_available,not_available
+CELEBRATE WITH CAKE,27 mins,,Bakery,Malad Kan East,not_available,not_available
+Live Puff Factory,29 mins,,Snacks,Borivali,not_available,not_available
+Sanjog Restaurant,3.9 ,32,"Indian, Kebabs, Chinese, Tandoor, Biryani, Beverages, Juices",Dahisar,not_available,not_available
+Bottoms Up,4.7 ,29,Beverages,Borivali,not_available,not_available
+Minus Zero Degree Icecreams,4.3 ,26,"Desserts, Ice Cream, Beverages",Borivali,not_available,not_available
+Tea Pea,4.2 ,32,"Italian, Beverages, Desserts, Snacks, Fast Food, Chaat, American",Borivali,not_available,not_available
+Wedeshi Canteen,2 ,29,"Waffle, Desserts",BORIVALI EAST,not_available,not_available
+Pizza Mania,4.1 ,47,"Pizzas, Fast Food",Jog Gor East,not_available,not_available
+Miami Shakes & More,3.8 ,33,"Desserts, Beverages",Borivali,449,not_available
+Chinese Adda,3.4 ,44,"Chinese, Fast Food, Italian",Dahisar,not_available,not_available
+BlackBun,4.3 ,36,Bakery,Malad Kan East,50,20
+Subhash Paan Bhandar,4.4 ,34,Indian,Kandivali West,not_available,not_available
+MCF - V Kitchen,4.2 ,39,"Indian, Chinese",Borivali West,not_available,not_available
+Shegaon Kachori - Maha 203,4.7 ,34,Snacks,Malad Kan West,not_available,not_available
+Pooja Malai Gola,3.9 ,30,Desserts,Malad Kan East,not_available,not_available
+Bake & Bite,4.3 ,31,Bakery,Dahisar,449,not_available
+shree balaji foods,4.1 ,35,Fast Food,Malad Kan East,not_available,not_available
+Shree Rameshwar Ice Cream And Falooda,4.6 ,37,"Ice Cream, Beverages",Jog Gor East,not_available,not_available
+Baskin Robbins,38 mins,,Ice Cream,Malad Kan East,not_available,not_available
+Chopsticks Pure Veg,4.1 ,35,"Chinese, Continental, Indian",Borivali West,not_available,not_available
+Mitron Kandivali,5 ,43,"Italian-American, Fast Food, Salads",Malad Kan East,not_available,not_available
+UK14 Icecream,19 mins,,"Bakery, Ice Cream, Beverages",Malad Kan East,not_available,not_available
+Sage,4.5 ,26,"Pastas, European, Continental, Italian, Cafe",Kandivali East,50,20
+Bombay Chinese Co.,3.6 ,41,"Thai, Chinese, Indian",Malad East,200,40
+Bombay Healthy Juices,4.3 ,42,Juices,Borivali,not_available,not_available
+Pooja Chinese Corner,4.1 ,45,Chinese,Kandivali - West,700,20
+Poush - Essence of Kashmir,4.3 ,52,"Indian, Bengali, Mughlai",Malad West,700,20
+Taste of Italy,4.5 ,67,"Continental, Italian, Fast Food",Malad Kan West,not_available,not_available
+Manaqish - Lebanese Gourmet,49 mins,,"Lebanese, Salads, Snacks",Borivali,499,not_available
+Tawa Twist ( Pure Veg ),4.2 ,53,"North Indian, Chinese, South Indian",Goregaon,not_available,not_available
+Vaishalis Krustty Kremme,41 mins,,"Bakery, Cakes and Pastries, Desserts",Borivali,125,20
+Saute,4.2 ,53,"Thai, Chinese, Indian, Tandoor",Malad West,not_available,not_available
+PizzAah! District,4 ,46,Pizzas,Kandivali West,not_available,not_available
+Satnam Golden Fast Food Centre,4.6 ,42,"Fast Food, Italian, Mexican, Snacks",Kandivali West,not_available,not_available
+The Kulfi & Falooda Project,3.9 ,52,"Ice Cream, Beverages, Juices, Desserts",Malad West,300,not_available
+Coffee Craft,4.4 ,43,"Beverages, Fast Food, Desserts",Borivali West,not_available,not_available
+K's Charcoal,4.3 ,43,"Italian, Mexican",Borivali West,not_available,not_available
+7 Islands,4.4 ,53,"Indian, Oriental, Snacks, North Indian, Chinese, Pastas",Malad Kan West,100,20
+Namaskar - The Maharaja,3.9 ,44,"North Indian, Seafood, Biryani, Tandoor, Kebabs",Dahisar,not_available,not_available
+Cheezza Point,3.8 ,53,"Pizzas, Burgers, Snacks, Beverages",Malad West,not_available,not_available
+Hen Hao Chi,3.8 ,44,Chinese,Borivali West,700,15
+Mantra,4.5 ,46,North Indian,Borivali West,not_available,not_available
+Sam Chinese Corner,4.4 ,58,Chinese,Malad East,not_available,not_available
+Albela Chinese Home,4.3 ,43,Chinese,Borivali West,not_available,not_available
+Mother's Touch Gujrati,4 ,74,Indian,Malad West,999,not_available
+Nityanand (Kandivali),4.3 ,42,"Indian, Chinese",Dhanukarwadi,not_available,not_available
+Dream Wok,4.3 ,57,"North Indian, Chinese",Dahisar West,749,not_available
+The Chinese Village,4 ,47,"Chinese, Beverages, Desserts",Gorai,not_available,not_available
+Royal Chinese Cafe,51 mins,,Chinese,Malad Kan West,not_available,not_available
+Snackiezz,4.5 ,51,"Continental, Beverages, Snacks, Italian-American",Dahisar,125,25
+Bipin Sandwich & Pizza Plaza,4.5 ,44,Pizzas,Borivali West,700,10
+PS Pav Bhaji,5 ,44,"Indian, Fast Food",Malad Kan East,150,30
+Bipin Big Sandwich,4.1 ,50,"Snacks, Fast Food",Borivali,not_available,not_available
+Ambika Chinese Restaurant (Since 2005),3.7 ,50,"Indian, Chinese",Kandivali West,999,not_available
+Dum De Biryani,47 mins,,"Snacks, Biryani, Tandoor, Indian",Borivali,125,25
+Gup Shup Snacks Junction,59 mins,,Snacks,Malad Kan West,not_available,not_available
+Swaad E Rasoi,4.3 ,52,"Chinese, Asian, Thai",Goregaon,600,10
+Chocoholix,4.6 ,43,Bakery,Malad Kan West,not_available,not_available
+Unique Cake Shop,4.6 ,43,"Bakery, Desserts, Snacks",Malad Kan West,not_available,not_available
+Dandelions Kitchen & Bar,4.5 ,47,"Indian, Kebabs, Continental, Thai, Burmese, Salads, Seafood",Borivali,not_available,not_available
+Hassan Kabab Spot,4.3 ,43,"Snacks, North Indian, Indian",Jog Gor East,not_available,not_available
+Nagori Tea Point,4.2 ,41,Beverages,Malad Kan West,not_available,not_available
+Eat Hygiene,4.5 ,59,"Pizzas, Pastas, Desserts, Beverages",Jog Gor East,not_available,not_available
+Raju's Chinese Corner,52 mins,,Chinese,Borivali,449,not_available
+Food Lovers,4 ,51,Chinese,Malad Kan West,not_available,not_available
+Enchante By Chai Point,2.4 ,46,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi, Chaat, Indian, American, North Indian, Fast Food, Desserts, Cafe, Healthy Food, Home Food",Malad West,80,40
+Hot Lee Chinese,4.4 ,46,"Chinese, Asian, Desserts, Beverages",Borivali,449,not_available
+Food Planet,4.3 ,39,"Snacks, Pizzas, Burgers, Fast Food",Borivali,not_available,not_available
+Waffle World,4.8 ,35,"Waffle, Desserts",Borivali,not_available,not_available
+Snack Eat,41 mins,,"Indian, Snacks",Rawal Pada,not_available,not_available
+The Sandwich Story,3.5 ,69,"Indian, Snacks, Juices, Desserts",Malad West,300,not_available
+Little Loco Pops,4.4 ,46,"Ice Cream, Desserts",Malad West,449,not_available
+Moody Foody,4.1 ,47,"Indian, Maharashtrian, Street Food, Chinese, Pizzas, Fast Food, Burgers, Cafe, Beverages",Kandivali east ,not_available,not_available
+BFF- Bombay French Fries,2.9 ,36,"Continental, Desserts, Beverages",Borivali,449,not_available
+The Waffle Room,2.8 ,37,"Waffle, Cafe",Kandivali,999,not_available
+Quick Meal,4.2 ,36,"Indian, Chinese",Borivali East,not_available,not_available
+Eagle Boys Pizza and Cafe,2.5 ,39,"Italian, Pizzas, Burgers, Pastas, Beverages",Borivali west,100,20
+Chyna,4.2 ,35,Chinese,Malad Kan East,not_available,not_available
+JK Sweets,4.4 ,32,"Sweets, Desserts",Malad West Mumbai,not_available,not_available
+Foods Planet,32 mins,,Biryani,Borivali,not_available,not_available
+Gangaur Thali,4.4 ,31,"Indian, Thalis",Borivali,not_available,not_available
+The Sandwich Zone,4.3 ,33,"Fast Food, Italian, Snacks",Borivali,not_available,not_available
+Power Smoothies,4.6 ,33,"Healthy Food, Beverages",Borivali,700,30
+Triveni Pan Bhandar,3.3 ,39,"Paan, Desserts",Borivali,not_available,not_available
+Vividham Sweets,4.3 ,27,"Sweets, Snacks",Borivali,not_available,not_available
+Food Shood,4.7 ,30,"Indian, North Indian, Snacks, Mughlai, Tandoor, Kebabs, Punjabi, Biryani, Chinese, Street Food",Borivali,not_available,not_available
+Gigil Brasserie,4.2 ,43,"Italian, Pizzas, Beverages",Borivali West,1000,25
+Nirala Gourmet Kitchen,4.1 ,50,"Pizzas, Pastas, Burgers, Snacks",Borivali,120,60
+Hotel Sai Prasad Family Restaurant,4 ,52,"North Indian, Chinese, Tandoor, Beverages",Borivali,not_available,not_available
+Sarova Bar & Restaurant,4.8 ,42,"Thalis, Chinese, North Indian",Kandivali East,not_available,not_available
+Pizza In Town,4.1 ,50,Indian,Dahisar,not_available,not_available
+Jay Bhavani Fast Food Center,54 mins,,"Fast Food, North Indian, Chinese, Biryani",Borivali,499,not_available
+Raja Chinese Corner,3.6 ,42,Chinese,Borivali,1300,10
+Agga Bai,4.6 ,52,Desserts,Borivali,40,10
+Golden Delicacy Multicuisine Restaurant,4.3 ,41,"Indian, South Indian, Chinese, Tandoor, Biryani, Snacks, Italian-American, Ice Cream, Beverages",Borivali,not_available,not_available
+Bombay Boba,3.2 ,42,Beverages,Kandivali West,not_available,not_available
+OM R K Fast Food,4.4 ,42,South Indian,Borivali,not_available,not_available
+PLATESS MULTICUISINE RESTAURANT,3 ,47,"Chinese, Indian",Borivali,not_available,not_available
+Namak Mirchi,4.3 ,30,"North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs",Kandivali East,100,50
+Mozo Pizzaria,3.6 ,28,"Pizzas, Burgers, Chinese, Desserts, Italian",Behind Annexe Mall,100,50
+The Khichdi House,3.3 ,25,"Indian, North Indian, Thalis, Desserts",Malad Kan East,100,50
+Tandav Tea Company,3.8 ,29,"Snacks, Beverages",Malad Kan East,40,10
+Oven Stories Pizza,3.5 ,33,"Pizzas, Burgers, Desserts, Chinese, Pastas, Italian",Kandivali East,100,50
+Creamillaa,4.8 ,19,"Desserts, Ice Cream",Malad Kan East,not_available,not_available
+Thakkar Lunch Home,4 ,25,"Indian, Snacks",Kandivali East,50,20
+Mama's By Banjara Dhaba Veg,4.1 ,25,"North Indian, Chinese, Fast Food, Snacks, Biryani",Malad Kan East,120,60
+Combos & More - The Steal Deal Food Factory,4.1 ,29,"Chinese, Pan-Asian, Thai, Beverages",Kandivali East,not_available,not_available
+Hotel Matsyagandha,4.3 ,34,"North Indian, Malwani, Chinese, Seafood, Mangalorean, Tandoor",Kandivali East,not_available,not_available
+Love 99,3.9 ,35,"Desserts, Waffle, Beverages, Bakery",Mahavir Nagar,600,15
+House Of Combos,34 mins,,"Combo, Continental, Asian",Borivali,not_available,not_available
+Ice Cap The Cake Shop,32 mins,,Bakery,Malad Kan East,not_available,not_available
+Biryani Lovers,3.4 ,44,"Biryani, Arabian, Tandoor",Malad Kan East,not_available,not_available
+Glaciers Cakes And More,28 mins,,Bakery,Malad Kan East,159,25
+Happy Moments The Cake Shop,32 mins,,Bakery,Malad Kan East,not_available,not_available
+The Dutch Waffles,28 mins,,"Bakery, Desserts",Malad Kan East,not_available,not_available
+Chile Ma,24 mins,,"Bakery, Waffle",Malad Kan East,not_available,not_available
+Uncle's Kitchenette,28 mins,,"Waffle, Bakery",Malad Kan East,not_available,not_available
+De Firrrangi cafe,31 mins,,"Juices, Beverages",Malad Kan East,not_available,not_available
+DK's Kitchen,4.4 ,33,"Chinese, Tandoor",Borivali East,not_available,not_available
+Bbcc - Borivali Barbeque Chinese Co.,32 mins,,Italian,Malad Kan East,not_available,not_available
+Choco Pack,33 mins,,Desserts,Malad Kan East,not_available,not_available
+Sandwich Co.,33 mins,,Fast Food,Malad Kan East,not_available,not_available
+Vivgato The Live Cake Shop,2.7 ,37,"Bakery, Desserts",Malad Kan East,not_available,not_available
+M M Dum Biriyani Centre,4.1 ,34,"Indian, Biryani, Beverages",Borivali,not_available,not_available
+Hari Om Snack Bar,3.8 ,37,"Fast Food, Snacks, Indian",Kandivali,not_available,not_available
+Jaggu Anna,1.5 ,39,"Fast Food, Kebabs, Snacks",Borivali,not_available,not_available
+Signature Premium Cafe & Resto,3.7 ,39,"Pizzas, Fast Food, South Indian, Juices, Snacks",Borivali West,not_available,not_available
+Mangalam,4.1 ,37,"Indian, Chinese",Borivali West,not_available,not_available
+Chaat Samrat,3.8 ,38,"Chaat, Pizzas, Pastas, Fast Food, Snacks, Burgers",Dahisar,not_available,not_available
+Cafe Town,36 mins,,Burgers,Borivali,not_available,not_available
+Hotel Aqua Stone RESTO BAR,5 ,38,"Chinese, Snacks, Beverages, North Indian, Kebabs",Dahisar,not_available,not_available
+Srijana Momo House,5 ,35,Chinese,Malad Kan East,not_available,not_available
+Cafe To Gather,34 mins,,Fast Food,Malad Kan East,999,not_available
+Meal In Minutes,34 mins,,"North Indian, Pizzas, Fast Food, Snacks, Beverages",Malad Kan East,100,50
+Wanton Point Tadka,4.3 ,34,"Indian, Chinese",Kandivali East,not_available,not_available
+Agri Malhari Katta.(Tandoori House),4.3 ,50,"Biryani, Chinese, Tandoor, Kebabs, North Indian, Sweets",Borivali,600,10
+Daily 52,5 ,50,Indian,Borivali,not_available,not_available
+Culture Kitchen,52 mins,,"Chinese, Snacks",Jog Gor East,not_available,not_available
+Golden Plate,3.8 ,55,"Chinese, North Indian, Biryani, Beverages",Dahisar,not_available,not_available
+Casa Curry,43 mins,,Burgers,Borivali,not_available,not_available
+The Cookie Dough,3.7 ,58,"Snacks, Bakery, Fast Food, Beverages",Malad West,not_available,not_available
+What The Wok,4.3 ,43,Chinese,Borivali West,999,not_available
+Burgerbook,4.5 ,52,"American, Fast Food",Malad Kan West,not_available,not_available
+Kamath Dakshinswaad,4.2 ,47,South Indian,Malad Kan East,not_available,not_available
+Shweta's Taatbhar Potbhar,4.1 ,45,"Indian, Biryani",Borivali,749,not_available
+Momento Pizza,4.3 ,45,"Pizzas, Italian, Fast Food",Borivali West,not_available,not_available
+Brownie Point Malad,41 mins,,Bakery,Malad Kan West,not_available,not_available
+Cafe A1,4.1 ,52,"North Indian, Tandoor, Mughlai, Chinese, Fast Food, Desserts, Beverages",Malad Kan West,not_available,not_available
+Desi Dawat,44 mins,,Indian,Charkop,not_available,not_available
+Slide A Roll,4.1 ,50,Snacks,Malad West,not_available,not_available
+Mr Singhs Tandoori Hut by RPD,4.2 ,64,"North Indian, Tandoor, Biryani",Malad West,not_available,not_available
+Shree Siddhivinayak juice and snacks centre,4.8 ,44,Fast Food,Dahisar East,not_available,not_available
+Kalubai juice center,4.4 ,46,"Beverages, Juices",Borivali,250,50
+Dragon Flame Chinese,3.5 ,50,Chinese,Kandivali West,125,25
+Ashish Chinese Corner,3.6 ,40,Chinese,kandivalli charkop,not_available,not_available
+The Tasty Love,5 ,50,"Chinese, Arabian, Biryani, South Indian",Jog Gor East,999,not_available
+Noon Roti - Story of Bihar,3.2 ,49,"Indian, North Indian",KANDIVALI WEST,599,not_available
+Preeti Sandwich and juice center,4.2 ,40,"Snacks, Italian, Pizzas, Pastas, Beverages",Mahavir Nagar,900,10
+AL-Falah Irani Chai Momos And More,4 ,54,Biryani,Borivali West,not_available,not_available
+Baan Khun yay,4.1 ,53,"Chinese, Thai, Desserts",Borivali,999,not_available
+Film City Fast Food,3.4 ,58,"Indian, Chinese",Malad Kan East,not_available,not_available
+The Bombay Stories,4.3 ,57,"Street Food, Beverages, Fast Food, Pizzas, Pastas",Malad West,100,10
+Boneto Fine Dine,4.5 ,59,Indian,Malad Kan East,not_available,not_available
+Chhedas,3.7 ,46,"Snacks, Sweets",Jog Gor East,not_available,not_available
+Amit Fast Food- Chinese Corner,4.5 ,53,Chinese,Malad West,not_available,not_available
+Sai Sarovar,4.4 ,49,"North Indian, Snacks, Chinese",Malad Kan West,not_available,not_available
+Thew Pueblo Gourmet - TPG,4.2 ,45,"Snacks, Beverages",Borivali,not_available,not_available
+Raza Biryani,3.2 ,60,"Biryani, Kebabs, Tandoor",Malad Kan East,not_available,not_available
+New Sam's Kitchen,4.4 ,58,"Indian, Chinese",Goregaon,not_available,not_available
+Flavour & Spice,3.7 ,54,"Fast Food, Indian, Tandoor",Borivali,449,not_available
+Fishermans Hook,4.1 ,57,"North Indian, Chinese, Seafood",Malad West,not_available,not_available
+WEST COAST DINER,4.5 ,50,Desserts,Dahisar,not_available,not_available
+Lady The Leaf,3.9 ,51,"Continental, Salads, Grill, Juices, Beverages",Malad West,125,25
+DYNAMIC CAKE,51 mins,,Bakery,Jog Gor East,not_available,not_available
+Om Sai Dosa Center,40 mins,,South Indian,Kandivali East,not_available,not_available
+Gravy and Savy,4.2 ,55,"North Indian, Indian",Kandivali W,not_available,not_available
+Mithilanchal - Xpress Of Food Abode,2.3 ,51,"Indian, Seafood",KANDIVALI WEST,599,not_available
+Dale's Eden - Gifting,47 mins,,"Desserts, Sweets",Malad Kan West,449,not_available
+Subhanallah Chinese,4.7 ,56,Chinese,Malad West,not_available,not_available
+Jalandharwala,4.6 ,41,"Indian, Snacks, Desserts",Borivali,not_available,not_available
+Rolls & Many More,3.3 ,46,Burgers,Borivali,999,not_available
+La pizza house,3.3 ,43,"Fast Food, Snacks, Pizzas, Maharashtrian",Dahisar west,not_available,not_available
+Trunks & Leaves,4.1 ,46,"Chinese, Italian, Mexican, Indian, Kebabs, Tandoor, Biryani",Kandivali West,999,not_available
+KOFU - Premium Artisanal Icecreams,3.6 ,41,Ice Cream,Jog Gor East,449,not_available
+IceCream Cake City,4.2 ,45,"Bakery, Beverages",Malad Kan West,not_available,not_available
+Oye Lucky Paratha,3.8 ,51,"Indian, Punjabi, Beverages",Malad West,not_available,not_available
+Adventure Momo House,4.1 ,51,Chinese,Malad Kan West,not_available,not_available
+Reuben Restrobar,4.2 ,59,"North Indian, Chinese, Italian, Snacks, Biryani, Desserts, Continental, Pizzas, Salads, Beverages, Mughlai",Malad Kan West,not_available,not_available
+Wu Momos - Malad,3.8 ,49,"Chinese, Snacks",Malad Kan West,749,not_available
+Aradhana Hotel,4.2 ,42,"South Indian, Indian",Malad Kan West,not_available,not_available
+Trends,4.4 ,56,"Indian, Chinese",Malad West,not_available,not_available
+Conscious Baking Project,3.5 ,42,"Bakery, Desserts",Jog Gor East,not_available,not_available
+Paanjo Taste,4.3 ,43,"Pizzas, Fast Food",Borivali West,not_available,not_available
+Bhor,4.6 ,61,Indian,Jog Gor West,not_available,not_available
+Kung Fu,3.7 ,42,"Chinese, Pan-Asian, Continental, Asian",Kandivali West,249,not_available
+Crust & Buns,4.1 ,51,"Pizzas, Fast Food, Italian, Salads",Borivali West,999,not_available
+Kababi Nation,4.4 ,59,"Indian, Chinese, Tandoor, Biryani",Borivali,not_available,not_available
+Deepak Chinese Corner,60 mins,,Chinese,Malad Kan West,700,20
+Tight House,4 ,59,"Pizzas, Chinese, Indian, Beverages, Biryani",Borivali West,not_available,not_available
+Chulha  Sardari,4.6 ,45,"North Indian, Punjabi, Biryani, Chinese, Indian",Borivali West,not_available,not_available
+Yo Social Cafe,61 mins,,"Indian, North Indian, Chinese, Biryani, Pastas, Snacks",Malad Kan West,not_available,not_available
+Curry N Fry,4.1 ,52,"Biryani, Chinese, Tandoor, North Indian",Malad East,449,not_available
+Hot Grill,43 mins,,"North Indian, Biryani",Dahisar,not_available,not_available
+CBC Chinese By Choice,3.8 ,50,"Chinese, Thai, Asian, Beverages",Malad Kan East,150,30
+The Little Cakery,3.3 ,52,"Bakery, Desserts",Jog Gor East,not_available,not_available
+Shree Shankar Vilas Juice Centre,41 mins,,Beverages,Dahisar,not_available,not_available
+Salads@169,4.3 ,52,Salads,Malad Kan West,125,25
+Chavdar Thamba,48 mins,,"Indian, Thalis",Mira Road,499,not_available
+Joker Joe s pizza,4 ,61,"Italian, Beverages",Jog Gor East ,999,not_available
+Sandwich And Frankey House,53 mins,,"Fast Food, Snacks, Italian-American, Beverages",Jog Gor East,not_available,not_available
+Marve Bakery,48 mins,,"North Indian, Chaat",Malad Kan West,not_available,not_available
+Idaily - Idli Daily,51 mins,,"South Indian, Snacks, Indian, Beverages",Malad Kan West,not_available,not_available
+Grow More Snacks(Maitri Amruttulya),46 mins,,Beverages,Malad Kan West,not_available,not_available
+Mudras,3.8 ,43,"Pizzas, Fast Food, Beverages, Indian",Borivali,not_available,not_available
+Sunday The Comfort Kitchen,5 ,46,"Chinese, Continental, Indian, Goan, Italian, Salads",Borivali,not_available,not_available
+Shivansh Kitchen,4.8 ,66,"South Indian, Beverages, Snacks",Kandivali West,not_available,not_available
+The Live Cake Shop,4.2 ,47,Desserts,Kandivali West,not_available,not_available
+Rasoi kamaal,4.2 ,54,"Malwani, Chinese, North Indian",Goregaon,700,20
+Masterji - Surati Anda Gotala,4.3 ,45,"Indian, Gujarati",Borivali,not_available,not_available
+Momos & Waffle Cafe,3.8 ,51,"Chinese, Kebabs",Borivali,150,30
+AADI GRAND RESTAURANT,46 mins,,Indian,Borivali,not_available,not_available
+Brahmi-The Veg Bistro,3.5 ,40,"Biryani, Indian, Chinese, Beverages",Malad East,449,not_available
+Namaste Borivali,4.3 ,41,"Snacks, Beverages",Borivali,999,not_available
+Chaska Corner,47 mins,,Biryani,Malad Kan West,999,not_available
+Dharma Sandwich,2.6 ,53,Fast Food,Malad Kan East,not_available,not_available
+Manojs Ice Cream,4.7 ,42,Ice Cream,Kandivali West,not_available,not_available
+Food Lover Point,3.5 ,52,Indian,Goregaon,not_available,not_available
+Shiv Shakti,3.6 ,51,North Indian,Borivali West,1000,10
+Suyog Dining Bar,4.6 ,41,"Indian, Chinese",Dahisar,not_available,not_available
+81 Olives,3.4 ,45,Pizzas,Borivali,not_available,not_available
+Remi'S Kitchen,5 ,41,"Jain, Chinese, Tibetan",Malad Kan East,not_available,not_available
+Aqua Dhaba,47 mins,,"Indian, Chinese, Biryani",Dahisar,120,20
+Healthy Shawarma,3.6 ,40,Arabian,Borivali,999,not_available
+Oriv Resto - Cafe - Bar,4.3 ,56,"Chinese, Pizzas, Snacks, Pastas",Borivali,999,not_available
+Delights,47 mins,,"Bakery, Desserts",Mira Road,not_available,not_available
+Nagori tea and cold drinks shop,4.5 ,42,"Beverages, Snacks",Malad Kan West,749,not_available
+Delhi Sweet & Bhelpuri House,3.7 ,46,"Snacks, Sweets, Chaat, Street Food",Malad West,not_available,not_available
+Shri Sainath,4.8 ,46,"Chinese, Tandoor",Malad West,not_available,not_available
+Backyard Beer Garden,50 mins,,Chinese,Dahisar,not_available,not_available
+Donna's Pizza,4 ,43,Pizzas,Kandivali West,not_available,not_available
+Gourmet Veg Burgers By Spukies,4.9 ,55,"Burgers, American, Beverages",Jog Gor East,not_available,not_available
+Kabali,4.1 ,67,"Indian, Tandoor, Salads",Malad Kan West,999,not_available
+Gossip Corner,4.4 ,46,"Continental, Italian",Borivali West,999,not_available
+Rajdhani Caterers,2.4 ,53,Indian,Dahisar West,not_available,not_available
+Dave's Dal Dhokli,4.7 ,60,"Gujarati, Rajasthani, Maharashtrian",Dahisar West,not_available,not_available
+Plate - It,4 ,62,"Biryani, Italian",Borivali,499,not_available
+Squares Pizza and Cafe,4.3 ,52,"Italian, Pizzas",Malad West,not_available,not_available
+Sriya chinese Restaurant,3.5 ,46,"Chinese, North Indian, Indian, Beverages",Kandivali West,600,25
+Shanghai Chinese Pure Veg,3.8 ,51,Chinese,Dahisar East,999,not_available
+Jumboking Indain Burger,4 ,46,"Burgers, Snacks, Beverages",Malad Kan West,449,not_available
+Annalaxmi Snacks ,3.9 ,52,"Chinese, South Indian, Tandoor, Arabian, Fast Food",Jog Gor East,1000,20
+M/S. Aslam Chicken,3.4 ,47,"North Indian, Kebabs, Desserts",Mira Road,not_available,not_available
+Dharmu's Snacks Corner,4.2 ,50,"Snacks, Maharashtrian",Borivali,not_available,not_available
+Aaradhya Super Restaurant,30 mins,,Beverages,Malad Kan East,not_available,not_available
+New Cake Place,32 mins,,Bakery,Borivali,not_available,not_available
+Bounty The Cake Stop,4.1 ,32,"Bakery, Desserts",Borivali,not_available,not_available
+SHRINATH SWEETS AND SNACKS,27 mins,,Sweets,Borivali,not_available,not_available
+Bombay Blues Icecream,32 mins,,"Ice Cream, Desserts, Sweets",Borivali,not_available,not_available
+SHREE  GANESH SWEET SHOP,32 mins,,"Beverages, Fast Food",Borivali,not_available,not_available
+Shreeji Fast Food And juice Center,32 mins,,"Beverages, Burgers, South Indian, Fast Food, Pizzas, Chinese, Indian, Snacks",Borivali,125,25
+Munchies's Thakur Complex,3.7 ,33,"Beverages, Italian",Malad Kan East,150,30
+Vrindavan Fine Foods,30 mins,,"Sweets, Desserts",Malad Kan East,not_available,not_available
+Food Of Joy,33 mins,,"Italian-American, Fast Food, Chinese, Beverages",Malad Kan East,150,30
+Bombay Tea,32 mins,,"Beverages, Desserts, Bakery",Borivali,not_available,not_available
+Subday Thakur Complex,3.4 ,33,"Indian, Fast Food, Beverages",Malad Kan East,150,30
+King of juices thakur complex,3.7 ,33,Juices,Malad Kan East,150,30
+Tittaas,31 mins,,"Beverages, Ice Cream, Desserts",Borivali,65,25
+I Am Foodie,32 mins,,"Fast Food, Snacks, Indian",Borivali,499,not_available
+Shree Narayan Fine Dinning,3.4 ,33,"South Indian, North Indian, Chinese, Malwani, Tandoor",Borivali,not_available,not_available
+Delightful Meals,27 mins,,"Indian, Snacks, Thalis","Kandivali East, Thakur Village",not_available,not_available
+Bhukkad Thali & Combo,4.4 ,27,"Thalis, Chinese, North Indian",Malad Kan East,120,60
+Bhukkad Biryani,2.4 ,28,Biryani,Malad Kan East,120,60
+Annapurna Theplahouse & Dry Snacks,27 mins,,Snacks,Malad Kan East,75,30
+Parathe Wali Gulli,29 mins,,"North Indian, Beverages",Malad Kan East,not_available,not_available
+Eggless Cakes,49 mins,,Bakery,Dahisar,not_available,not_available
+Cake Star,4.4 ,46,"Desserts, Bakery",Borivali West,not_available,not_available
+Fast Food Adda,4.2 ,51,"Snacks, Fast Food",Borivali,not_available,not_available
+Waffles By Di Bella,4.7 ,57,"Desserts, Waffle, Ice Cream, Bakery, Snacks",Malad West,600,10
+Indie Feast By Purple Foods,3.4 ,46,"Indian, Tandoor, Kebabs, Biryani, Beverages, Desserts",A K Vaidya Marg,599,not_available
+Cake Story,42 mins,,Bakery,Borivali,not_available,not_available
+Swa Varhadi Misal,4.2 ,48,"Street Food, Beverages",Jog Gor West,not_available,not_available
+Pav Bhaji Company,2.5 ,41,"Street Food, North Indian, Juices",Rawal Pada,not_available,not_available
+Soroush Biriyani,2.8 ,49,"Biryani, Mughlai",Goregaon,120,25
+Diamond Restaurant,4.2 ,55,"Chinese, Indian, Snacks",Jog Gor East,100,10
+Bowl Up!,2.6 ,41,"North Indian, Sweets",Dahisar East,not_available,not_available
+The Hot Chinese,3.1 ,46,"Chinese, Thai",Malad East,200,40
+Maratha Darbar,4.1 ,44,"North Indian, Chinese, Biryani, Indian, Tandoor, Mughlai, Thai, Continental",Malad East,200,40
+Foodie Panda,46 mins,,"Chinese, Burgers, Fast Food, Snacks, Beverages",Dahisar,not_available,not_available
+Hot and spicy,4.2 ,42,"Chinese, Indian",Dahisar East,not_available,not_available
+Bistro & Brew,5 ,42,"Italian-American, Fast Food, Snacks, Beverages",Kandivali East,75,30
+Tude - Premium Ice Creams,4 ,35,"Desserts, Beverages",Kandivali West,not_available,not_available
+Saarathi Restaurant And Bar,3.3 ,36,"Tandoor, Chinese, North Indian, Fast Food",Malad Kan East,100,20
+Ambika Vijay Stores,34 mins,,Sweets,Dahisar,not_available,not_available
+Evening Smackers,35 mins,,"Fast Food, Pizzas, Snacks",Borivali,not_available,not_available
+Oh Indian,34 mins,,"Kebabs, Indian",Kandivali West,not_available,not_available
+Avantika Chennai Cafe,35 mins,,"South Indian, Beverages",Borivali,not_available,not_available
+"Deepak Sweets, Farsan & Dry Fruits",37 mins,,"Desserts, Snacks",Borivali,not_available,not_available
+Chatisfied,2.3 ,35,"Snacks, Street Food, Beverages",Borivali,not_available,not_available
+Bangg On Bakes,35 mins,,"Bakery, Cakes and Pastries, Desserts",Malad Kan West,500,25
+Khaugalli bahuballi,35 mins,,South Indian,Malad Kan West,not_available,not_available
+Mumbai Chinese Point,3.3 ,36,Chinese,Kandivali East,159,20
+The Royal Surprise,38 mins,,Bakery,Malad Kan East,not_available,not_available
+Asha Restaurant  Chaitanya Restaurant,3.7 ,36,"Indian, Tandoor, Seafood",BORIVALI,not_available,not_available
+Lal Tadka,3.5 ,36,"North Indian, Asian, Italian, Beverages",Mahavir Nagar,not_available,not_available
+Anand dairy farm,4 ,36,"Snacks, Desserts",Borivali,not_available,not_available
+Thaliwaala,34 mins,,"Indian, Thalis, Snacks",Malad Kan East,not_available,not_available
+Geebees Appetites,4 ,34,"North Indian, Chinese, Tibetan",Kandivali East,not_available,not_available
+Roti and Grill Catering,34 mins,,Indian,Malad Kan East,50,20
+Aaurum Family Restaurant And Bar,4 ,34,"North Indian, Tandoor, Chinese, Snacks",Borivali,not_available,not_available
+Shawarma Shark,35 mins,,"Chinese, Indian, Pizzas, Burgers",Malad Kan West,not_available,not_available
+Half Plate Chinese,3.8 ,34,"Chinese, Street Food",Borivali,not_available,not_available
+Bitchy Burgers,34 mins,,"American, Snacks",Kandivali West,not_available,not_available
+The Heavens Cake Shop,4.1 ,39,Bakery,Malad Kan East,not_available,not_available
+Shital's Kitchen,34 mins,,"Fast Food, Thalis",Borivali,not_available,not_available
+B K C Kitchen,3.4 ,34,"Indian, Chinese",Borivali,not_available,not_available
+Manoj dosa,2.3 ,36,South Indian,Borivali,not_available,not_available
+Bytes Momos,35 mins,,Chinese,Borivali,not_available,not_available
+S.V. Kitchen,39 mins,,North Indian,Malad kan east,not_available,not_available
+JAYASHREE MISAL & SNACKS (JMS),34 mins,,"Indian, Snacks",Kandivali West,not_available,not_available
+Krem Icecreams,34 mins,,Ice Cream,Borivali,249,not_available
+Tummy Time,35 mins,,Indian,Borivali,not_available,not_available
+Cheese leela,36 mins,,"Fast Food, Burgers, Pizzas, Snacks, Salads",Borivali,350,10
+Flavour stones,4.6 ,31,Ice Cream,Borivali West,not_available,not_available
+Best Canteen,32 mins,,Indian,Borivali,not_available,not_available
+Chow By Mexichino,3.8 ,32,Chinese,Borivali,not_available,not_available
+Fusion Ice Cream House,4.9 ,29,"Bakery, Desserts, Ice Cream",Kandivali West,999,not_available
+Finom Cake Stop,3.4 ,31,Bakery,Borivali,1000,15
+Hirral Z Sweet Treats9,32 mins,,"Bakery, Desserts",Borivali,not_available,not_available
+High on Cafe,41 mins,,"Indian, Juices, Beverages",Malad Kan East,not_available,not_available
+Bombay Bytes,3.9 ,41,Indian,Borivali West,not_available,not_available
+Brishti chinese and lunch home,3.1 ,40,Indian,Kandivali East,not_available,not_available
+Panchayat - The Kulhad Cafe,4.4 ,40,"Indian, Italian, Beverages",Borivali West,not_available,not_available
+Chowrangee Cafe,4.3 ,41,"Chinese, Bengali, Fast Food",Malad Kan East,40,10
+Fast Food Carnival,41 mins,,"Pizzas, Beverages, Burgers, Pastas, Barbecue",Malad Kan East,not_available,not_available
+Ignite Pan Shop And General Store,4.4 ,42,Paan,Borivali,120,20
+Jai Ambe Fast Food,53 mins,,"Fast Food, Pizzas, Waffle, Snacks, Beverages",Borivali,not_available,not_available
+MMD Cafe Village,26 mins,,"Beverages, Pizzas, Fast Food, Chinese, Italian",Malad Kan East,not_available,not_available
+Khao piyo junction,25 mins,,"Chinese, Indian, Malwani, Biryani",Malad Kan East,not_available,not_available
+Flavour Fushion,27 mins,,Burgers,Malad Kan East,159,40
+The Bun Bites,29 mins,,"Bakery, Desserts",Malad Kan West,120,20
+Mumbai Cake Company,23 mins,,"Bakery, Desserts",Malad Kan East,999,not_available
+Mahakal Matka Kulfi,25 mins,,Beverages,Malad Kan West,not_available,not_available
+THALIVERY FOOD,26 mins,,"Indian, Snacks, Fast Food",Malad Kan East,not_available,not_available
+Baithak - Taste of Kulhad,31 mins,,"Beverages, Italian-American, Fast Food, Chinese, Snacks","Thakur Village, Kandivali (East)",not_available,not_available
+Biryani Daawat,4.1 ,30,"Biryani, Beverages, Indian",Malad Kan East,100,50
+Rocky Rolls Cafe,4.2 ,24,"Fast Food, Snacks",Malad Kan East,not_available,not_available
+Starwar Pizza,4.4 ,26,"Chinese, Italian, Burgers, Pizzas, Desserts, Pastas",Malad Kan East,100,50
+Reena's Parathas,26 mins,,"Indian, Italian",Malad Kan East,150,30
+Delicious Cake Shop,28 mins,,"Bakery, Desserts",Malad Kan East,40,10
+Madhurika's Kitchen,3.5 ,27,"North Indian, South Indian, Snacks, Beverages",Malad Kan East,999,not_available
+Veg Pizza-2X Topping,26 mins,,Indian,Malad Kan East,100,50
+Tuk Tuk,25 mins,,"Chinese, Fast Food",Malad Kan East,not_available,not_available
+Foodys guys,26 mins,,"Indian, Chinese, Mughlai, Tandoor, Arabian, Biryani",Malad Kan East,not_available,not_available
+MOGO Pizza,4.4 ,24,"Pizzas, Burgers, Chinese, Desserts, Pastas, Italian",Kandivali East,100,50
+Oven Bake Pizza,24 mins,,Pizzas,Malad Kan East,100,50
+Hotel Sheetal Picnic,2.8 ,27,"North Indian, Thalis, Biryani",Borivali East,not_available,not_available
+Baskin Robbins Food Court,25 mins,,Ice Cream,Malad Kan East,not_available,not_available
+Om Sai Sandwich Corner,4.5 ,26,"Fast Food, Pizzas",Malad Kan East,not_available,not_available
+Quenchers By Uk,24 mins,,"Bakery, Desserts, Indian",Malad Kan East,not_available,not_available
+Maa Sita Rasoi,25 mins,,Indian,Malad Kan East,not_available,not_available
+All Seasons Kitchen and Bar,3.9 ,30,"North Indian, Chinese, Biryani, Tandoor, Thai, Chaat, Indian, Desserts",Borivali,not_available,not_available
+Meethi Elaichi,5 ,25,"Desserts, Sweets, Beverages",Malad Kan East,150,30
+Nityanand Chinese,30 mins,,"Indian, Chinese",Malad Kan East,not_available,not_available
+Green Dot Momos,36 mins,,"Asian, Tibetan, Desserts, Beverages",Borivali,249,not_available
+Happy Da Paratha,2.7 ,41,Indian,Rawal Pada,not_available,not_available
+Purple Foods,4.2 ,49,"Indian, Tandoor, Biryani, Desserts, Beverages",Malad East,599,not_available
+Masterchef Kitchen,3.5 ,44,"Chinese, Asian, Thai",Malad Kan East,150,30
+Flavours Of Biryani,3.4 ,49,"Biryani, Tandoor, Kebabs",Malad Kan West,not_available,not_available
+Egg Free Cakes,49 mins,,"Bakery, Desserts",Mira Road,not_available,not_available
+Celebration Special by CakeZone,3.7 ,41,"Bakery, Desserts",L T Road Junction,699,not_available
+Spicy Chicken,53 mins,,North Indian,Malad Kan West,not_available,not_available
+The J's Pizza,41 mins,,"Pizzas, Pastas",Rawal Pada,not_available,not_available
+Fud Boy,51 mins,,"Biryani, Indian, Kebabs, Beverages",Malad Kan West,150,30
+Momoya,41 mins,,Chinese,Rawal Pada,not_available,not_available
+Wandercrust,3.9 ,49,"Pizzas, Italian",Goregaon East,120,25
+Swaad Snacks and Namkeen,4.4 ,37,Indian,Borivali,not_available,not_available
+Lucky chinese center,39 mins,,Chinese,Dahisar,not_available,not_available
+Das Chilly Chinese,39 mins,,Chinese,Dahisar,not_available,not_available
+Raja Vada Pav Goregaon Wala,3.9 ,37,"Snacks, Fast Food",Borivali,not_available,not_available
+Sandy's Thick Shake,2.4 ,37,"Desserts, Beverages",Borivali,not_available,not_available
+hotel shri krishna,37 mins,,"South Indian, North Indian, Chinese, Beverages, Snacks",Borivali,not_available,not_available
+Hem-The Cake Shop,3.6 ,39,Desserts,Kandivali West,not_available,not_available
+Zero Gravity ( Boriwali ),2.6 ,39,Indian,Borivali,not_available,not_available
+The Pastelworks Co. Malad,3.9 ,38,Bakery,Malad East,150,30
+Kulchizza Factory,37 mins,,"North Indian, Chinese, Fast Food",Borivali,not_available,not_available
+GURU KRUPA JUICE CENTER,38 mins,,"Beverages, Juices",Borivali,not_available,not_available
+Indocafe,2.8 ,37,"Continental, Mexican, Italian, Desserts, Beverages",Borivali,not_available,not_available
+Cafe Bahar Restaurant,3.8 ,38,"Biryani, Arabian, Chinese, North Indian",Malad Kan East,not_available,not_available
+The Pavilion Bar And Resturant,4.1 ,39,"North Indian, Biryani, Seafood, Chinese, Tandoor, Kebabs",ajanta shoping center,not_available,not_available
+Twist and Taste,39 mins,,"Chinese, Snacks",Borivali,not_available,not_available
+My Choice Franky House,3.7 ,39,Fast Food,Malad Kan West,not_available,not_available
+The Chocolate Chips,4.4 ,34,Indian,Borivali,not_available,not_available
+Saucy Pasta Cartel,37 mins,,Pastas,Borivali,not_available,not_available
+Momos 8849,37 mins,,Fast Food,Borivali,not_available,not_available
+Veg Curries Of India,4.5 ,37,"North Indian, Chinese, Street Food, Mughlai, Tandoor, Kebabs, Punjabi, Biryani, Snacks",Borivali,not_available,not_available
+Chef De Partie,34 mins,,"Bakery, Beverages, Desserts",Dahisar,not_available,not_available
+Bolbol Burgers,4.2 ,39,"Indian, Snacks, North Indian",Borivali West,not_available,not_available
+Buns & Deluchas,34 mins,,"Bakery, Desserts",Borivali,not_available,not_available
+BHURAJI SANDWICH,38 mins,,"Fast Food, Snacks",Malad Kan West,not_available,not_available
+Hidden Spot Cafe & Resto,39 mins,,Pizzas,Borivali,not_available,not_available
+Thick Shakes Magic- CAD B,37 mins,,Indian,Dahisar,150,30
+Ekdum Biryani,3.9 ,39,"Biryani, North Indian, Mughlai, Tandoor, Kebabs",Kandivali West,700,20
+Chaap Central by Punjabi Grill Dhaba,3.6 ,38,Indian,Malad Kan West,not_available,not_available
+Vicky Chinese,37 mins,,Chinese,Dahisar,not_available,not_available
+Kokan Chinese Corner,36 mins,,"Chinese, Snacks",Malad Kan West,not_available,not_available
+Noor Chinese and tandoor,38 mins,,Chinese,Borivali,not_available,not_available
+Shree Samarth Malvani Food'S,38 mins,,"North Indian, Indian",Borivali,not_available,not_available
+Chavishtha Ventures Llp,4.1 ,38,"Indian, Seafood, Snacks",Dahisar,not_available,not_available
+D Sandwicha & snakes corner,37 mins,,"Italian, Pizzas, Snacks",Dahisar,not_available,not_available
+Kulfi Bite,34 mins,,Indian,Malad Kan West,not_available,not_available
+Gladmad Pizza,4 ,39,"Italian-American, Pizzas, Beverages",Borivali,not_available,not_available
+The Elegant Spatula-Creative Cakes n Cookies,39 mins,,Bakery,Borivali,not_available,not_available
+Navkar Mart,38 mins,,"Snacks, Gujarati",Kandivali west,749,not_available
+Kings Corner,3.4 ,38,Chinese,Dahisar East,not_available,not_available
+Miss U Cake N Bake,38 mins,,"Bakery, Jain",Malad Kan East,not_available,not_available
+Radha Krishna Pav Bhaji,37 mins,,Indian,Borivali,not_available,not_available
+Shree Mahalaxmi Fast Food & Juice Center,36 mins,,"Chaat, Fast Food",Borivali,not_available,not_available
+Gobble Up,38 mins,,"Fast Food, Snacks, Chinese",Borivali,not_available,not_available
+Shakeoty,3.9 ,37,Beverages,Borivali West,999,not_available
+Samarth Krupa Chinese Corner Tifin Service,39 mins,,"North Indian, Chinese",Dahisar,not_available,not_available
+The Yellow Tadka,38 mins,,"Indian, Chinese, Street Food, Thalis, Biryani, Tandoor",Borivali West,not_available,not_available
+Sainath Hotel,2.8 ,39,"Chinese, North Indian, South Indian",Dahisar,not_available,not_available
+The Indian Gourmet Kitchen,4.7 ,39,"Indian, Mughlai",Malad Kan East,100,50
+Tea Pea Cafe Borivali(W),4.5 ,55,"Indian, Fast Food, Italian-American, Snacks, Waffle",Borivali West,not_available,not_available
+Aromas Bingee,4.3 ,44,"South Indian, Chinese, Fast Food",LOKMANYA LIBRARY,999,not_available
+ShreeG,3.3 ,45,Chinese,Dahisar,not_available,not_available
+Delicious Chinese Cuisine,2.1 ,40,Chinese,Dahisar,not_available,not_available
+Gupta Juice And Sandwich,44 mins,,"Juices, Fast Food, Beverages, Snacks, Pastas",Borivali,not_available,not_available
+Ice Cream Cake Factory,3.7 ,47,Ice Cream Cakes,Malad West,999,not_available
+Italiiano,47 mins,,"Pizzas, Mexican, Italian, Pastas, Burgers",Jog Gor East,not_available,not_available
+Le Quatre,3.2 ,51,"Desserts, Bakery, Snacks",anupama anand nagar,not_available,not_available
+Ami Ice-Cream,45 mins,,Desserts,Malad Kan West,not_available,not_available
+Eat Cake Love,40 mins,,Bakery,Malad Kan West,not_available,not_available
+Sai Rameshwar,40 mins,,Chinese,Borivali,not_available,not_available
+Jodhana Zaika,46 mins,,"Chinese, Indian, Beverages",Borivali,not_available,not_available
+Shree Krishna Family Restaurant & Bar,46 mins,,"Indian, Chinese, Biryani",Dahisar East,not_available,not_available
+Hunger's Food,2.8 ,40,Chinese,Borivali,not_available,not_available
+Billy's Burgers,4.4 ,51,"Fast Food, Desserts, Beverages",Malad West,not_available,not_available
+Ambrosia Cakes Bakes and Snacks,3.9 ,43,"Bakery, Snacks, Desserts, Continental",Kandivali West,800,20
+Aarti'S Food Magic,48 mins,,"Indian, Biryani, Beverages",CSR COMPLEX BUILDING NO 14 FLAT NO 201,not_available,not_available
+Sv Food Hub,3.9 ,42,"Pizzas, Desserts",Malad East,not_available,not_available
+Momo Dynasty,45 mins,,Chinese,Borivali,not_available,not_available
+Quest,4.4 ,41,"North Indian, Chinese, Continental, Oriental, Desserts",Borivali,not_available,not_available
+Nutrii Chef,3.6 ,47,"Salads, Healthy Food",Malad Kan West,125,25
+Fresh Rasoi,57 mins,,"Indian, Chinese, Beverages, Desserts, Biryani",Malad Kan West,not_available,not_available
+Chinese & Momos Express,4.5 ,49,"Chinese, Combo",Malad Kan East,200,40
+Borivali Healthy Juices,53 mins,,"Juices, Beverages, Fast Food, Snacks, Pastas",Borivali,not_available,not_available
+Me Chinese!,59 mins,,"Chinese, Thai, Arabian",Malad East,200,40
+Ram'S Radhe Krishna Cafe,52 mins,,South Indian,Malad Kan West,not_available,not_available
+Umesh sandwich,40 mins,,Fast Food,Borivali,not_available,not_available
+Svvad Kitchen,40 mins,,"Chinese, Pastas, Snacks",Borivali,not_available,not_available
+Chinese Walla,43 mins,,Indian,Borivali,not_available,not_available
+Mozzarella Pizza Hub,4 ,44,"Pizzas, Snacks, Italian",Malad East,not_available,not_available
+Sai Jee Amruttulya & Snacks,52 mins,,Chinese,Malad Kan West,120,20
+Festive The Cake Shop,4.1 ,43,Desserts,Malad East,not_available,not_available
+Sai Darbar Hotel,47 mins,,"Chinese, Indian, Biryani",Dahisar,not_available,not_available
+Big Bro'S Pizza,43 mins,,"Pizzas, Burgers, Chinese, Snacks",Malad Kan East,not_available,not_available
+The Waffle Box,4 ,70,Waffle,Malad Kan West,999,not_available
+Bakewills Boulangerie And Cafe,45 mins,,"Fast Food, Chinese, Burgers",Borivali east,not_available,not_available
+Gopi Breakfast Point,43 mins,,"Chinese, Beverages, Bakery",Borivali,700,20
+Warm Baker s World,44 mins,,Bakery,Borivali West,not_available,not_available
+Secret Multicuisine Restaurant,3.6 ,47,"North Indian, Chinese, Biryani, Mughlai, Punjabi, Seafood, Beverages",Mira Road,not_available,not_available
+P Hand Coffee,46 mins,,"Beverages, Pizzas, South Indian",Malad Kan West,not_available,not_available
+Hunger Tea Cafe,46 mins,,"Beverages, Snacks, Fast Food, Pizzas, Desserts",Borivali,not_available,not_available
+Raccoon kitchen,4.9 ,48,"North Indian, Indian, Biryani",Malad Kan East,not_available,not_available
+Red yellow restaurant,55 mins,,"North Indian, Chinese, Biryani",Jog Gor East,not_available,not_available
+Mahesh Fine Dine,3.5 ,45,"Indian, Fast Food",Borivali,not_available,not_available
+Fizzy,4.2 ,43,"Snacks, Beverages",Borivali,not_available,not_available
+Western Burger,51 mins,,"Chinese, Burgers, Pizzas",Malad Kan West,not_available,not_available
+J3Pizzaa,3.8 ,54,"Italian, Pizzas",Jog Gor East,not_available,not_available
+Miami Waffles & Jawbreakers,4 ,48,"Waffle, Desserts, Beverages",Malad West,449,not_available
+Chaat Pat Snackks,5 ,43,"Snacks, Fast Food, Chinese, Beverages",Malad Kan East,not_available,not_available
+Fast Food And Beverage's,49 mins,,"Beverages, Snacks, Pizzas, Fast Food",Malad Kan West,not_available,not_available
+12th Pass Coffee And Tea,47 mins,,"Beverages, Chinese, Burgers",Malad Kan West,not_available,not_available
+Aranyam Fine Dine & Bar,63 mins,,"North Indian, Chinese, Biryani",Goregaon East,449,not_available
+Quick Kukkad,4.7 ,40,"Snacks, Kebabs, Tandoor",Borivali,100,20
+Veganiza,5 ,45,"Snacks, Pastas",Malad East,not_available,not_available
+Rashmin Patisserie & Savory,40 mins,,"Bakery, Desserts",Malad Kan East,not_available,not_available
+Red Dots,2.9 ,55,"North Indian, Chinese, Biryani",Jog Gor East,not_available,not_available
+Tanisha Dry Fruits,52 mins,,Indian,Malad Kan West,not_available,not_available
+Cooper's Home Kitchen,51 mins,,"Biryani, South Indian, Continental, Chinese",Malad Kan West,not_available,not_available
+Cooper's Bakery,50 mins,,"Bakery, Fast Food, Snacks",Malad Kan West,not_available,not_available
+Steam 99,60 mins,,"Chinese, Fast Food, Beverages",Jog Gor East,not_available,not_available
+2? Cakes,52 mins,,Bakery,Jog Gor East,not_available,not_available
+Frosting the cake shop,42 mins,,Bakery,Malad Kan East,not_available,not_available
+Shree Krishnas Kitchen,42 mins,,"North Indian, Indian",Dahisar,100,15
+Dim Shi,3.7 ,54,"Asian, Chinese",Borivali,not_available,not_available
+7 Layers,42 mins,,Bakery,Malad Kan West,not_available,not_available
+Dreams & Beans Coffee,49 mins,,Beverages,Malad Kan West,not_available,not_available
+Jain Dugdhaly,42 mins,,"Bakery, Sweets",Malad Kan East,not_available,not_available
+Chow Mi Adda Chinese And Momos Corner,51 mins,,"Chinese, Thai, Asian",Malad Kan West,not_available,not_available
+D'aromas Coffee,49 mins,,Beverages,Malad West,499,not_available
+Forks & Spoons,42 mins,,"Pizzas, Chinese, Pastas, Beverages, Fast Food, Burgers",Malad Kan East,not_available,not_available
+Vishal Chinese Corner,40 mins,,Chinese,Malad Kan East,not_available,not_available
+Dessert 99,44 mins,,"Waffle, Desserts, Beverages",Borivali,not_available,not_available
+Gosssip Corner - Cafe Resto,46 mins,,Indian,Dahisar,not_available,not_available
+Havmor Ice Cream Parlour,47 mins,,Ice Cream,Borivali,not_available,not_available
+The Spice Of Mumbai,3.3 ,63,"North Indian, Chinese",Malad West,not_available,not_available
+Brijwasi Mart,2.8 ,55,"Waffle, Desserts, Snacks, Beverages",Mira Road,749,not_available
+Caky Bakey,42 mins,,Bakery,Borivali,499,not_available
+Gully Dosa,3.9 ,51,"South Indian, Street Food",Jog Gor West,not_available,not_available
+Kadam Bandhu,41 mins,,Fast Food,Dahisar,not_available,not_available
+King Bhujing Biryani Corner,4.3 ,42,"Biryani, North Indian",Borivali,not_available,not_available
+Pizza Rride,4.1 ,44,"Pizzas, Continental",Malad East,not_available,not_available
+R.K Food Hub,4.5 ,43,"Fast Food, Chinese, Snacks, Beverages",Borivali,not_available,not_available
+Biryani And Spice,4.9 ,47,"Biryani, Mughlai, North Indian",Malad Kan West,749,not_available
+Quarter Castle Resto Bar,3.8 ,51,"Continental, Chinese, Indian, Beverages",Malad West,not_available,not_available
+Tandoor Tribes,3.1 ,40,"Snacks, Tandoor",Borivali,not_available,not_available
+Sunik Foodland,42 mins,,"Desserts, Sweets, Snacks, Pizzas","Kandivali, Malad East",not_available,not_available
+Biryani Flavours,3.7 ,46,"Biryani, Snacks, Kebabs, Sweets",Malad Kan East,not_available,not_available
+Vadapav And More,2.2 ,55,"Indian, Snacks, Chaat, Juices, Desserts",Malad West,300,not_available
+Exotic Baristo,47 mins,,"Beverages, Pizzas, Fast Food, Snacks",Dahisar,not_available,not_available
+Goregaon Kitchen,2.9 ,43,"Chinese, Snacks, Arabian, Combo",Malad Kan East,150,30
+Ashley Kitchen,4.3 ,47,"Indian, Chinese, Biryani",Malad Kan West,599,not_available
+Maa Ashapura Food & Snacks,3.2 ,52,"Indian, Snacks",Malad Kan West,not_available,not_available
+Aum Fine Dine,3.6 ,48,Indian,Kandivali West,not_available,not_available
+Flavour Junction,3.8 ,44,"Chinese, North Indian, Snacks",Dahisar,not_available,not_available
+Swadisht Desi Food,46 mins,,"Burgers, Chinese",Borivali,not_available,not_available
+BONG MOYRA,3.3 ,43,"Sweets, Bengali",Borivali,not_available,not_available
+Spice Hut Veg And Non Veg,2.4 ,41,"Chinese, North Indian, Biryani",Dahisar,not_available,not_available
+Divine Chinese,4.3 ,48,Chinese,Malad West,not_available,not_available
+Asian Express,4 ,53,"Chinese, Biryani",Jog Gor East,999,not_available
+Cheesy Kulhad,52 mins,,"Pizzas, Fast Food",Malad Kan West,not_available,not_available
+DSF Fast Food,4.9 ,45,"Pizzas, Pastas, Burgers, Fast Food, Snacks, Italian, American",Kandivali West,not_available,not_available
+Jai Shree Radhe Krishna Soda Pub,3.8 ,42,Beverages,Kandivali West,not_available,not_available
+Tea Pea Cafe,45 mins,,"Beverages, Italian-American, Fast Food, Snacks, Waffle",Malad Kan East,not_available,not_available
+Uncle Chinese Corner,44 mins,,"Indian, Fast Food",Malad Kan West,not_available,not_available
+Flavorish The Gourmet Cake Shop,48 mins,,Bakery,Goregaon East,250,50
+Peek and boo,52 mins,,"Snacks, Fast Food",Malad Kan West,not_available,not_available
+Delecious The Family Restaurant,41 mins,,"Indian, Chinese", Malad West,not_available,not_available
+Jaianti Biryani,3.7 ,57,"Biryani, North Indian, Salads, Hyderabadi",Borivali,150,30
+Hunger bell,52 mins,,"Snacks, Chinese, Tandoor, North Indian",Malad Kan West,not_available,not_available
+Damdaar Swaad,4.3 ,49,"Italian-American, Fast Food, Snacks, Indian",Jog Gor West,not_available,not_available
+Secret Sauce Sandwiches,3.3 ,42,"Pizzas, Snacks, Italian, Mexican",Borivali West,not_available,not_available
+Chef Chini,52 mins,,"Chinese, Fast Food, Desserts, Beverages",Malad Kan West,not_available,not_available
+All About Cheese,5 ,50,"Fast Food, Snacks, Pizzas",Malad Kan West,100,10
+Size Zero,40 mins,,"Chinese, Burgers, Pizzas, Pastas, Fast Food",kandivali,150,30
+Adarsh Refreshment,43 mins,,Beverages,Malad,not_available,not_available
+Asian Tadka,3.4 ,55,"Indian, Tandoor, Thai, Chinese",Goregaon,not_available,not_available
+JUICE BUDDY,40 mins,,Beverages,Borivali,not_available,not_available
+Oh! Pizzaz,42 mins,,"Beverages, Snacks",Malad Kan West,not_available,not_available
+Dairy Naturals,53 mins,,"Ice Cream, Desserts",Malad Kan West,not_available,not_available
+High On Waffle,49 mins,,"North Indian, Bakery",Malad Kan West,not_available,not_available
+Faloodah By Purple Foods,2.5 ,46,"Beverages, Desserts",Malad,not_available,not_available
+The Noisy Cake,4.4 ,64,Bakery,Jog Gor East,not_available,not_available
+Bombay Shakers,50 mins,,Beverages,Malad Kan West,not_available,not_available
+Sliders Bell,4.4 ,42,"Snacks, Beverages",Borivali West,not_available,not_available
+Matoshree Chinese & Fast Food,4 ,61,Chinese,Malad Kan West,not_available,not_available
+Navaratna Kitchen & Bar,46 mins,,"North Indian, Chinese, South Indian, Tandoor, Seafood",Borivali,700,20
+Upperdeck Bistro,4.2 ,45,"Beverages, Burgers, Pastas, Snacks",Malad Kan West,100,10
+Sweet Cakes & More,3 ,58,"Bakery, Desserts",Malad West,999,not_available
+Meenakshi Bar And Restaurant,43 mins,,"Chinese, North Indian, Indian, Snacks",Jog Gor East,not_available,not_available
+Bombar,4.8 ,56,"Italian, Chinese, Tandoor",Jog Gor West,not_available,not_available
+Malvani Masala,2.8 ,62,"Indian, North Indian",Borivali,700,20
+Ruchira's Food Hub,41 mins,,"Chinese, American",Borivali,not_available,not_available
+Neelam Garden,41 mins,,"North Indian, Chinese, Biryani",Borivali,not_available,not_available
+Angel Cake Shop,46 mins,,Bakery,Malad Kan East,not_available,not_available
+Mogazm,5 ,50,"Snacks, Fast Food, Beverages",Malad Kan West,250,50
+Marvish Home Kitchen,48 mins,,"Indian, North Indian",Jog Gor West,not_available,not_available
+Munira's,44 mins,,Desserts,Dahisar West,not_available,not_available
+Shivani Chinese And Pizza Corner,3.4 ,54,"Pizzas, Chinese, Fast Food",Malad Kan West,not_available,not_available
+Raju Snacks,4.3 ,41,"Beverages, Burgers, Ice Cream",Borivali,not_available,not_available
+Balaji Express,49 mins,,"South Indian, Beverages, Fast Food, Juices, Chaat",Jog Gor East,not_available,not_available
+Conch Restaurants,57 mins,,"Asian, Continental, Chinese",Malad West,not_available,not_available
+Vishal's fast food hub,48 mins,,Chinese,Jog Gor East,not_available,not_available
+Shree's Frankie Rolls and More,46 mins,,"Snacks, Pizzas",Borivali,not_available,not_available
+BEING BAKERS SHOP,48 mins,,Bakery,Mira Road,not_available,not_available
+Zero Gravity,4.1 ,49,"Chinese, Continental, Fast Food, Italian",Gandhi Nagar,not_available,not_available
+Naashta sweets and more,3.2 ,49,Indian,Jog Gor East,600,10
+Kandivali 67 Chinese Corner,1.5 ,40,"Chinese, Biryani",Borivali,not_available,not_available
+3 Barmen,5 ,61,"Chinese, North Indian",Malad West,not_available,not_available
+Avarya,45 mins,,"Snacks, Desserts, Beverages",Mahim Dadar,not_available,not_available
+Gharchi Athwan,42 mins,,"Maharashtrian, Snacks, Sweets",Borivali,not_available,not_available
+BELLA FOOD CORNER,3.8 ,41,"North Indian, Chinese, Tandoor, Biryani, Snacks",Dahisar (E) Mumbai,not_available,not_available
+The Malai Paneer Company,4.8 ,54,North Indian,Malad Kan West,not_available,not_available
+Phelia Lounge,3.8 ,57,"Chinese, Tandoor, Continental, Indian, Italian, Pizzas",Goregaon West,not_available,not_available
+Shreeji Aamras,5 ,41,Beverages,Dahisar,749,not_available
+Hungry Paji,49 mins,,"Chinese, Indian, Tandoor",Goregaon,100,10
+The Bagve's cafe,52 mins,,Waffle,Jog Gor West,not_available,not_available
+Beyond - Wine & Dine,4 ,56,"Continental, Mexican, Salads, Chinese, North Indian",Malad West,not_available,not_available
+THE MINISTRY OF CHEFS,52 mins,,"North Indian, Chinese, Snacks, Fast Food, Desserts, Beverages, Biryani, Seafood, Indian, Tandoor",Malad Kan West,not_available,not_available
+Namaste Mumbai,46 mins,,"Chinese, Fast Food, Indian, Beverages",Malad Kan West,not_available,not_available
+Party Time Pizzas,3.5 ,43,"Pizzas, Fast Food, Bakery, Desserts",Raheja Township,not_available,not_available
+Crispy Slice Pizza,4.1 ,53,Pizzas,Goregaon,not_available,not_available
+DBW De Burger World,50 mins,,"Burgers, Pizzas, Fast Food, Snacks, Beverages",Mira Road,not_available,not_available
+Swadam Bhog,4.6 ,48,"Indian, North Indian, Chinese, Punjabi, Snacks, Biryani",Borivali West,not_available,not_available
+Swadisht Desi,4.6 ,52,"Burgers, Pizzas, Chinese, Beverages",Malad Kan West,999,not_available
+Latte on the rocks,52 mins,,"Beverages, Snacks, Fast Food",Malad West,not_available,not_available
+Mondo Fine Dine,4.2 ,64,"Italian, Indian",Dahisar West,not_available,not_available
+Lobo Tiffin Service,47 mins,,Indian,Malad Kan East,not_available,not_available
+Red Chilly Chinese Cuisine,52 mins,,Indian,Malad Kan West,150,30
+Tina's Fried Chicken,40 mins,,"Indian, Chinese",Borivali,not_available,not_available
+Om Namo Fast Food,5 ,42,"Fast Food, Chaat",Borivali,not_available,not_available
+Y.T kitchen,41 mins,,"Italian, Snacks, Mexican",Malad Kan East,not_available,not_available
+Potoba Chinese Corner,3.7 ,41,"Chinese, Beverages",Dahisar,not_available,not_available
+Jordan,4.7 ,41,Chinese,Malad West,not_available,not_available
+Kinara Tadka,44 mins,,"Chinese, North Indian, Beverages",Borivali,not_available,not_available
+Sarthak Restaurant,52 mins,,"Indian, Chinese, Thalis, Biryani",Jog Gor East,not_available,not_available
+Avva'S Food,44 mins,,Chinese,Dahisar,not_available,not_available
+FC Cafe,42 mins,,"Italian, Fast Food, Beverages, Desserts",Malad Kan West,not_available,not_available
+The Bombay House,3.7 ,48,"North Indian, Snacks, Pizzas, Chinese",Dahisar,599,not_available
+Gopi'S Momos Centre,45 mins,,"Chinese, Sweets, Beverages",Borivali,700,20
+The Fellas,5 ,51,"Fast Food, Snacks, Beverages",Malad Kan West,1000,15
+Aniruddha ice cream parlour,43 mins,,Beverages,Kandivali East,not_available,not_available
+Zaika homemade food,45 mins,,"Biryani, Indian, Sweets",Malad Kan East,not_available,not_available
+Pett Pooja Frankie,49 mins,,"Fast Food, Chinese, South Indian",Borivali,not_available,not_available
+9 Star Kitchen,4.3 ,44,"Indian, Seafood, Beverages",Borivali,120,20
+The Thickshake Project,3.7 ,54,"Ice Cream, Beverages, Juices, Desserts",Malad West,not_available,not_available
+Mumbai's food spot,48 mins,,"South Indian, Fast Food, Street Food",Malad Kan West,not_available,not_available
+Daddu's Biryani,5 ,48,"Biryani, Kebabs",Dindoshi,not_available,not_available
+Blas Diaga,55 mins,,Bakery,Opp. Chincholi Bunder Road,not_available,not_available
+Arabian Bistro,4.1 ,45,"Arabian, Snacks, Beverages",Borivali,not_available,not_available
+The Dessert Clubb,3.7 ,42,"Desserts, Snacks",Kandivali West,not_available,not_available
+Cakes Fiesta,3.4 ,49,"Bakery, Desserts, Beverages, Ice Cream",Goregaon,not_available,not_available
+V For Vegan,3 ,47,Salads,Malad West,not_available,not_available
+Healthy Trays,44 mins,,"Salads, Fast Food, Indian, Chaat, North Indian",Malad Kan East,not_available,not_available
+Bhola Bhelpuri,4.4 ,57,"Chaat, Snacks, Beverages",Jog Gor West,not_available,not_available
+Jain cafe,3.6 ,44,Pizzas,Malad Kan East,not_available,not_available
+The Desert Lounge,46 mins,,"North Indian, Italian, Chinese",Malad Kan West,not_available,not_available
+Disha Kitchen,1.5 ,62,"North Indian, Chinese",Dahisar,249,not_available
+Homely Palate,52 mins,,Chinese,Dahisar,599,not_available
+Fresh Meals,44 mins,,"Indian, Snacks, Seafood",Borivali,not_available,not_available
+Samrat Family Restaurant,4.4 ,45,"Indian, Chinese, North Indian, Tandoor, Snacks, Beverages",Borivali West,not_available,not_available
+Mozzarella Burst Pizza's,4.1 ,48,Pizzas,Malad Kan East,not_available,not_available
+Fish Koliwada Corner,53 mins,,"North Indian, Biryani",Malad Kan East,not_available,not_available
+Just Frys,5 ,50,Indian,Estate Link Raod,not_available,not_available
+Desi Shawarma,50 mins,,Mughlai,Estate Link Raod,not_available,not_available
+Pahunchar,45 mins,,"Sweets, Indian",Borivali,not_available,not_available
+Chaarvi Chinese Wok Cafe,50 mins,,"Snacks, Burgers",Malad Kan West,not_available,not_available
+Pratham Fast Food,49 mins,,Chinese,Jog Gor East,not_available,not_available
+Punjabi Meal Box,1.6 ,50,Indian,Estate Link Raod,not_available,not_available
+Doston,4 ,52,"North Indian, Biryani, Kebabs, Tandoor, Beverages",Malad Kan West,800,20
+ROYAL DAIRY,48 mins,,Beverages,Jog Gor East,not_available,not_available
+Rapid Bites,43 mins,,Snacks,Malad Kan East,not_available,not_available
+China Chopstick,3.7 ,54,"Chinese, Indian",Dahisar,not_available,not_available
+Creamy Cool,46 mins,,Beverages,Borivali,not_available,not_available
+Parsley- The Lounge,45 mins,,"Beverages, Chinese, Pastas",Malad Kan West,700,20
+Mamta's Kitchen,47 mins,,North Indian,Malad Kan West,not_available,not_available
+Xotik Cafe,4.3 ,44,"Beverages, Fast Food",Malad East,not_available,not_available
+Momo Marvels,4.4 ,50,"Tibetan, Pan-Asian",Aarey Road,not_available,not_available
+The Chinese Cook House,2.9 ,49,"Chinese, Thai, Fast Food",Malad Kan West,not_available,not_available
+YADAV SWEET MART,46 mins,,"Sweets, Snacks",Malad East,not_available,not_available
+Cafekino,3.3 ,56,"Snacks, Salads",Malad West,not_available,not_available
+Borivali Falooda Centre & Veg-Non Veg Centre,2.5 ,43,Indian,Dahisar East,not_available,not_available
+Bhakti's Cake Dreams,42 mins,,"Bakery, Desserts",Dahisar,not_available,not_available
+The Juice Tree,40 mins,,"Juices, Beverages",Malad Kan East,not_available,not_available
+Level Up Pizzeria,49 mins,,Pizzas,Malad Kan West,not_available,not_available
+Benglore Iyyengers Bakery,41 mins,,"Bakery, Desserts",Malad Kan West,not_available,not_available
+Cake O' City - The Ultimate Cake Stop,2.8 ,45,"Desserts, Beverages",Malad West,999,not_available
+Bombay 62,40 mins,,"Beverages, Snacks",Borivali,not_available,not_available
+Crocodile Resturant,55 mins,,Chinese,Jog Gor East,not_available,not_available
+Kasipuh,4.6 ,42,"Chinese, Snacks",Dahisar East,125,25
+Mastani Pavbhaji Centre,4.2 ,42,"Fast Food, Snacks",Kandivali West,not_available,not_available
+Konkan Bay,52 mins,,"Indian, Chinese, Biryani, Seafood, Thalis",Jog Gor East,not_available,not_available
+Saras Foods,46 mins,,"Indian, Chinese",Borivali,not_available,not_available
+Parmanand,4.1 ,46,"Street Food, North Indian, Chinese, Beverages, South Indian",Malad West,not_available,not_available
+Brioche,3.6 ,56,"Bakery, Snacks, Fast Food, Pizzas",Jog Gor East,800,10
+Vijayshree Icecream Amul Parlour,44 mins,,Ice Cream,Borivali,not_available,not_available
+Joey's Shawarma,45 mins,,"Arabian, Burgers, Snacks, Desserts",Malad Kan West,250,50
+Wok Of Fame,3.7 ,41,"Chinese, Snacks",Prabhu Udyog Bhavan,125,25
+D'Sandwicha & Snacks Corner,49 mins,,"Fast Food, Street Food, Chinese, Pizzas",Dahisar,not_available,not_available
+Celebration The Cake Shop,53 mins,,Bakery,Jog Gor East,not_available,not_available
+Apna SayBeen,40 mins,,Chinese,Borivali,not_available,not_available
+S M Special Falooda and Ice Cream,4.6 ,50,"Desserts, Ice Cream, Beverages",Jog Gor East,200,40
+Rajeshahi Bhog,49 mins,,"Indian, Snacks, Thalis",Jog Gor West,not_available,not_available
+Exotic - The Dining Bar,4.7 ,46,"Biryani, North Indian, Arabian, Pizzas, Chinese",Malad West,not_available,not_available
+Royal China town,3.4 ,50,"Chinese, Indian",Borivali,not_available,not_available
+D Sweet Cloud,42 mins,,"Bakery, Ice Cream",Borivali,not_available,not_available
+Shree Mahalaxmi Restaurant And Garden,2.9 ,52,"Chinese, Kebabs, Biryani",Mira Road,999,not_available
+Maratha Biryani Centre,43 mins,,"Chinese, North Indian, Biryani, Tandoor",Malad,not_available,not_available
+Hotel Sai shradha,3.9 ,40,"Snacks, Beverages",Kandivali West,not_available,not_available
+Absolute Biryani,4 ,43,"Biryani, North Indian",Borivali West,not_available,not_available
+Esora,2.7 ,49,Indian,Jog Gor East,not_available,not_available
+Forks & Spoons 51,48 mins,,"Burgers, Fast Food, Chinese, Pizzas, Beverages",Malad Kan East,not_available,not_available
+Eternal Bliss,4.1 ,49,"Bakery, Desserts, Beverages, Ice Cream",Goregaon,not_available,not_available
+Honeys Delights,55 mins,,Burgers,Malad Kan West,not_available,not_available
+Aniket Chinese,4.5 ,41,"Chinese, Snacks",Dahisar East,not_available,not_available
+Sannju's Kitchen,3 ,43,"Italian, Chinese",Borivali,not_available,not_available
+Hooch Restaurant,44 mins,,"Italian, Chinese, Salads, North Indian, Fast Food",Borivali,not_available,not_available
+Pizzarita By The Fusion Kitchen,4.2 ,45,"Italian, Pizzas",Borivali,not_available,not_available
+Brunchners,52 mins,,"Snacks, Burgers, Pizzas, Beverages",Jog Gor East,999,not_available
+Sai Annapurna,4.4 ,46,"Chinese, Indian, Biryani",Malad Kan West,not_available,not_available
+Nasta House,45 mins,,"North Indian, Beverages",Malad Kan West,not_available,not_available
+Masala Mumbai,3.7 ,40,Indian,Malad Kan East,100,20
+Bread Bowl Factory,51 mins,,"Indian, Continental",Malad Kan West,not_available,not_available
+Jizu - Pan Asian Delicacies,3.8 ,54,"Chinese, Thai, Oriental",Malad West,not_available,not_available
+Bombay Missal Company,3.8 ,42,"Snacks, Fast Food, Pizzas, Beverages",Malad,not_available,not_available
+BHANDIWADEKAR'S KITCHEN,42 mins,,"Maharashtrian, Snacks, Street Food, Desserts",Borivali,not_available,not_available
+Tea Home,47 mins,,Burgers,Borivali,not_available,not_available
+Bambbaiya Chinese,3.9 ,44,"Chinese, Oriental, Biryani",Borivali,not_available,not_available
+Sunny Dosas N Parathas,46 mins,,"South Indian, North Indian",Dahisar,not_available,not_available
+Goregaon Sports Club,45 mins,,"Pizzas, Desserts, Italian",Malad Kan West,not_available,not_available
+the dhaba by Geets Rasoi,4.1 ,46,"Chinese, Indian",Malad Kan West,not_available,not_available
+The Mocha House,4.2 ,61,"Beverages, Cafe, Snacks, Desserts",Kandivali (West),not_available,not_available
+103 Chinese Corner,43 mins,,"Chinese, South Indian, Indian",Borivali,not_available,not_available
+DAYANAND RESTAURANT AND BAR,42 mins,,"Indian, Biryani",Dahisar,not_available,not_available
+Ammo Ki Rasoi,55 mins,,Indian,Jog Gor East,not_available,not_available
+Waffle And Waffle,4.1 ,56,"Desserts, Beverages, Waffle",Dahisar West,not_available,not_available
+Jaya's Famous Sandwiches,49 mins,,"Chinese, Indian",Malad Kan West,not_available,not_available
+Fruitango Juices Shakes & Smoothies,40 mins,,"Beverages, Chinese, Snacks",Rawal Pada,not_available,not_available
+Fat Boy Food,49 mins,,"Chinese, Burgers, Waffle",Malad Kan West,not_available,not_available
+Double Door Lounge,42 mins,,"Chinese, Italian",Borivali,not_available,not_available
+Johny Wokker,4.9 ,54,"Chinese, Continental",Goregaon,not_available,not_available
+Lettuce-Global Veggies Cuisine,3.1 ,45,"Continental, Italian",Goregaon East,not_available,not_available
+I M Chinese Food Corner,37 mins,,"Chinese, Snacks",Dahisar,not_available,not_available
+Mr.D Misal Pav,44 mins,,Indian,Malad Kan West,not_available,not_available
+Tossin Pizza,4.2 ,25-35,"Pizzas, Italian, Beverages, Desserts",Malad West,100,50
+Louis Burger,4.4 ,48,"Burgers, American, Fast Food",BORIVALI WEST,249,not_available
+Goila Butter Chicken,4.1 ,55,"North Indian, Biryani, Kebabs, Desserts",Vithal Jadhav House,100,15
+SLYCE PIZZA,4.1 ,45,"Burgers, American, Fast Food",BORIVALI WEST,120,60
+Hotel Sagar,4.2 ,55,"Indian, Chinese",Mira Road,not_available,not_available
+Lord Petrick,4.3 ,51,"Burgers, Snacks, Italian, Desserts, Beverages",LINK HOUSE,not_available,not_available
+Hotel Konkan Swad,3.8 ,54,"North Indian, South Indian, Malwani, Chinese, Seafood",Chincholi Bunder Road,not_available,not_available
+British Waffle Co.,4.3 ,42,"Desserts, Beverages",Malad East,449,not_available
+Rogan Tadka,4.1 ,41,"North Indian, Chinese, Continental, Tandoor",Goregaon East,not_available,not_available
+Udupi Express,4.4 ,63,Indian,Kandivali West,not_available,not_available
+Prem's,4.4 ,46,"North Indian, Chinese, Thai, Indian, Mughlai, Biryani",Malad West,not_available,not_available
+Fleur : The Fern Hotel,4.4 ,60,"North Indian, Thai, Continental",Goregaon East,not_available,not_available
+Simran Biryani Centre,3.6 ,35,Biryani,Charkop,not_available,not_available
+Majestic Nx,4.5 ,56,Indian,Borivali West,not_available,not_available
+City Star,4.2 ,45,"North Indian, Chinese, Tandoor, Continental",Goregaon East,not_available,not_available
+Bansi Snacks,3.8 ,49,"Snacks, Chaat",Malad Kan West,not_available,not_available
+Mothers Touch Kathiyawadi,4.1 ,74,"Indian, Sweets, Beverages",Devrokarwadi New Link Road,999,not_available
+Sai Krupa,3.8 ,55,"Tandoor, Chinese",Goregaon,1000,10
+Bite-Size,4.1 ,49,"Salads, Healthy Food, Continental, Indian",Malad Kan West,not_available,not_available
+Peppy Parathas & Rolls By Chai Point,4.2 ,54,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi, Chaat, Indian, American, North Indian, Fast Food, Desserts, Cafe, Healthy Food, Home Food",Malad West,80,40
+Just Biryani,1.5 ,48,Biryani,Jog Gor East,not_available,not_available
+Kalinda,4 ,64,"Indian, Chinese",Malad West,not_available,not_available
+Bohoba,5 ,60,"Italian, Pizzas, Mexican, Continental, European, Mediterranean, Desserts",MALAD,not_available,not_available
+Chunkys Cake Shops,4.1 ,44,Bakery,Malad West,not_available,not_available
+LAXMI SWEETS AND FARSAN,4.3 ,32,"Sweets, Snacks",Dahisar East,not_available,not_available
+Grilled Chicken Company,3.6 ,54,"Continental, Healthy Food, American",Malad Kan West,not_available,not_available
+Aande Le Lo Cafe,4.7 ,67,French,Malad Kan West,not_available,not_available
+Biryani By Kalinda,4.1 ,58,"Biryani, Snacks",Malad Kan West,not_available,not_available
+Fill and Chill,3.2 ,63,Desserts,Malad West,not_available,not_available
+Sai Sannidhi Restaurant & Bar,4 ,57,"North Indian, Chinese, Seafood",Mira Road,not_available,not_available
+Chopstick house,3.3 ,66,"Indian, Tandoor, Thalis",Goregaon,not_available,not_available
+Just Rice,3.9 ,74,Indian,Malad West,150,30
+Flags Ii,4.2 ,61,"North Indian, Italian, Continental, Thai",Chincholi Bunder Signal,1500,10
+2 Pai cakes,52 mins,,"Bakery, Beverages",Jog Gor West,not_available,not_available
+Atharva's Cloud Kitchen,3.7 ,68,"Chinese, South Indian, Fast Food, North Indian, Ice Cream, Beverages, Biryani, Arabian",Santosh Nagar market ,599,not_available
+Mannrangi,4.4 ,70,"North Indian, Punjabi, Mughlai, Biryani, Kebabs, Goan",Goregaon West,not_available,not_available
+CST Delicious Food,3.9 ,72,"Chinese, Indian, Mughlai, Tandoor",Borivali West,not_available,not_available
+Bamboos,57 mins,,"Chinese, Snacks, North Indian, Desserts",Malad Kan West,not_available,not_available
+Dil Se Dalia,4.5 ,68,"Fast Food, North Indian",Malad West,150,30
+Warehouse Kitchen,4.3 ,57,"North Indian, Continental, Fast Food, Italian, Desserts",Malad West,not_available,not_available
+China Castle,3.7 ,71,"Chinese, North Indian",Jog Gor East,not_available,not_available
+Allspice,3.8 ,48,"North Indian, Chinese, Biryani, Tandoor",Kandivali west,700,20
+Poddar Cuisine,4.6 ,52,"Chinese, Biryani, Beverages",Malad Kan West,not_available,not_available
+JUG's Kitchen,4 ,48,"Indian, Lebanese, Mughlai, Chinese",Goregaon East,999,not_available
+Choco Magic Patisserie & Confectioners Studio,4.1 ,43,"Desserts, Beverages",Malad West,not_available,not_available
+Yogita Restaurant,3.9 ,58,"Indian, Chinese, Tandoor, Seafood",Malad Kan West,not_available,not_available
